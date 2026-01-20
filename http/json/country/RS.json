@@ -1,0 +1,19 @@
+[
+  {
+    "ip": "87.121.38.120",
+    "port": 3128,
+    "country": "RS",
+    "country_code": "RS",
+    "asn": 205007,
+    "isp": "Maxim Azarov trading as eServer",
+    "protocol": "http",
+    "speed_ms": "860.88",
+    "anonymity": "transparent",
+    "location": "Belgrade",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  }
+]

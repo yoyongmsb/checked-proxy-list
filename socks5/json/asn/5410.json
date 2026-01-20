@@ -1,0 +1,53 @@
+[
+  {
+    "ip": "152.53.171.242",
+    "port": 10053,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 5410,
+    "isp": "Bouygues Telecom SA",
+    "protocol": "socks5",
+    "speed_ms": "2497.45",
+    "anonymity": "elite",
+    "location": "Lucy",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 10099,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 5410,
+    "isp": "Bouygues Telecom SA",
+    "protocol": "socks5",
+    "speed_ms": "2678.40",
+    "anonymity": "elite",
+    "location": "Oullins",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 29755,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 5410,
+    "isp": "Bouygues Telecom SA",
+    "protocol": "socks5",
+    "speed_ms": "2261.33",
+    "anonymity": "elite",
+    "location": "Lyon",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

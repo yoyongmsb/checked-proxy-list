@@ -1,0 +1,124 @@
+[
+  {
+    "ip": "217.173.31.28",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 29194,
+    "isp": "MTS PJSC",
+    "protocol": "socks5",
+    "speed_ms": "1772.57",
+    "anonymity": "elite",
+    "location": "Kazan\u2019",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "217.76.39.4",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 16143,
+    "isp": "OOO NIIR-RadioNet",
+    "protocol": "socks5",
+    "speed_ms": "4713.01",
+    "anonymity": "elite",
+    "location": "Lyubuchany",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "195.98.82.63",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 6856,
+    "isp": "AO IK \"Informsvyaz-Chernozemye\"",
+    "protocol": "socks5",
+    "speed_ms": "4638.23",
+    "anonymity": "elite",
+    "location": "Novaya Usman'",
+    "valid_urls": []
+  },
+  {
+    "ip": "217.173.31.28",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 29194,
+    "isp": "MTS PJSC",
+    "protocol": "socks5",
+    "speed_ms": "1515.13",
+    "anonymity": "elite",
+    "location": "Kazan\u2019",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "195.98.82.63",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 6856,
+    "isp": "AO IK \"Informsvyaz-Chernozemye\"",
+    "protocol": "socks5",
+    "speed_ms": "4481.76",
+    "anonymity": "elite",
+    "location": "Novaya Usman'",
+    "valid_urls": []
+  },
+  {
+    "ip": "77.41.167.137",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 3216,
+    "isp": "PJSC \"Vimpelcom\"",
+    "protocol": "socks5",
+    "speed_ms": "1851.35",
+    "anonymity": "elite",
+    "location": "Moscow",
+    "valid_urls": [
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "176.114.199.202",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 50060,
+    "isp": "Annet Ltd.",
+    "protocol": "socks5",
+    "speed_ms": "1328.13",
+    "anonymity": "elite",
+    "location": "Tver'",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "31.43.194.184",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 56487,
+    "isp": "Sotrudnik LTD",
+    "protocol": "socks5",
+    "speed_ms": "1225.53",
+    "anonymity": "elite",
+    "location": "Biysk",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/"
+    ]
+  }
+]

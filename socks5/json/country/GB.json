@@ -1,0 +1,282 @@
+[
+  {
+    "ip": "152.53.171.242",
+    "port": 11730,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 5607,
+    "isp": "Sky UK Limited",
+    "protocol": "socks5",
+    "speed_ms": "2851.29",
+    "anonymity": "elite",
+    "location": "Kirkhamgate",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 11755,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 5089,
+    "isp": "Virgin Media Limited",
+    "protocol": "socks5",
+    "speed_ms": "3320.01",
+    "anonymity": "elite",
+    "location": "Newtownabbey",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 59759,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 5378,
+    "isp": "Vodafone Limited",
+    "protocol": "socks5",
+    "speed_ms": "2329.16",
+    "anonymity": "elite",
+    "location": "Wombwell",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 24987,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 13285,
+    "isp": "TalkTalk Communications Limited",
+    "protocol": "socks5",
+    "speed_ms": "2053.70",
+    "anonymity": "elite",
+    "location": "Blackpool",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "194.163.167.32",
+    "port": 1080,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 51167,
+    "isp": "Contabo GmbH",
+    "protocol": "socks5",
+    "speed_ms": "1611.61",
+    "anonymity": "elite",
+    "location": "London",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 12627,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 5089,
+    "isp": "Virgin Media Limited",
+    "protocol": "socks5",
+    "speed_ms": "2436.15",
+    "anonymity": "elite",
+    "location": "Coventry",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "178.62.116.7",
+    "port": 1080,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "1215.93",
+    "anonymity": "elite",
+    "location": "London",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 53105,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 201838,
+    "isp": "Community Fibre Limited",
+    "protocol": "socks5",
+    "speed_ms": "2802.33",
+    "anonymity": "elite",
+    "location": "Wallington",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 59245,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 5607,
+    "isp": "Sky UK Limited",
+    "protocol": "socks5",
+    "speed_ms": "2285.25",
+    "anonymity": "elite",
+    "location": "Goodmayes",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 18888,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 2856,
+    "isp": "British Telecommunications PLC",
+    "protocol": "socks5",
+    "speed_ms": "1943.51",
+    "anonymity": "elite",
+    "location": "Whitchurch",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 20737,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 2856,
+    "isp": "British Telecommunications PLC",
+    "protocol": "socks5",
+    "speed_ms": "2018.97",
+    "anonymity": "elite",
+    "location": "Brockley",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "194.163.167.32",
+    "port": 1080,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 51167,
+    "isp": "Contabo GmbH",
+    "protocol": "socks5",
+    "speed_ms": "1131.53",
+    "anonymity": "elite",
+    "location": "London",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "178.62.116.7",
+    "port": 1080,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "793.61",
+    "anonymity": "elite",
+    "location": "London",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 20159,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 5607,
+    "isp": "Sky UK Limited",
+    "protocol": "socks5",
+    "speed_ms": "2025.85",
+    "anonymity": "elite",
+    "location": "Telford",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 14829,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 2856,
+    "isp": "British Telecommunications PLC",
+    "protocol": "socks5",
+    "speed_ms": "1788.69",
+    "anonymity": "elite",
+    "location": "Basford",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

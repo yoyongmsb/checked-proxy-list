@@ -1,0 +1,41 @@
+[
+  {
+    "ip": "12.50.107.217",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 7018,
+    "isp": "AT&T Enterprises, LLC",
+    "protocol": "http",
+    "speed_ms": "1665.89",
+    "anonymity": "anonymous",
+    "location": "Weston",
+    "valid_urls": []
+  },
+  {
+    "ip": "12.50.107.220",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 7018,
+    "isp": "AT&T Enterprises, LLC",
+    "protocol": "http",
+    "speed_ms": "1484.03",
+    "anonymity": "anonymous",
+    "location": "Weston",
+    "valid_urls": []
+  },
+  {
+    "ip": "12.50.107.221",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 7018,
+    "isp": "AT&T Enterprises, LLC",
+    "protocol": "http",
+    "speed_ms": "4087.69",
+    "anonymity": "anonymous",
+    "location": "Weston",
+    "valid_urls": []
+  }
+]

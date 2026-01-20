@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "212.114.194.72",
+    "port": 80,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 3209,
+    "isp": "Vodafone GmbH",
+    "protocol": "http",
+    "speed_ms": "1798.67",
+    "anonymity": "anonymous",
+    "location": "Immenstadt im Allgau",
+    "valid_urls": []
+  },
+  {
+    "ip": "212.114.194.78",
+    "port": 80,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 3209,
+    "isp": "Vodafone GmbH",
+    "protocol": "http",
+    "speed_ms": "1860.64",
+    "anonymity": "anonymous",
+    "location": "Immenstadt im Allgau",
+    "valid_urls": []
+  }
+]

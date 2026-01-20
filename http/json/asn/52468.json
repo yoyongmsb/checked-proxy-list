@@ -1,0 +1,30 @@
+[
+  {
+    "ip": "181.78.194.249",
+    "port": 999,
+    "country": "EC",
+    "country_code": "EC",
+    "asn": 52468,
+    "isp": "UFINET PANAMA S.A.",
+    "protocol": "http",
+    "speed_ms": "4035.17",
+    "anonymity": "transparent",
+    "location": "Milagro",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "177.234.244.173",
+    "port": 999,
+    "country": "EC",
+    "country_code": "EC",
+    "asn": 52468,
+    "isp": "UFINET PANAMA S.A.",
+    "protocol": "http",
+    "speed_ms": "2336.51",
+    "anonymity": "transparent",
+    "location": "Babahoyo",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "ip": "103.3.246.71",
+    "port": 3128,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135967,
+    "isp": "Bach Kim Network solutions Join stock company",
+    "protocol": "http",
+    "speed_ms": "5644.16",
+    "anonymity": "transparent",
+    "location": "Quan Tan Phu",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "103.3.246.71",
+    "port": 3128,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135967,
+    "isp": "Bach Kim Network solutions Join stock company",
+    "protocol": "http",
+    "speed_ms": "5612.94",
+    "anonymity": "transparent",
+    "location": "Quan Tan Phu",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/"
+    ]
+  }
+]

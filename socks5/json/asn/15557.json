@@ -1,0 +1,89 @@
+[
+  {
+    "ip": "152.53.171.242",
+    "port": 14901,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 15557,
+    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
+    "protocol": "socks5",
+    "speed_ms": "2753.68",
+    "anonymity": "elite",
+    "location": "Afa",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 19571,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 15557,
+    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
+    "protocol": "socks5",
+    "speed_ms": "2682.33",
+    "anonymity": "elite",
+    "location": "Saint-Sebastien-sur-Loire",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 55307,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 15557,
+    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
+    "protocol": "socks5",
+    "speed_ms": "2791.27",
+    "anonymity": "elite",
+    "location": "Combourg",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 21323,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 15557,
+    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
+    "protocol": "socks5",
+    "speed_ms": "1715.55",
+    "anonymity": "elite",
+    "location": "Mondeville",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 15813,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 15557,
+    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
+    "protocol": "socks5",
+    "speed_ms": "2649.72",
+    "anonymity": "elite",
+    "location": "Roissy-en-Brie",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

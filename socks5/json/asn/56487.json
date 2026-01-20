@@ -1,0 +1,19 @@
+[
+  {
+    "ip": "31.43.194.184",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 56487,
+    "isp": "Sotrudnik LTD",
+    "protocol": "socks5",
+    "speed_ms": "1225.53",
+    "anonymity": "elite",
+    "location": "Biysk",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/"
+    ]
+  }
+]

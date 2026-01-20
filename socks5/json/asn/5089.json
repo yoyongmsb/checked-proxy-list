@@ -1,0 +1,35 @@
+[
+  {
+    "ip": "152.53.171.242",
+    "port": 11755,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 5089,
+    "isp": "Virgin Media Limited",
+    "protocol": "socks5",
+    "speed_ms": "3320.01",
+    "anonymity": "elite",
+    "location": "Newtownabbey",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 12627,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 5089,
+    "isp": "Virgin Media Limited",
+    "protocol": "socks5",
+    "speed_ms": "2436.15",
+    "anonymity": "elite",
+    "location": "Coventry",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

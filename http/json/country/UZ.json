@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "195.158.10.99",
+    "port": 8080,
+    "country": "UZ",
+    "country_code": "UZ",
+    "asn": 8193,
+    "isp": "\"Uzbektelekom\" Joint Stock Company",
+    "protocol": "http",
+    "speed_ms": "1525.47",
+    "anonymity": "transparent",
+    "location": "Tashkent",
+    "valid_urls": [
+      "https://www.reddit.com/"
+    ]
+  }
+]

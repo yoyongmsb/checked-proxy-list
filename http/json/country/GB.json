@@ -1,0 +1,41 @@
+[
+  {
+    "ip": "38.60.196.214",
+    "port": 80,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 138915,
+    "isp": "Kaopu Cloud HK Limited",
+    "protocol": "http",
+    "speed_ms": "4269.63",
+    "anonymity": "elite",
+    "location": "London",
+    "valid_urls": []
+  },
+  {
+    "ip": "188.40.57.101",
+    "port": 80,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 174,
+    "isp": "Cogent Communications",
+    "protocol": "http",
+    "speed_ms": "3587.24",
+    "anonymity": "elite",
+    "location": "Girton",
+    "valid_urls": []
+  },
+  {
+    "ip": "157.245.40.210",
+    "port": 80,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "801.74",
+    "anonymity": "elite",
+    "location": "London",
+    "valid_urls": []
+  }
+]

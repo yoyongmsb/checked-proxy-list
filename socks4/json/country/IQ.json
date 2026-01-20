@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "176.241.82.149",
+    "port": 5678,
+    "country": "IQ",
+    "country_code": "IQ",
+    "asn": 57588,
+    "isp": "Hayat for Internet & communication LLC",
+    "protocol": "socks4",
+    "speed_ms": "1307.73",
+    "anonymity": "elite",
+    "location": "Baghdad",
+    "valid_urls": []
+  }
+]

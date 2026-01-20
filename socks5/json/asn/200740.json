@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "185.94.165.252",
+    "port": 9002,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 200740,
+    "isp": "FIRST SERVER LIMITED",
+    "protocol": "socks5",
+    "speed_ms": "2017.75",
+    "anonymity": "elite",
+    "location": "Amsterdam",
+    "valid_urls": []
+  }
+]

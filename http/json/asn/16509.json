@@ -1,0 +1,38 @@
+[
+  {
+    "ip": "177.71.224.87",
+    "port": 3128,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "1802.13",
+    "anonymity": "anonymous",
+    "location": "Sao Paulo",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "177.71.224.87",
+    "port": 3128,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "1019.37",
+    "anonymity": "anonymous",
+    "location": "Sao Paulo",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "ip": "152.53.171.242",
+    "port": 39585,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 5769,
+    "isp": "Videotron Ltee",
+    "protocol": "socks5",
+    "speed_ms": "2837.44",
+    "anonymity": "elite",
+    "location": "Montreal (Rosemont\u2014La Petite-Patrie)",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 21705,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 11290,
+    "isp": "Cogeco Connexion inc",
+    "protocol": "socks5",
+    "speed_ms": "2326.84",
+    "anonymity": "elite",
+    "location": "Plessisville",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 24813,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 577,
+    "isp": "Bell Canada",
+    "protocol": "socks5",
+    "speed_ms": "1957.47",
+    "anonymity": "elite",
+    "location": "Saint-Felicien",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 17473,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 812,
+    "isp": "Rogers Communications Canada Inc.",
+    "protocol": "socks5",
+    "speed_ms": "2259.37",
+    "anonymity": "elite",
+    "location": "Tottenham",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "143.110.217.153",
+    "port": 1080,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "2406.05",
+    "anonymity": "elite",
+    "location": "Barrie",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 39979,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 5769,
+    "isp": "Videotron Ltee",
+    "protocol": "socks5",
+    "speed_ms": "1571.78",
+    "anonymity": "elite",
+    "location": "Montreal (Rosemont\u2014La Petite-Patrie)",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 16167,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 812,
+    "isp": "Rogers Communications Canada Inc.",
+    "protocol": "socks5",
+    "speed_ms": "1768.06",
+    "anonymity": "elite",
+    "location": "Toronto (Old Toronto)",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 13141,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 5769,
+    "isp": "Videotron Ltee",
+    "protocol": "socks5",
+    "speed_ms": "2219.94",
+    "anonymity": "elite",
+    "location": "Rigaud",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "143.110.217.153",
+    "port": 1080,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "1179.32",
+    "anonymity": "elite",
+    "location": "Barrie",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  }
+]

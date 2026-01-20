@@ -1,0 +1,19 @@
+[
+  {
+    "ip": "152.53.171.242",
+    "port": 59759,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 5378,
+    "isp": "Vodafone Limited",
+    "protocol": "socks5",
+    "speed_ms": "2329.16",
+    "anonymity": "elite",
+    "location": "Wombwell",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  }
+]

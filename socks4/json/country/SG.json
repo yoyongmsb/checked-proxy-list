@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "23.249.27.167",
+    "port": 10808,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 400618,
+    "isp": "Prime Security Corp.",
+    "protocol": "socks4",
+    "speed_ms": "1561.96",
+    "anonymity": "elite",
+    "location": "Singapore",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  }
+]

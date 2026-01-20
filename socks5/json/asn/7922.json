@@ -1,0 +1,56 @@
+[
+  {
+    "ip": "152.53.171.242",
+    "port": 18777,
+    "country": "US",
+    "country_code": "US",
+    "asn": 7922,
+    "isp": "Comcast Cable Communications, LLC",
+    "protocol": "socks5",
+    "speed_ms": "2233.80",
+    "anonymity": "elite",
+    "location": "Branford",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 24703,
+    "country": "US",
+    "country_code": "US",
+    "asn": 7922,
+    "isp": "Comcast Cable Communications, LLC",
+    "protocol": "socks5",
+    "speed_ms": "1583.73",
+    "anonymity": "elite",
+    "location": "Boston (West Roxbury)",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 44109,
+    "country": "US",
+    "country_code": "US",
+    "asn": 7922,
+    "isp": "Comcast Cable Communications, LLC",
+    "protocol": "socks5",
+    "speed_ms": "1284.94",
+    "anonymity": "elite",
+    "location": "Baltimore (Reisterstown Station)",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.instagram.com/"
+    ]
+  }
+]

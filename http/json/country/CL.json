@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "45.225.207.183",
+    "port": 999,
+    "country": "CL",
+    "country_code": "CL",
+    "asn": 274099,
+    "isp": "VALLENET SPA",
+    "protocol": "http",
+    "speed_ms": "3254.12",
+    "anonymity": "transparent",
+    "location": "Santiago",
+    "valid_urls": []
+  }
+]

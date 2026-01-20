@@ -1,0 +1,41 @@
+[
+  {
+    "ip": "185.83.182.197",
+    "port": 80,
+    "country": "AE",
+    "country_code": "AE",
+    "asn": 199524,
+    "isp": "G-Core Labs S.A.",
+    "protocol": "http",
+    "speed_ms": "3221.92",
+    "anonymity": "anonymous",
+    "location": "Bani Yas City",
+    "valid_urls": []
+  },
+  {
+    "ip": "47.91.104.88",
+    "port": 3128,
+    "country": "AE",
+    "country_code": "AE",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1379.78",
+    "anonymity": "transparent",
+    "location": "Dubai",
+    "valid_urls": []
+  },
+  {
+    "ip": "47.91.104.88",
+    "port": 3128,
+    "country": "AE",
+    "country_code": "AE",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1177.22",
+    "anonymity": "transparent",
+    "location": "Dubai",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "186.251.253.53",
+    "port": 31337,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 267513,
+    "isp": "Seanet Telecom Carazinho Eireli",
+    "protocol": "socks4",
+    "speed_ms": "970.19",
+    "anonymity": "elite",
+    "location": "Carazinho",
+    "valid_urls": []
+  }
+]

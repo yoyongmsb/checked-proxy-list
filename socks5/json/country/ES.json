@@ -1,0 +1,106 @@
+[
+  {
+    "ip": "152.53.171.242",
+    "port": 14365,
+    "country": "ES",
+    "country_code": "ES",
+    "asn": 12479,
+    "isp": "Orange Espagne SA",
+    "protocol": "socks5",
+    "speed_ms": "2686.25",
+    "anonymity": "elite",
+    "location": "Las Rozas de Madrid",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 22815,
+    "country": "ES",
+    "country_code": "ES",
+    "asn": 12479,
+    "isp": "Orange Espagne SA",
+    "protocol": "socks5",
+    "speed_ms": "2496.54",
+    "anonymity": "elite",
+    "location": "Madrid",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 24067,
+    "country": "ES",
+    "country_code": "ES",
+    "asn": 12479,
+    "isp": "Orange Espagne SA",
+    "protocol": "socks5",
+    "speed_ms": "2252.45",
+    "anonymity": "elite",
+    "location": "Madrid",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 30831,
+    "country": "ES",
+    "country_code": "ES",
+    "asn": 12479,
+    "isp": "Orange Espagne SA",
+    "protocol": "socks5",
+    "speed_ms": "2873.48",
+    "anonymity": "elite",
+    "location": "Villanueva de la Canada",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 54379,
+    "country": "ES",
+    "country_code": "ES",
+    "asn": 205715,
+    "isp": "Fitel Network S.L.",
+    "protocol": "socks5",
+    "speed_ms": "2720.63",
+    "anonymity": "elite",
+    "location": "Lloret de Mar",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 13295,
+    "country": "ES",
+    "country_code": "ES",
+    "asn": 12479,
+    "isp": "Orange Espagne SA",
+    "protocol": "socks5",
+    "speed_ms": "1683.47",
+    "anonymity": "elite",
+    "location": "Alhaurin de la Torre",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

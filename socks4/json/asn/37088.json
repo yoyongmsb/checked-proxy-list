@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "41.216.169.82",
+    "port": 5678,
+    "country": "NG",
+    "country_code": "NG",
+    "asn": 37088,
+    "isp": "VDT COMMUNICATIONS LIMITED",
+    "protocol": "socks4",
+    "speed_ms": "1010.72",
+    "anonymity": "elite",
+    "location": "Obalende",
+    "valid_urls": []
+  }
+]

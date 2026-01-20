@@ -1,0 +1,74 @@
+[
+  {
+    "ip": "177.71.224.87",
+    "port": 3128,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "1802.13",
+    "anonymity": "anonymous",
+    "location": "Sao Paulo",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "200.174.198.32",
+    "port": 8888,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 4230,
+    "isp": "CLARO S.A.",
+    "protocol": "http",
+    "speed_ms": "6446.58",
+    "anonymity": "anonymous",
+    "location": "Estacio",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "177.71.224.87",
+    "port": 3128,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "1019.37",
+    "anonymity": "anonymous",
+    "location": "Sao Paulo",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "200.174.198.32",
+    "port": 8888,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 4230,
+    "isp": "CLARO S.A.",
+    "protocol": "http",
+    "speed_ms": "2734.15",
+    "anonymity": "anonymous",
+    "location": "Estacio",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

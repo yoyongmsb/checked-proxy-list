@@ -1,0 +1,19 @@
+[
+  {
+    "ip": "41.223.119.156",
+    "port": 3128,
+    "country": "ZM",
+    "country_code": "ZM",
+    "asn": 36962,
+    "isp": "MTN Zambia",
+    "protocol": "http",
+    "speed_ms": "2197.79",
+    "anonymity": "transparent",
+    "location": "Palabana",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

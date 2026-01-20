@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "12.11.59.114",
+    "port": 1080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 7018,
+    "isp": "AT&T Enterprises, LLC",
+    "protocol": "socks4",
+    "speed_ms": "407.41",
+    "anonymity": "elite",
+    "location": "Rocky Mount (Golden East)",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/"
+    ]
+  }
+]

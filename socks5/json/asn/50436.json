@@ -1,0 +1,20 @@
+[
+  {
+    "ip": "152.53.171.242",
+    "port": 36337,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 50436,
+    "isp": "Tele Columbus AG",
+    "protocol": "socks5",
+    "speed_ms": "2630.08",
+    "anonymity": "elite",
+    "location": "Berlin (Bezirk Mitte)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

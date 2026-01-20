@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "82.223.165.28",
+    "port": 4733,
+    "country": "ES",
+    "country_code": "ES",
+    "asn": 8560,
+    "isp": "IONOS SE",
+    "protocol": "socks4",
+    "speed_ms": "3638.01",
+    "anonymity": "elite",
+    "location": "Madrid",
+    "valid_urls": []
+  }
+]

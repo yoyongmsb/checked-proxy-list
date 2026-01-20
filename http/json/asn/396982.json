@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "34.14.143.185",
+    "port": 3128,
+    "country": "IN",
+    "country_code": "IN",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "http",
+    "speed_ms": "3905.80",
+    "anonymity": "anonymous",
+    "location": "Mumbai",
+    "valid_urls": []
+  },
+  {
+    "ip": "34.14.143.185",
+    "port": 3128,
+    "country": "IN",
+    "country_code": "IN",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "http",
+    "speed_ms": "3772.72",
+    "anonymity": "anonymous",
+    "location": "Mumbai",
+    "valid_urls": []
+  }
+]

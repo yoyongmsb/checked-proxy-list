@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "41.65.71.136",
+    "port": 1976,
+    "country": "EG",
+    "country_code": "EG",
+    "asn": 36992,
+    "isp": "ETISALAT MISR",
+    "protocol": "http",
+    "speed_ms": "3755.02",
+    "anonymity": "transparent",
+    "location": "Samannud",
+    "valid_urls": []
+  }
+]

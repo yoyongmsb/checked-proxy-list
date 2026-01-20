@@ -1,0 +1,34 @@
+[
+  {
+    "ip": "110.235.255.252",
+    "port": 1080,
+    "country": "KH",
+    "country_code": "KH",
+    "asn": 23673,
+    "isp": "COGETEL Co., Ltd",
+    "protocol": "socks5",
+    "speed_ms": "5888.66",
+    "anonymity": "elite",
+    "location": "Phnom Penh",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "124.248.189.223",
+    "port": 1080,
+    "country": "KH",
+    "country_code": "KH",
+    "asn": 23673,
+    "isp": "COGETEL Co., Ltd",
+    "protocol": "socks5",
+    "speed_ms": "2707.87",
+    "anonymity": "elite",
+    "location": "Battambang",
+    "valid_urls": [
+      "https://www.instagram.com/"
+    ]
+  }
+]

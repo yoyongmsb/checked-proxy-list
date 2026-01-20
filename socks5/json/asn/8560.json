@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "217.154.207.198",
+    "port": 1080,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 8560,
+    "isp": "IONOS SE",
+    "protocol": "socks5",
+    "speed_ms": "952.35",
+    "anonymity": "elite",
+    "location": "Berlin",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  }
+]

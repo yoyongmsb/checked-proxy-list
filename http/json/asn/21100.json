@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "193.106.150.70",
+    "port": 1080,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 21100,
+    "isp": "GREEN FLOID LLC",
+    "protocol": "http",
+    "speed_ms": "2006.19",
+    "anonymity": "elite",
+    "location": "Amsterdam",
+    "valid_urls": []
+  }
+]

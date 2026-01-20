@@ -1,0 +1,19 @@
+[
+  {
+    "ip": "202.53.172.189",
+    "port": 1127,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 23923,
+    "isp": "Agni Systems Limited",
+    "protocol": "http",
+    "speed_ms": "3182.14",
+    "anonymity": "transparent",
+    "location": "Dhaka (Gulshan)",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/"
+    ]
+  }
+]

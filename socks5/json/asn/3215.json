@@ -1,0 +1,72 @@
+[
+  {
+    "ip": "152.53.171.242",
+    "port": 17071,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 3215,
+    "isp": "Orange S.A.",
+    "protocol": "socks5",
+    "speed_ms": "3056.47",
+    "anonymity": "elite",
+    "location": "Marseille 11",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 49757,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 3215,
+    "isp": "Orange S.A.",
+    "protocol": "socks5",
+    "speed_ms": "2610.15",
+    "anonymity": "elite",
+    "location": "Cappelle-la-Grande",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 12305,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 3215,
+    "isp": "Orange S.A.",
+    "protocol": "socks5",
+    "speed_ms": "2908.30",
+    "anonymity": "elite",
+    "location": "Lyon",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 35563,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 3215,
+    "isp": "Orange S.A.",
+    "protocol": "socks5",
+    "speed_ms": "1913.86",
+    "anonymity": "elite",
+    "location": "Neuilly-sur-Marne",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

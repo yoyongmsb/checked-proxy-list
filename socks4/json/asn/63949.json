@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "45.79.203.254",
+    "port": 48388,
+    "country": "US",
+    "country_code": "US",
+    "asn": 63949,
+    "isp": "Akamai Technologies, Inc.",
+    "protocol": "socks4",
+    "speed_ms": "2302.10",
+    "anonymity": "elite",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/"
+    ]
+  }
+]

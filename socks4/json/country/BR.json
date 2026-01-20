@@ -1,0 +1,31 @@
+[
+  {
+    "ip": "186.251.253.53",
+    "port": 31337,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 267513,
+    "isp": "Seanet Telecom Carazinho Eireli",
+    "protocol": "socks4",
+    "speed_ms": "970.19",
+    "anonymity": "elite",
+    "location": "Carazinho",
+    "valid_urls": []
+  },
+  {
+    "ip": "45.172.202.84",
+    "port": 1080,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 268824,
+    "isp": "CONNECTMAX TELECOM",
+    "protocol": "socks4",
+    "speed_ms": "3802.85",
+    "anonymity": "elite",
+    "location": "Biritiba Mirim",
+    "valid_urls": [
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

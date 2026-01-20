@@ -1,0 +1,56 @@
+[
+  {
+    "ip": "152.53.171.242",
+    "port": 11730,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 5607,
+    "isp": "Sky UK Limited",
+    "protocol": "socks5",
+    "speed_ms": "2851.29",
+    "anonymity": "elite",
+    "location": "Kirkhamgate",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 59245,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 5607,
+    "isp": "Sky UK Limited",
+    "protocol": "socks5",
+    "speed_ms": "2285.25",
+    "anonymity": "elite",
+    "location": "Goodmayes",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 20159,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 5607,
+    "isp": "Sky UK Limited",
+    "protocol": "socks5",
+    "speed_ms": "2025.85",
+    "anonymity": "elite",
+    "location": "Telford",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

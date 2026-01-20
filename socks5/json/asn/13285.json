@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "152.53.171.242",
+    "port": 24987,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 13285,
+    "isp": "TalkTalk Communications Limited",
+    "protocol": "socks5",
+    "speed_ms": "2053.70",
+    "anonymity": "elite",
+    "location": "Blackpool",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

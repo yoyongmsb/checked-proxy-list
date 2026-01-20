@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "91.132.92.231",
+    "port": 80,
+    "country": "DK",
+    "country_code": "DK",
+    "asn": 9009,
+    "isp": "M247 Europe SRL",
+    "protocol": "http",
+    "speed_ms": "1501.41",
+    "anonymity": "elite",
+    "location": "Brondby Strand",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "45.230.170.30",
+    "port": 999,
+    "country": "VE",
+    "country_code": "VE",
+    "asn": 266742,
+    "isp": "SOLUCIONES DCN NETWORK C.A",
+    "protocol": "http",
+    "speed_ms": "2413.62",
+    "anonymity": "transparent",
+    "location": "Petare",
+    "valid_urls": [
+      "https://www.reddit.com/"
+    ]
+  }
+]

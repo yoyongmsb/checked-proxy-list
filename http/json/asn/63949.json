@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "172.237.73.24",
+    "port": 80,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 63949,
+    "isp": "Akamai Technologies, Inc.",
+    "protocol": "http",
+    "speed_ms": "2434.63",
+    "anonymity": "elite",
+    "location": "Singapore (Somapah)",
+    "valid_urls": []
+  },
+  {
+    "ip": "172.237.73.24",
+    "port": 80,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 63949,
+    "isp": "Akamai Technologies, Inc.",
+    "protocol": "http",
+    "speed_ms": "2102.92",
+    "anonymity": "elite",
+    "location": "Singapore (Somapah)",
+    "valid_urls": []
+  }
+]

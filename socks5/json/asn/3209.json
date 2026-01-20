@@ -1,0 +1,20 @@
+[
+  {
+    "ip": "152.53.171.242",
+    "port": 56109,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 3209,
+    "isp": "Vodafone GmbH",
+    "protocol": "socks5",
+    "speed_ms": "2855.37",
+    "anonymity": "elite",
+    "location": "Pirna",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "ip": "34.83.88.197",
+    "port": 80,
+    "country": "Unknown",
+    "country_code": "Unknown",
+    "asn": "Unknown",
+    "isp": "Unknown",
+    "protocol": "http",
+    "speed_ms": "1717.08",
+    "anonymity": "elite",
+    "location": "Unknown",
+    "valid_urls": []
+  },
+  {
+    "ip": "34.136.200.110",
+    "port": 80,
+    "country": "Unknown",
+    "country_code": "Unknown",
+    "asn": "Unknown",
+    "isp": "Unknown",
+    "protocol": "http",
+    "speed_ms": "679.68",
+    "anonymity": "elite",
+    "location": "Unknown",
+    "valid_urls": []
+  },
+  {
+    "ip": "34.127.40.229",
+    "port": 80,
+    "country": "Unknown",
+    "country_code": "Unknown",
+    "asn": "Unknown",
+    "isp": "Unknown",
+    "protocol": "http",
+    "speed_ms": "637.55",
+    "anonymity": "elite",
+    "location": "Unknown",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "176.114.199.202",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 50060,
+    "isp": "Annet Ltd.",
+    "protocol": "socks5",
+    "speed_ms": "1328.13",
+    "anonymity": "elite",
+    "location": "Tver'",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  }
+]

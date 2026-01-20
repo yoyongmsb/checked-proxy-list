@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "154.43.62.22",
+    "port": 80,
+    "country": "RO",
+    "country_code": "RO",
+    "asn": 43376,
+    "isp": "DOTRO TELECOM SRL",
+    "protocol": "http",
+    "speed_ms": "2120.74",
+    "anonymity": "elite",
+    "location": "Voluntari",
+    "valid_urls": []
+  }
+]

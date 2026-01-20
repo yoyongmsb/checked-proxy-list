@@ -1,0 +1,30 @@
+[
+  {
+    "ip": "103.162.184.251",
+    "port": 1088,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 141729,
+    "isp": "Dupchanchia Online",
+    "protocol": "socks4",
+    "speed_ms": "4876.09",
+    "anonymity": "elite",
+    "location": "Naogaon",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "202.74.48.66",
+    "port": 1088,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 58890,
+    "isp": "InfoLink",
+    "protocol": "socks4",
+    "speed_ms": "1444.81",
+    "anonymity": "elite",
+    "location": "Dhaka",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "185.191.212.40",
+    "port": 8081,
+    "country": "KZ",
+    "country_code": "KZ",
+    "asn": 58172,
+    "isp": "Freedom Data Centers LLP",
+    "protocol": "http",
+    "speed_ms": "4657.21",
+    "anonymity": "elite",
+    "location": "Almaty",
+    "valid_urls": []
+  }
+]

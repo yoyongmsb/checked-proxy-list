@@ -1,0 +1,84 @@
+[
+  {
+    "ip": "113.212.111.4",
+    "port": 80,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 136224,
+    "isp": "City Online Ltd.",
+    "protocol": "http",
+    "speed_ms": "1907.67",
+    "anonymity": "anonymous",
+    "location": "Tongi",
+    "valid_urls": []
+  },
+  {
+    "ip": "59.153.100.98",
+    "port": 80,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 134732,
+    "isp": "Dot Internet",
+    "protocol": "http",
+    "speed_ms": "1772.97",
+    "anonymity": "anonymous",
+    "location": "Dhaka (Mohammadpur)",
+    "valid_urls": []
+  },
+  {
+    "ip": "103.125.31.222",
+    "port": 80,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 138418,
+    "isp": "City Link Communication",
+    "protocol": "http",
+    "speed_ms": "1889.74",
+    "anonymity": "anonymous",
+    "location": "Narayanganj",
+    "valid_urls": []
+  },
+  {
+    "ip": "202.53.172.189",
+    "port": 1127,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 23923,
+    "isp": "Agni Systems Limited",
+    "protocol": "http",
+    "speed_ms": "3182.14",
+    "anonymity": "transparent",
+    "location": "Dhaka (Gulshan)",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "103.125.31.222",
+    "port": 80,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 138418,
+    "isp": "City Link Communication",
+    "protocol": "http",
+    "speed_ms": "1504.86",
+    "anonymity": "anonymous",
+    "location": "Narayanganj",
+    "valid_urls": []
+  },
+  {
+    "ip": "113.212.111.4",
+    "port": 80,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 136224,
+    "isp": "City Online Ltd.",
+    "protocol": "http",
+    "speed_ms": "1200.67",
+    "anonymity": "anonymous",
+    "location": "Tongi",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "ip": "152.53.171.242",
+    "port": 18081,
+    "country": "US",
+    "country_code": "US",
+    "asn": 11426,
+    "isp": "Charter Communications Inc",
+    "protocol": "socks5",
+    "speed_ms": "2422.52",
+    "anonymity": "elite",
+    "location": "Matthews",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  }
+]

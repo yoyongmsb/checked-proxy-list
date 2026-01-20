@@ -1,0 +1,38 @@
+[
+  {
+    "ip": "152.53.171.242",
+    "port": 20587,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14593,
+    "isp": "Space Exploration Technologies Corporation",
+    "protocol": "socks5",
+    "speed_ms": "2484.97",
+    "anonymity": "elite",
+    "location": "Hawthorne",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 32067,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14593,
+    "isp": "Space Exploration Technologies Corporation",
+    "protocol": "socks5",
+    "speed_ms": "3667.79",
+    "anonymity": "elite",
+    "location": "Hawthorne",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/"
+    ]
+  }
+]

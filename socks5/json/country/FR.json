@@ -1,0 +1,262 @@
+[
+  {
+    "ip": "152.53.171.242",
+    "port": 10053,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 5410,
+    "isp": "Bouygues Telecom SA",
+    "protocol": "socks5",
+    "speed_ms": "2497.45",
+    "anonymity": "elite",
+    "location": "Lucy",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 17071,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 3215,
+    "isp": "Orange S.A.",
+    "protocol": "socks5",
+    "speed_ms": "3056.47",
+    "anonymity": "elite",
+    "location": "Marseille 11",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 49757,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 3215,
+    "isp": "Orange S.A.",
+    "protocol": "socks5",
+    "speed_ms": "2610.15",
+    "anonymity": "elite",
+    "location": "Cappelle-la-Grande",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 10099,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 5410,
+    "isp": "Bouygues Telecom SA",
+    "protocol": "socks5",
+    "speed_ms": "2678.40",
+    "anonymity": "elite",
+    "location": "Oullins",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 12305,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 3215,
+    "isp": "Orange S.A.",
+    "protocol": "socks5",
+    "speed_ms": "2908.30",
+    "anonymity": "elite",
+    "location": "Lyon",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 14901,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 15557,
+    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
+    "protocol": "socks5",
+    "speed_ms": "2753.68",
+    "anonymity": "elite",
+    "location": "Afa",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 16929,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 12322,
+    "isp": "Free SAS",
+    "protocol": "socks5",
+    "speed_ms": "2498.85",
+    "anonymity": "elite",
+    "location": "Paris",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 19543,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 12322,
+    "isp": "Free SAS",
+    "protocol": "socks5",
+    "speed_ms": "2168.35",
+    "anonymity": "elite",
+    "location": "Saint-Renan",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 19571,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 15557,
+    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
+    "protocol": "socks5",
+    "speed_ms": "2682.33",
+    "anonymity": "elite",
+    "location": "Saint-Sebastien-sur-Loire",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 55307,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 15557,
+    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
+    "protocol": "socks5",
+    "speed_ms": "2791.27",
+    "anonymity": "elite",
+    "location": "Combourg",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 21323,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 15557,
+    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
+    "protocol": "socks5",
+    "speed_ms": "1715.55",
+    "anonymity": "elite",
+    "location": "Mondeville",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 47475,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 12322,
+    "isp": "Free SAS",
+    "protocol": "socks5",
+    "speed_ms": "2106.08",
+    "anonymity": "elite",
+    "location": "Lille",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 15813,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 15557,
+    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
+    "protocol": "socks5",
+    "speed_ms": "2649.72",
+    "anonymity": "elite",
+    "location": "Roissy-en-Brie",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 35563,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 3215,
+    "isp": "Orange S.A.",
+    "protocol": "socks5",
+    "speed_ms": "1913.86",
+    "anonymity": "elite",
+    "location": "Neuilly-sur-Marne",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 29755,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 5410,
+    "isp": "Bouygues Telecom SA",
+    "protocol": "socks5",
+    "speed_ms": "2261.33",
+    "anonymity": "elite",
+    "location": "Lyon",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

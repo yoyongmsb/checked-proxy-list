@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "77.41.167.137",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 3216,
+    "isp": "PJSC \"Vimpelcom\"",
+    "protocol": "socks5",
+    "speed_ms": "1851.35",
+    "anonymity": "elite",
+    "location": "Moscow",
+    "valid_urls": [
+      "https://www.reddit.com/"
+    ]
+  }
+]

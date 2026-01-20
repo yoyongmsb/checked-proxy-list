@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "110.39.183.34",
+    "port": 8080,
+    "country": "PK",
+    "country_code": "PK",
+    "asn": 38264,
+    "isp": "Wateen Telecom Limited",
+    "protocol": "http",
+    "speed_ms": "3142.73",
+    "anonymity": "transparent",
+    "location": "Model Town",
+    "valid_urls": [
+      "https://www.google.com/search?q=google"
+    ]
+  }
+]

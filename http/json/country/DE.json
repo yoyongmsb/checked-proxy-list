@@ -1,0 +1,90 @@
+[
+  {
+    "ip": "78.47.219.204",
+    "port": 3128,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "http",
+    "speed_ms": "1829.74",
+    "anonymity": "transparent",
+    "location": "Nuremberg",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "212.114.194.72",
+    "port": 80,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 3209,
+    "isp": "Vodafone GmbH",
+    "protocol": "http",
+    "speed_ms": "1798.67",
+    "anonymity": "anonymous",
+    "location": "Immenstadt im Allgau",
+    "valid_urls": []
+  },
+  {
+    "ip": "135.125.174.192",
+    "port": 80,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "1523.47",
+    "anonymity": "elite",
+    "location": "Limburg an der Lahn",
+    "valid_urls": []
+  },
+  {
+    "ip": "78.47.219.204",
+    "port": 3128,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "http",
+    "speed_ms": "993.58",
+    "anonymity": "transparent",
+    "location": "Nuremberg",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "89.58.57.45",
+    "port": 80,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 197540,
+    "isp": "netcup GmbH",
+    "protocol": "http",
+    "speed_ms": "958.67",
+    "anonymity": "elite",
+    "location": "Nuremberg",
+    "valid_urls": []
+  },
+  {
+    "ip": "212.114.194.78",
+    "port": 80,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 3209,
+    "isp": "Vodafone GmbH",
+    "protocol": "http",
+    "speed_ms": "1860.64",
+    "anonymity": "anonymous",
+    "location": "Immenstadt im Allgau",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "160.25.8.148",
+    "port": 11011,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 134371,
+    "isp": "CIRCLE NETWORK",
+    "protocol": "socks5",
+    "speed_ms": "3193.80",
+    "anonymity": "elite",
+    "location": "Dhaka (Kafrul)",
+    "valid_urls": []
+  }
+]

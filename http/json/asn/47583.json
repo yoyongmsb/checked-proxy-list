@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "93.127.163.52",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 47583,
+    "isp": "Hostinger International Limited",
+    "protocol": "http",
+    "speed_ms": "4730.60",
+    "anonymity": "elite",
+    "location": "Paris",
+    "valid_urls": []
+  },
+  {
+    "ip": "195.35.2.231",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 47583,
+    "isp": "Hostinger International Limited",
+    "protocol": "http",
+    "speed_ms": "5685.30",
+    "anonymity": "elite",
+    "location": "Paris",
+    "valid_urls": []
+  }
+]

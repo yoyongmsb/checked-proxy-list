@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "103.172.121.60",
+    "port": 7777,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 142398,
+    "isp": "PT Digital Akses Nusantara",
+    "protocol": "http",
+    "speed_ms": "3337.35",
+    "anonymity": "transparent",
+    "location": "Purwodadi Grobogan",
+    "valid_urls": []
+  }
+]

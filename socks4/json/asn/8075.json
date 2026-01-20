@@ -1,0 +1,20 @@
+[
+  {
+    "ip": "13.70.6.6",
+    "port": 50161,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "socks4",
+    "speed_ms": "1697.86",
+    "anonymity": "anonymous",
+    "location": "Hong Kong",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  }
+]

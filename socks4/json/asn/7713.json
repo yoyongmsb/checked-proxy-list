@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "36.64.164.210",
+    "port": 5678,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 7713,
+    "isp": "Telekomunikasi Indonesia (PT)",
+    "protocol": "socks4",
+    "speed_ms": "4916.12",
+    "anonymity": "anonymous",
+    "location": "Jakarta",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  }
+]

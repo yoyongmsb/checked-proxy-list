@@ -1,0 +1,21 @@
+[
+  {
+    "ip": "139.180.217.99",
+    "port": 1080,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 20473,
+    "isp": "The Constant Company, LLC",
+    "protocol": "socks4",
+    "speed_ms": "1566.47",
+    "anonymity": "anonymous",
+    "location": "Singapore (Pioneer)",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  }
+]

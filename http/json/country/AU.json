@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "51.161.131.235",
+    "port": 8080,
+    "country": "AU",
+    "country_code": "AU",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "1288.60",
+    "anonymity": "anonymous",
+    "location": "North Sydney",
+    "valid_urls": []
+  },
+  {
+    "ip": "4.195.16.140",
+    "port": 80,
+    "country": "AU",
+    "country_code": "AU",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "743.58",
+    "anonymity": "anonymous",
+    "location": "Sydney",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "80.92.227.185",
+    "port": 5678,
+    "country": "UA",
+    "country_code": "UA",
+    "asn": 1820,
+    "isp": "WNET TELECOM USA Corp.",
+    "protocol": "socks4",
+    "speed_ms": "1239.77",
+    "anonymity": "anonymous",
+    "location": "Kyiv",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  }
+]

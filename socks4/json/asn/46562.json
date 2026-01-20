@@ -1,0 +1,1128 @@
+[
+  {
+    "ip": "104.200.152.30",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1902.74",
+    "anonymity": "anonymous",
+    "location": "Los Angeles (Downtown Los Angeles)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.252.220.92",
+    "port": 17328,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1645.14",
+    "anonymity": "anonymous",
+    "location": "Los Angeles (Downtown Los Angeles)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "142.54.228.193",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1491.79",
+    "anonymity": "anonymous",
+    "location": "Los Angeles",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.111.130.2",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1815.42",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Fairlie-Poplar)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.111.138.29",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1371.68",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Fairlie-Poplar)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.111.137.37",
+    "port": 18762,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1740.37",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Fairlie-Poplar)",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "68.71.245.206",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1343.19",
+    "anonymity": "anonymous",
+    "location": "Palo Alto (Barron Park)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "68.71.251.134",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1331.62",
+    "anonymity": "anonymous",
+    "location": "Las Vegas",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.111.137.35",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1416.37",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Fairlie-Poplar)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.111.129.150",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1663.50",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Fairlie-Poplar)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "68.71.251.134",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1398.92",
+    "anonymity": "anonymous",
+    "location": "Las Vegas",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "107.152.98.5",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1397.33",
+    "anonymity": "anonymous",
+    "location": "Los Angeles",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.252.214.17",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1204.53",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "199.102.105.242",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1383.88",
+    "anonymity": "anonymous",
+    "location": "Beverly Hills",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "199.102.106.94",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1382.27",
+    "anonymity": "anonymous",
+    "location": "Beverly Hills",
+    "valid_urls": [
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.37.216.68",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1241.82",
+    "anonymity": "anonymous",
+    "location": "Los Angeles",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "206.220.175.2",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1705.62",
+    "anonymity": "anonymous",
+    "location": "Los Angeles (Downtown Los Angeles)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.170.251.30",
+    "port": 11288,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1294.77",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "68.71.241.33",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1322.18",
+    "anonymity": "anonymous",
+    "location": "Los Angeles",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "68.71.254.6",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1170.55",
+    "anonymity": "anonymous",
+    "location": "Beverly Hills",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.252.215.2",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1088.67",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.111.139.165",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1099.80",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Fairlie-Poplar)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "68.71.247.130",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1296.31",
+    "anonymity": "anonymous",
+    "location": "Palo Alto (Barron Park)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "68.71.243.14",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1199.54",
+    "anonymity": "anonymous",
+    "location": "Beverly Hills",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.252.214.20",
+    "port": 15864,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1514.55",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.252.220.89",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1516.97",
+    "anonymity": "anonymous",
+    "location": "Los Angeles (Downtown Los Angeles)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.111.139.163",
+    "port": 19404,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1058.18",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Fairlie-Poplar)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "107.181.168.145",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1497.09",
+    "anonymity": "anonymous",
+    "location": "Los Angeles",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "199.58.184.97",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1017.85",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "142.54.231.38",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1237.66",
+    "anonymity": "anonymous",
+    "location": "Los Angeles",
+    "valid_urls": [
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "162.253.68.97",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1221.65",
+    "anonymity": "anonymous",
+    "location": "Los Angeles",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.170.245.148",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1179.51",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.170.248.5",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1000.52",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "74.119.147.209",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "982.23",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Fairlie-Poplar)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "199.58.185.9",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1142.86",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "74.119.147.209",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1103.47",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Fairlie-Poplar)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "74.119.144.60",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "915.97",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Fairlie-Poplar)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "198.8.94.170",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "939.20",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.252.216.81",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1102.92",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.111.130.2",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1324.70",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Fairlie-Poplar)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.37.216.68",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1058.83",
+    "anonymity": "anonymous",
+    "location": "Los Angeles",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "199.116.114.11",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1061.07",
+    "anonymity": "anonymous",
+    "location": "Los Angeles (Downtown Los Angeles)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.170.248.5",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1041.88",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.252.209.158",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1296.16",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.252.211.197",
+    "port": 14921,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "961.54",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.111.130.5",
+    "port": 17002,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1022.51",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Fairlie-Poplar)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/"
+    ]
+  },
+  {
+    "ip": "107.181.161.81",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1037.01",
+    "anonymity": "anonymous",
+    "location": "Los Angeles (Downtown Los Angeles)",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "67.201.39.14",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "982.62",
+    "anonymity": "anonymous",
+    "location": "El Segundo",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.252.210.233",
+    "port": 4145,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "938.87",
+    "anonymity": "anonymous",
+    "location": "London",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "142.54.235.9",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1261.08",
+    "anonymity": "anonymous",
+    "location": "Los Angeles",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "199.102.107.145",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1242.62",
+    "anonymity": "anonymous",
+    "location": "Beverly Hills",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "142.54.237.34",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "979.43",
+    "anonymity": "anonymous",
+    "location": "Los Angeles",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/"
+    ]
+  },
+  {
+    "ip": "142.54.236.97",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1202.48",
+    "anonymity": "anonymous",
+    "location": "Los Angeles",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "67.201.33.10",
+    "port": 25283,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "1200.01",
+    "anonymity": "anonymous",
+    "location": "Florence-Graham",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.111.137.34",
+    "port": 18765,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "739.35",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Fairlie-Poplar)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "68.71.245.206",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "899.77",
+    "anonymity": "anonymous",
+    "location": "Palo Alto (Barron Park)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.252.209.158",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "898.76",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.37.217.3",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "917.18",
+    "anonymity": "anonymous",
+    "location": "Syracuse",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "198.8.94.170",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "897.07",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.111.129.145",
+    "port": 16894,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "725.26",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Fairlie-Poplar)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "103.86.131.62",
+    "port": 80,
+    "country": "MY",
+    "country_code": "MY",
+    "asn": 133169,
+    "isp": "University Malaysia Perlis",
+    "protocol": "http",
+    "speed_ms": "5276.55",
+    "anonymity": "anonymous",
+    "location": "Arau",
+    "valid_urls": [
+      "https://www.reddit.com/"
+    ]
+  }
+]

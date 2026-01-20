@@ -1,0 +1,55 @@
+[
+  {
+    "ip": "220.128.223.136",
+    "port": 8082,
+    "country": "TW",
+    "country_code": "TW",
+    "asn": 3462,
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1379.13",
+    "anonymity": "anonymous",
+    "location": "Taipei",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "51.79.135.131",
+    "port": 8080,
+    "country": "TW",
+    "country_code": "TW",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "3793.98",
+    "anonymity": "anonymous",
+    "location": "Tainan",
+    "valid_urls": []
+  },
+  {
+    "ip": "220.128.223.136",
+    "port": 8085,
+    "country": "TW",
+    "country_code": "TW",
+    "asn": 3462,
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1339.22",
+    "anonymity": "anonymous",
+    "location": "Taipei",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

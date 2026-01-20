@@ -1,0 +1,21 @@
+[
+  {
+    "ip": "202.40.180.14",
+    "port": 1080,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 23991,
+    "isp": "Ranks ITT",
+    "protocol": "socks4",
+    "speed_ms": "2843.07",
+    "anonymity": "anonymous",
+    "location": "Habiganj",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  }
+]

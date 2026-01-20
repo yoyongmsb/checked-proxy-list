@@ -1,0 +1,250 @@
+[
+  {
+    "ip": "192.104.242.158",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "1695.80",
+    "anonymity": "anonymous",
+    "location": "Duluth (Gwinnett Place)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "198.177.253.13",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "1656.56",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "208.65.90.21",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "1358.39",
+    "anonymity": "anonymous",
+    "location": "Duluth (Gwinnett Place)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "198.177.254.157",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "1887.64",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "198.177.253.13",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "1357.59",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "208.65.90.3",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "1340.02",
+    "anonymity": "anonymous",
+    "location": "Duluth (Gwinnett Place)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "208.65.90.3",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "1281.24",
+    "anonymity": "anonymous",
+    "location": "Duluth (Gwinnett Place)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "198.177.252.24",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "864.24",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "208.65.90.21",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "682.70",
+    "anonymity": "anonymous",
+    "location": "Duluth (Gwinnett Place)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "198.177.254.131",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "627.34",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "198.177.254.157",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "955.33",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.104.242.158",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "961.35",
+    "anonymity": "anonymous",
+    "location": "Duluth (Gwinnett Place)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  }
+]

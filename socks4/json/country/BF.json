@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "41.223.234.116",
+    "port": 37259,
+    "country": "BF",
+    "country_code": "BF",
+    "asn": 37008,
+    "isp": "Sancfis Faso SA",
+    "protocol": "socks4",
+    "speed_ms": "2298.95",
+    "anonymity": "anonymous",
+    "location": "Zorgo",
+    "valid_urls": [
+      "https://www.google.com/search?q=google"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "124.221.164.32",
+    "port": 7890,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 45090,
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "protocol": "socks4",
+    "speed_ms": "4881.08",
+    "anonymity": "anonymous",
+    "location": "Shanghai",
+    "valid_urls": []
+  }
+]

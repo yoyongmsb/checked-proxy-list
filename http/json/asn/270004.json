@@ -1,0 +1,40 @@
+[
+  {
+    "ip": "187.102.219.32",
+    "port": 999,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 270004,
+    "isp": "CRETTON LISANDRO MAXIMILIANO (MISIOTECH)",
+    "protocol": "http",
+    "speed_ms": "1317.75",
+    "anonymity": "anonymous",
+    "location": "Eldorado",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "187.102.219.64",
+    "port": 999,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 270004,
+    "isp": "CRETTON LISANDRO MAXIMILIANO (MISIOTECH)",
+    "protocol": "http",
+    "speed_ms": "5233.39",
+    "anonymity": "anonymous",
+    "location": "Montecarlo",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

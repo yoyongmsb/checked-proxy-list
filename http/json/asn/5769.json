@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "69.70.244.34",
+    "port": 80,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 5769,
+    "isp": "Videotron Ltee",
+    "protocol": "http",
+    "speed_ms": "1198.84",
+    "anonymity": "anonymous",
+    "location": "Quebec",
+    "valid_urls": []
+  }
+]

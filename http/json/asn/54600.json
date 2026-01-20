@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "38.55.129.141",
+    "port": 8080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 54600,
+    "isp": "PEG TECH INC",
+    "protocol": "http",
+    "speed_ms": "925.69",
+    "anonymity": "anonymous",
+    "location": "Santa Clara",
+    "valid_urls": []
+  }
+]

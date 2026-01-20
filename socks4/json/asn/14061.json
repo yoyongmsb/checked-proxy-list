@@ -1,0 +1,144 @@
+[
+  {
+    "ip": "161.35.82.57",
+    "port": 1080,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks4",
+    "speed_ms": "1758.60",
+    "anonymity": "anonymous",
+    "location": "Amsterdam",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "104.248.203.234",
+    "port": 1080,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks4",
+    "speed_ms": "1439.48",
+    "anonymity": "anonymous",
+    "location": "Amsterdam",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "167.71.226.135",
+    "port": 1080,
+    "country": "IN",
+    "country_code": "IN",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks4",
+    "speed_ms": "3482.22",
+    "anonymity": "anonymous",
+    "location": "Bengaluru",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "143.110.217.153",
+    "port": 1080,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks4",
+    "speed_ms": "585.19",
+    "anonymity": "anonymous",
+    "location": "Barrie",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "64.227.131.240",
+    "port": 1080,
+    "country": "IN",
+    "country_code": "IN",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks4",
+    "speed_ms": "1335.36",
+    "anonymity": "anonymous",
+    "location": "Bengaluru",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "104.248.197.67",
+    "port": 1080,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks4",
+    "speed_ms": "1079.93",
+    "anonymity": "anonymous",
+    "location": "Amsterdam",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "134.199.159.23",
+    "port": 1080,
+    "country": "AU",
+    "country_code": "AU",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks4",
+    "speed_ms": "1267.38",
+    "anonymity": "anonymous",
+    "location": "Alexandria",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.241.156.17",
+    "port": 1080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks4",
+    "speed_ms": "366.01",
+    "anonymity": "anonymous",
+    "location": "North Bergen",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "ip": "183.81.91.186",
+    "port": 1030,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 18403,
+    "isp": "FPT Telecom Company",
+    "protocol": "socks4",
+    "speed_ms": "2976.07",
+    "anonymity": "anonymous",
+    "location": "Hanoi",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "183.81.91.186",
+    "port": 1065,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 18403,
+    "isp": "FPT Telecom Company",
+    "protocol": "socks4",
+    "speed_ms": "1998.55",
+    "anonymity": "anonymous",
+    "location": "Hanoi",
+    "valid_urls": []
+  },
+  {
+    "ip": "183.81.91.186",
+    "port": 1067,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 18403,
+    "isp": "FPT Telecom Company",
+    "protocol": "socks4",
+    "speed_ms": "2565.33",
+    "anonymity": "anonymous",
+    "location": "Hanoi",
+    "valid_urls": []
+  },
+  {
+    "ip": "183.81.91.186",
+    "port": 1078,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 18403,
+    "isp": "FPT Telecom Company",
+    "protocol": "socks4",
+    "speed_ms": "2997.95",
+    "anonymity": "anonymous",
+    "location": "Hanoi",
+    "valid_urls": []
+  }
+]

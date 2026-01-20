@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "103.229.47.120",
+    "port": 4153,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 59340,
+    "isp": "Help Line",
+    "protocol": "socks4",
+    "speed_ms": "5064.79",
+    "anonymity": "anonymous",
+    "location": "Bogra (Jhowtola)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  }
+]

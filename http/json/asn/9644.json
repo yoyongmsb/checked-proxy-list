@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "178.213.25.221",
+    "port": 7890,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 9644,
+    "isp": "SK Telecom",
+    "protocol": "http",
+    "speed_ms": "3471.01",
+    "anonymity": "anonymous",
+    "location": "Seoul (Eulji-ro)",
+    "valid_urls": []
+  }
+]

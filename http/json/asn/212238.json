@@ -1,0 +1,34 @@
+[
+  {
+    "ip": "45.22.209.157",
+    "port": 8888,
+    "country": "US",
+    "country_code": "US",
+    "asn": 212238,
+    "isp": "Datacamp Limited",
+    "protocol": "http",
+    "speed_ms": "3919.56",
+    "anonymity": "anonymous",
+    "location": "Assonet",
+    "valid_urls": [
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "45.22.209.157",
+    "port": 8888,
+    "country": "US",
+    "country_code": "US",
+    "asn": 212238,
+    "isp": "Datacamp Limited",
+    "protocol": "http",
+    "speed_ms": "1722.94",
+    "anonymity": "anonymous",
+    "location": "Assonet",
+    "valid_urls": [
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  }
+]

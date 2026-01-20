@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "179.27.86.36",
+    "port": 4153,
+    "country": "UY",
+    "country_code": "UY",
+    "asn": 6057,
+    "isp": "Administracion Nacional de Telecomunicaciones",
+    "protocol": "socks4",
+    "speed_ms": "1682.58",
+    "anonymity": "anonymous",
+    "location": "Montevideo",
+    "valid_urls": []
+  }
+]

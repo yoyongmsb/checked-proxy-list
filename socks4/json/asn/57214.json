@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "5.23.104.251",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 57214,
+    "isp": "Vidikon-K, CJSC",
+    "protocol": "socks4",
+    "speed_ms": "1476.05",
+    "anonymity": "anonymous",
+    "location": "Ryazan",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "103.121.195.12",
+    "port": 61221,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 138163,
+    "isp": "Bangladesh University of Professionals (BUP)",
+    "protocol": "socks4",
+    "speed_ms": "1764.27",
+    "anonymity": "anonymous",
+    "location": "Dhaka (Pallabi)",
+    "valid_urls": []
+  }
+]

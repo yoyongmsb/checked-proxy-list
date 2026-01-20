@@ -1,0 +1,95 @@
+[
+  {
+    "ip": "101.47.73.135",
+    "port": 3128,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 150436,
+    "isp": "Byteplus Pte. Ltd.",
+    "protocol": "http",
+    "speed_ms": "2791.55",
+    "anonymity": "anonymous",
+    "location": "Hong Kong",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/"
+    ]
+  },
+  {
+    "ip": "103.84.95.54",
+    "port": 7890,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 13444,
+    "isp": "TRS",
+    "protocol": "http",
+    "speed_ms": "1480.69",
+    "anonymity": "anonymous",
+    "location": "Tsim Sha Tsui",
+    "valid_urls": [
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "103.84.95.54",
+    "port": 7890,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 13444,
+    "isp": "TRS",
+    "protocol": "http",
+    "speed_ms": "1238.73",
+    "anonymity": "anonymous",
+    "location": "Tsim Sha Tsui",
+    "valid_urls": [
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "47.243.92.199",
+    "port": 3128,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1830.41",
+    "anonymity": "anonymous",
+    "location": "Hong Kong",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "223.26.63.121",
+    "port": 8888,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 152194,
+    "isp": "CTG Server Limited",
+    "protocol": "http",
+    "speed_ms": "3578.47",
+    "anonymity": "anonymous",
+    "location": "Hung Hom",
+    "valid_urls": []
+  },
+  {
+    "ip": "47.243.92.199",
+    "port": 3128,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1900.45",
+    "anonymity": "anonymous",
+    "location": "Hong Kong",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  }
+]

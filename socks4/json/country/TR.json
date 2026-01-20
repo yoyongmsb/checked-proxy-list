@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "84.51.62.198",
+    "port": 1080,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 34984,
+    "isp": "Superonline Iletisim Hizmetleri A.S.",
+    "protocol": "socks4",
+    "speed_ms": "2742.20",
+    "anonymity": "anonymous",
+    "location": "Besiktas",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "ip": "45.87.96.9",
+    "port": 18080,
+    "country": "HU",
+    "country_code": "HU",
+    "asn": 208724,
+    "isp": "MEZGA-NET Bt",
+    "protocol": "http",
+    "speed_ms": "5686.30",
+    "anonymity": "anonymous",
+    "location": "Pecs",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "103.221.228.50",
+    "port": 5678,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 63747,
+    "isp": "Central Post and Telecommunication (CPT)",
+    "protocol": "socks4",
+    "speed_ms": "2130.92",
+    "anonymity": "anonymous",
+    "location": "Hai Ba Trung",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "ip": "47.89.184.18",
+    "port": 3128,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1580.60",
+    "anonymity": "anonymous",
+    "location": "Charlottesville",
+    "valid_urls": []
+  },
+  {
+    "ip": "47.91.104.88",
+    "port": 3128,
+    "country": "AE",
+    "country_code": "AE",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "3317.79",
+    "anonymity": "anonymous",
+    "location": "Dubai",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "47.91.104.88",
+    "port": 3128,
+    "country": "AE",
+    "country_code": "AE",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "3048.43",
+    "anonymity": "anonymous",
+    "location": "Dubai",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "8.209.255.13",
+    "port": 3128,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1400.91",
+    "anonymity": "anonymous",
+    "location": "Shibuya City",
+    "valid_urls": []
+  },
+  {
+    "ip": "47.89.184.18",
+    "port": 3128,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1453.76",
+    "anonymity": "anonymous",
+    "location": "Charlottesville",
+    "valid_urls": []
+  },
+  {
+    "ip": "8.209.255.13",
+    "port": 3128,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1280.24",
+    "anonymity": "anonymous",
+    "location": "Shibuya City",
+    "valid_urls": []
+  },
+  {
+    "ip": "47.91.65.23",
+    "port": 3128,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1080.48",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": []
+  },
+  {
+    "ip": "47.243.92.199",
+    "port": 3128,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1830.41",
+    "anonymity": "anonymous",
+    "location": "Hong Kong",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "8.213.151.128",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1121.08",
+    "anonymity": "anonymous",
+    "location": "Seoul",
+    "valid_urls": []
+  },
+  {
+    "ip": "47.91.65.23",
+    "port": 3128,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "919.49",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": []
+  },
+  {
+    "ip": "8.213.151.128",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1022.32",
+    "anonymity": "anonymous",
+    "location": "Seoul",
+    "valid_urls": []
+  },
+  {
+    "ip": "47.243.92.199",
+    "port": 3128,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1900.45",
+    "anonymity": "anonymous",
+    "location": "Hong Kong",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  }
+]

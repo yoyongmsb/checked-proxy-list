@@ -1,0 +1,72 @@
+[
+  {
+    "ip": "66.245.197.108",
+    "port": 9010,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": "Unknown",
+    "isp": "Unknown",
+    "protocol": "http",
+    "speed_ms": "1308.26",
+    "anonymity": "anonymous",
+    "location": "Seongnam-si (Olympic-ro 35-gil)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "8.213.151.128",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1121.08",
+    "anonymity": "anonymous",
+    "location": "Seoul",
+    "valid_urls": []
+  },
+  {
+    "ip": "140.238.9.210",
+    "port": 8080,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "http",
+    "speed_ms": "2064.22",
+    "anonymity": "anonymous",
+    "location": "Yangcheondong",
+    "valid_urls": []
+  },
+  {
+    "ip": "178.213.25.221",
+    "port": 7890,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 9644,
+    "isp": "SK Telecom",
+    "protocol": "http",
+    "speed_ms": "3471.01",
+    "anonymity": "anonymous",
+    "location": "Seoul (Eulji-ro)",
+    "valid_urls": []
+  },
+  {
+    "ip": "8.213.151.128",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1022.32",
+    "anonymity": "anonymous",
+    "location": "Seoul",
+    "valid_urls": []
+  }
+]

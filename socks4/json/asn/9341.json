@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "202.162.219.12",
+    "port": 1080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 9341,
+    "isp": "PT Indonesia Comnets Plus",
+    "protocol": "socks4",
+    "speed_ms": "2132.81",
+    "anonymity": "anonymous",
+    "location": "Semarang",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  }
+]

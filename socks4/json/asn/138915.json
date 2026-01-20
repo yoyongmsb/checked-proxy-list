@@ -1,0 +1,47 @@
+[
+  {
+    "ip": "156.244.2.102",
+    "port": 20002,
+    "country": "MX",
+    "country_code": "MX",
+    "asn": 138915,
+    "isp": "Kaopu Cloud HK Limited",
+    "protocol": "socks4",
+    "speed_ms": "1972.37",
+    "anonymity": "anonymous",
+    "location": "Mexico City",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "38.60.209.88",
+    "port": 20002,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 138915,
+    "isp": "Kaopu Cloud HK Limited",
+    "protocol": "socks4",
+    "speed_ms": "3181.28",
+    "anonymity": "anonymous",
+    "location": "Sao Paulo",
+    "valid_urls": []
+  },
+  {
+    "ip": "38.60.224.125",
+    "port": 20002,
+    "country": "MX",
+    "country_code": "MX",
+    "asn": 138915,
+    "isp": "Kaopu Cloud HK Limited",
+    "protocol": "socks4",
+    "speed_ms": "1118.90",
+    "anonymity": "anonymous",
+    "location": "Mexico City",
+    "valid_urls": []
+  }
+]

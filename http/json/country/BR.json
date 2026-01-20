@@ -1,0 +1,43 @@
+[
+  {
+    "ip": "179.96.28.58",
+    "port": 80,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 28329,
+    "isp": "Megatelecom Telecomunicacoes Ltda",
+    "protocol": "http",
+    "speed_ms": "1423.15",
+    "anonymity": "anonymous",
+    "location": "Rio Verde",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "192.73.244.36",
+    "port": 80,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 174,
+    "isp": "Cogent Communications",
+    "protocol": "http",
+    "speed_ms": "824.97",
+    "anonymity": "anonymous",
+    "location": "Jardim Cacique",
+    "valid_urls": []
+  },
+  {
+    "ip": "170.247.200.138",
+    "port": 8088,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 263256,
+    "isp": "PIX PROVEDOR DE INTERNET LTDA - ME",
+    "protocol": "http",
+    "speed_ms": "2169.30",
+    "anonymity": "anonymous",
+    "location": "Atins",
+    "valid_urls": []
+  }
+]

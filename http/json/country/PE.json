@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "38.252.213.66",
+    "port": 999,
+    "country": "PE",
+    "country_code": "PE",
+    "asn": 272801,
+    "isp": "RED AMONES S.A.C.",
+    "protocol": "http",
+    "speed_ms": "5156.89",
+    "anonymity": "anonymous",
+    "location": "Satipo",
+    "valid_urls": []
+  }
+]

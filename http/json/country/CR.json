@@ -1,0 +1,21 @@
+[
+  {
+    "ip": "168.228.49.15",
+    "port": 8080,
+    "country": "CR",
+    "country_code": "CR",
+    "asn": 262145,
+    "isp": "Cooperativa de Electrificacion Rural de San Carlos R.L. (Coopelesca R.L.)",
+    "protocol": "http",
+    "speed_ms": "2139.65",
+    "anonymity": "anonymous",
+    "location": "Pital",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

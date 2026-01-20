@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "103.156.17.111",
+    "port": 8080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 141077,
+    "isp": "RSTNET",
+    "protocol": "http",
+    "speed_ms": "1161.96",
+    "anonymity": "anonymous",
+    "location": "Jatibarang",
+    "valid_urls": []
+  }
+]

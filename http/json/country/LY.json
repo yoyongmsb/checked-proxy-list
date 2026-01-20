@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "41.254.48.54",
+    "port": 19333,
+    "country": "LY",
+    "country_code": "LY",
+    "asn": 21003,
+    "isp": "LTT Autonomous System, Tripoli Libya",
+    "protocol": "http",
+    "speed_ms": "5594.59",
+    "anonymity": "anonymous",
+    "location": "Misratah",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  }
+]

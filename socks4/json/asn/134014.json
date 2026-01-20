@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "103.66.233.177",
+    "port": 4145,
+    "country": "IN",
+    "country_code": "IN",
+    "asn": 134014,
+    "isp": "NET 4 U SERVICES PVT LTD",
+    "protocol": "socks4",
+    "speed_ms": "1882.58",
+    "anonymity": "anonymous",
+    "location": "Mumbai (Pawan Baug)",
+    "valid_urls": []
+  }
+]

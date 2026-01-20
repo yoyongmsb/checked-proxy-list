@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "177.125.212.244",
+    "port": 4145,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 262354,
+    "isp": "GIGA MAIS FIBRA TELECOMUNICACOES S.A.",
+    "protocol": "socks4",
+    "speed_ms": "2373.17",
+    "anonymity": "anonymous",
+    "location": "Campo Mourao",
+    "valid_urls": []
+  },
+  {
+    "ip": "38.60.209.88",
+    "port": 20002,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 138915,
+    "isp": "Kaopu Cloud HK Limited",
+    "protocol": "socks4",
+    "speed_ms": "3181.28",
+    "anonymity": "anonymous",
+    "location": "Sao Paulo",
+    "valid_urls": []
+  }
+]

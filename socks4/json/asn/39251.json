@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "91.92.80.199",
+    "port": 4145,
+    "country": "BG",
+    "country_code": "BG",
+    "asn": 39251,
+    "isp": "NETGUARD LLC",
+    "protocol": "socks4",
+    "speed_ms": "1010.34",
+    "anonymity": "anonymous",
+    "location": "Plovdiv",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/"
+    ]
+  }
+]

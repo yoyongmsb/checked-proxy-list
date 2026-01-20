@@ -1,0 +1,1647 @@
+[
+  {
+    "ip": "98.191.0.47",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1572.43",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.181.217.201",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1364.81",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.5",
+    "port": 15303,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1519.99",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.13",
+    "port": 15311,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1742.07",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "174.77.111.196",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1784.17",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.195.34.58",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1462.92",
+    "anonymity": "anonymous",
+    "location": "Irvine",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.17",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1757.82",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.170.57.241",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1395.39",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Perimeter Center)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.195.34.41",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1473.64",
+    "anonymity": "anonymous",
+    "location": "Irvine",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.175.31.195",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1460.28",
+    "anonymity": "anonymous",
+    "location": "Norfolk",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.211.46.124",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1458.06",
+    "anonymity": "anonymous",
+    "location": "Oklahoma City",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "174.64.199.82",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "2059.87",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.195.114.184",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1338.24",
+    "anonymity": "anonymous",
+    "location": "Irvine",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.188.47.132",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1931.54",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "70.166.167.38",
+    "port": 57728,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1623.95",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.223.188.92",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1687.42",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "174.77.111.198",
+    "port": 49547,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1243.33",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.205.0.67",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "3360.17",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Perimeter Center)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.181.217.213",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1633.45",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.207.33.64",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1500.65",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.17",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1379.07",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "68.1.210.189",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1374.43",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.195.34.59",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "4500.14",
+    "anonymity": "anonymous",
+    "location": "Irvine",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.170.57.249",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1940.01",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Perimeter Center)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.191.0.37",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1340.41",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.188.47.150",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1301.44",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.211.46.99",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1339.08",
+    "anonymity": "anonymous",
+    "location": "Oklahoma City",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.195.114.169",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1314.23",
+    "anonymity": "anonymous",
+    "location": "Irvine",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/"
+    ]
+  },
+  {
+    "ip": "98.178.72.30",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1519.45",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.195.34.58",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1295.89",
+    "anonymity": "anonymous",
+    "location": "Irvine",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.181.217.194",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1264.03",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "68.1.210.189",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1774.95",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.181.217.220",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1106.08",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.182.147.97",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1497.41",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.195.34.42",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1654.05",
+    "anonymity": "anonymous",
+    "location": "Irvine",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "174.77.111.197",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1216.64",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.178.72.21",
+    "port": 10919,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1297.23",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.185.2.12",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "3553.93",
+    "anonymity": "anonymous",
+    "location": "Ashburn",
+    "valid_urls": []
+  },
+  {
+    "ip": "68.1.210.163",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1252.82",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.181.178.33",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1435.55",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.170.57.249",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "2603.53",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Perimeter Center)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.18",
+    "port": 15280,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1180.44",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.25",
+    "port": 15291,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1164.82",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/"
+    ]
+  },
+  {
+    "ip": "72.207.109.5",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1098.30",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.185.2.12",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "3917.76",
+    "anonymity": "anonymous",
+    "location": "Ashburn",
+    "valid_urls": []
+  },
+  {
+    "ip": "184.182.240.211",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1474.09",
+    "anonymity": "anonymous",
+    "location": "Macon",
+    "valid_urls": []
+  },
+  {
+    "ip": "184.178.172.23",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1119.14",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.14",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1117.17",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "174.75.211.222",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1093.82",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.11",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1087.59",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "24.249.199.4",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "984.86",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "24.249.199.4",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1277.88",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "24.249.199.12",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1292.44",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.181.217.206",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1173.06",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.181.217.213",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1515.35",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.175.31.222",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1199.90",
+    "anonymity": "anonymous",
+    "location": "Norfolk",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.214.108.67",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "856.00",
+    "anonymity": "anonymous",
+    "location": "East Irvine (Irvine Research Center)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.188.47.132",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "855.29",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.207.109.5",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "798.33",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.207.113.97",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "920.01",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.170.57.241",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1142.96",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Perimeter Center)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "70.166.167.55",
+    "port": 57745,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "899.09",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.3",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "897.84",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.181.217.210",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "859.90",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.195.34.60",
+    "port": 27391,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "857.40",
+    "anonymity": "anonymous",
+    "location": "Irvine",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.190.239.3",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "824.60",
+    "anonymity": "anonymous",
+    "location": "Buhler",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.11",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "2903.26",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.211.46.124",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "819.16",
+    "anonymity": "anonymous",
+    "location": "Oklahoma City",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.181.137.83",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1062.18",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.195.101.99",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "818.83",
+    "anonymity": "anonymous",
+    "location": "Irvine",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.205.0.67",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1514.49",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Perimeter Center)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.181.217.201",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1016.94",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.26",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1003.48",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.182.147.97",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1314.00",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.190.239.3",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "734.72",
+    "anonymity": "anonymous",
+    "location": "Buhler",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.3",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "733.75",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "174.64.199.79",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "2740.87",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "174.75.211.193",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "958.34",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.182.171.161",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "3845.02",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.182.240.12",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "2132.28",
+    "anonymity": "anonymous",
+    "location": "Macon",
+    "valid_urls": []
+  },
+  {
+    "ip": "184.181.217.220",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "4078.06",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.182.240.12",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1649.23",
+    "anonymity": "anonymous",
+    "location": "Macon",
+    "valid_urls": []
+  },
+  {
+    "ip": "70.166.65.160",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "842.49",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.191.0.37",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "658.65",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.181.217.206",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "740.95",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.195.101.99",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "796.09",
+    "anonymity": "anonymous",
+    "location": "Irvine",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  }
+]

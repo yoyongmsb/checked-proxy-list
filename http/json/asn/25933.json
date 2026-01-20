@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "177.220.230.71",
+    "port": 8080,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 25933,
+    "isp": "Vogel Solucoes em Telecom e Informatica S/A",
+    "protocol": "http",
+    "speed_ms": "4448.20",
+    "anonymity": "transparent",
+    "location": "Itaqui",
+    "valid_urls": []
+  }
+]

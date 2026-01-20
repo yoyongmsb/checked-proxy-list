@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "103.200.135.229",
+    "port": 4145,
+    "country": "MM",
+    "country_code": "MM",
+    "asn": 134739,
+    "isp": "AGB Communication Co., Ltd",
+    "protocol": "socks4",
+    "speed_ms": "3881.05",
+    "anonymity": "elite",
+    "location": "Yangon",
+    "valid_urls": []
+  }
+]

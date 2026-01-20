@@ -1,0 +1,88 @@
+[
+  {
+    "ip": "72.10.160.92",
+    "port": 6803,
+    "country": "MY",
+    "country_code": "MY",
+    "asn": 4788,
+    "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+    "protocol": "http",
+    "speed_ms": "2306.14",
+    "anonymity": "elite",
+    "location": "Kuala Lumpur",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 17433,
+    "country": "MY",
+    "country_code": "MY",
+    "asn": 4788,
+    "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+    "protocol": "http",
+    "speed_ms": "4518.38",
+    "anonymity": "elite",
+    "location": "Ampang",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "72.10.160.92",
+    "port": 6803,
+    "country": "MY",
+    "country_code": "MY",
+    "asn": 4788,
+    "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+    "protocol": "http",
+    "speed_ms": "2504.30",
+    "anonymity": "elite",
+    "location": "Kuala Lumpur",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 10643,
+    "country": "MY",
+    "country_code": "MY",
+    "asn": 4788,
+    "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+    "protocol": "http",
+    "speed_ms": "5808.24",
+    "anonymity": "elite",
+    "location": "Country Homes City",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

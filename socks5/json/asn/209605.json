@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "36.255.98.184",
+    "port": 12106,
+    "country": "LT",
+    "country_code": "LT",
+    "asn": 209605,
+    "isp": "UAB Host Baltic",
+    "protocol": "socks5",
+    "speed_ms": "5911.55",
+    "anonymity": "elite",
+    "location": "Kaunas",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  }
+]

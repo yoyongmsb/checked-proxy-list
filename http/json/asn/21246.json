@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "91.187.113.68",
+    "port": 8080,
+    "country": "XK",
+    "country_code": "XK",
+    "asn": 21246,
+    "isp": "IPKO Telecommunications LLC",
+    "protocol": "http",
+    "speed_ms": "5310.81",
+    "anonymity": "transparent",
+    "location": "Peja",
+    "valid_urls": [
+      "https://www.google.com/search?q=google"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "45.61.188.134",
+    "port": 44499,
+    "country": "US",
+    "country_code": "US",
+    "asn": 53667,
+    "isp": "FranTech Solutions",
+    "protocol": "socks4",
+    "speed_ms": "5645.88",
+    "anonymity": "elite",
+    "location": "Miami",
+    "valid_urls": []
+  }
+]

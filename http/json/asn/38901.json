@@ -1,0 +1,21 @@
+[
+  {
+    "ip": "72.10.164.178",
+    "port": 5505,
+    "country": "KH",
+    "country_code": "KH",
+    "asn": 38901,
+    "isp": "EZECOM CO., LTD.",
+    "protocol": "http",
+    "speed_ms": "2100.00",
+    "anonymity": "elite",
+    "location": "Phnom Penh (Khan Sensok)",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

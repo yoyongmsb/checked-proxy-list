@@ -1,0 +1,34 @@
+[
+  {
+    "ip": "67.43.236.20",
+    "port": 26545,
+    "country": "US",
+    "country_code": "US",
+    "asn": 5650,
+    "isp": "Frontier Communications of America, Inc.",
+    "protocol": "http",
+    "speed_ms": "2054.97",
+    "anonymity": "elite",
+    "location": "Tampa (South Tampa)",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google"
+    ]
+  },
+  {
+    "ip": "67.43.236.20",
+    "port": 26545,
+    "country": "US",
+    "country_code": "US",
+    "asn": 5650,
+    "isp": "Frontier Communications of America, Inc.",
+    "protocol": "http",
+    "speed_ms": "2529.74",
+    "anonymity": "elite",
+    "location": "Tampa (South Tampa)",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google"
+    ]
+  }
+]

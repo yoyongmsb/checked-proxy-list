@@ -1,0 +1,56 @@
+[
+  {
+    "ip": "176.236.46.147",
+    "port": 80,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 34984,
+    "isp": "Superonline Iletisim Hizmetleri A.S.",
+    "protocol": "http",
+    "speed_ms": "1866.56",
+    "anonymity": "transparent",
+    "location": "Malikoy",
+    "valid_urls": []
+  },
+  {
+    "ip": "188.132.221.169",
+    "port": 8080,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 202561,
+    "isp": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.",
+    "protocol": "http",
+    "speed_ms": "6269.49",
+    "anonymity": "transparent",
+    "location": "Istanbul",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "213.142.156.97",
+    "port": 80,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 207459,
+    "isp": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI.",
+    "protocol": "http",
+    "speed_ms": "1261.63",
+    "anonymity": "elite",
+    "location": "Bahcelievler",
+    "valid_urls": []
+  },
+  {
+    "ip": "213.142.156.97",
+    "port": 80,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 207459,
+    "isp": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI.",
+    "protocol": "http",
+    "speed_ms": "1168.44",
+    "anonymity": "elite",
+    "location": "Bahcelievler",
+    "valid_urls": []
+  }
+]

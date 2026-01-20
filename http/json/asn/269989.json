@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "138.117.231.133",
+    "port": 999,
+    "country": "GT",
+    "country_code": "GT",
+    "asn": 269989,
+    "isp": "FIBERNET S.A",
+    "protocol": "http",
+    "speed_ms": "3239.58",
+    "anonymity": "transparent",
+    "location": "Huehuetenango",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  }
+]

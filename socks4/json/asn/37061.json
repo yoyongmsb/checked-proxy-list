@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "41.139.147.86",
+    "port": 5678,
+    "country": "KE",
+    "country_code": "KE",
+    "asn": 37061,
+    "isp": "Safaricom Limited",
+    "protocol": "socks4",
+    "speed_ms": "2211.64",
+    "anonymity": "elite",
+    "location": "Nyeri",
+    "valid_urls": [
+      "https://www.instagram.com/"
+    ]
+  }
+]

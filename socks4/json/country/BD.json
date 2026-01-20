@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "202.40.180.22",
+    "port": 1088,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 23991,
+    "isp": "Ranks ITT",
+    "protocol": "socks4",
+    "speed_ms": "5014.70",
+    "anonymity": "elite",
+    "location": "Habiganj",
+    "valid_urls": []
+  }
+]

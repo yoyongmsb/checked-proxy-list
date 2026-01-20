@@ -1,0 +1,37 @@
+[
+  {
+    "ip": "202.72.232.121",
+    "port": 1080,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 38210,
+    "isp": "Ranks Telecom Ltd.",
+    "protocol": "socks5",
+    "speed_ms": "3009.44",
+    "anonymity": "elite",
+    "location": "Dhaka (Tejgaon Industrial Area)",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.180",
+    "port": 4321,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 136141,
+    "isp": "SK Traders",
+    "protocol": "socks5",
+    "speed_ms": "4882.77",
+    "anonymity": "elite",
+    "location": "Dohar",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  }
+]

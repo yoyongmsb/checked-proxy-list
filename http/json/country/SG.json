@@ -1,0 +1,125 @@
+[
+  {
+    "ip": "97.74.87.226",
+    "port": 80,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 26496,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "http",
+    "speed_ms": "3556.19",
+    "anonymity": "elite",
+    "location": "Singapore",
+    "valid_urls": []
+  },
+  {
+    "ip": "101.47.16.101",
+    "port": 7890,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 150436,
+    "isp": "Byteplus Pte. Ltd.",
+    "protocol": "http",
+    "speed_ms": "3339.97",
+    "anonymity": "elite",
+    "location": "Singapore",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "101.47.16.15",
+    "port": 7890,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 150436,
+    "isp": "Byteplus Pte. Ltd.",
+    "protocol": "http",
+    "speed_ms": "4518.26",
+    "anonymity": "elite",
+    "location": "Singapore",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "101.47.16.101",
+    "port": 7890,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 150436,
+    "isp": "Byteplus Pte. Ltd.",
+    "protocol": "http",
+    "speed_ms": "1751.69",
+    "anonymity": "elite",
+    "location": "Singapore",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "47.74.157.194",
+    "port": 80,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2474.32",
+    "anonymity": "elite",
+    "location": "Singapore",
+    "valid_urls": []
+  },
+  {
+    "ip": "97.74.87.226",
+    "port": 80,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 26496,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "http",
+    "speed_ms": "4788.18",
+    "anonymity": "elite",
+    "location": "Singapore",
+    "valid_urls": []
+  },
+  {
+    "ip": "47.74.157.194",
+    "port": 80,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2306.18",
+    "anonymity": "elite",
+    "location": "Singapore",
+    "valid_urls": []
+  },
+  {
+    "ip": "5.223.59.123",
+    "port": 80,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 215859,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "http",
+    "speed_ms": "1691.91",
+    "anonymity": "elite",
+    "location": "Singapore",
+    "valid_urls": []
+  }
+]

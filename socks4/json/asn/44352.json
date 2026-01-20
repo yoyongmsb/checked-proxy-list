@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "91.199.93.32",
+    "port": 4153,
+    "country": "UA",
+    "country_code": "UA",
+    "asn": 44352,
+    "isp": "I.T.T. Tehnologiya LLC",
+    "protocol": "socks4",
+    "speed_ms": "1565.24",
+    "anonymity": "elite",
+    "location": "Kozyn",
+    "valid_urls": []
+  }
+]

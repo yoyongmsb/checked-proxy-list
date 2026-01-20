@@ -1,0 +1,19 @@
+[
+  {
+    "ip": "67.43.228.250",
+    "port": 14827,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46690,
+    "isp": "Southern New England Telephone Company and SNET America, Inc.",
+    "protocol": "http",
+    "speed_ms": "839.57",
+    "anonymity": "elite",
+    "location": "Danbury",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

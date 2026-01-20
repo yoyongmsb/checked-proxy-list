@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "103.56.206.77",
+    "port": 8099,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 4761,
+    "isp": "PT. INDOSAT Tbk",
+    "protocol": "http",
+    "speed_ms": "4428.49",
+    "anonymity": "anonymous",
+    "location": "Bekasi",
+    "valid_urls": []
+  }
+]

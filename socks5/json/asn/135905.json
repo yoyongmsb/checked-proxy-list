@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "36.255.98.163",
+    "port": 4750,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135905,
+    "isp": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
+    "protocol": "socks5",
+    "speed_ms": "5194.31",
+    "anonymity": "elite",
+    "location": "Tuy Hoa",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  }
+]

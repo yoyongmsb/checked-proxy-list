@@ -1,0 +1,91 @@
+[
+  {
+    "ip": "62.60.131.204",
+    "port": 4280,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 8560,
+    "isp": "IONOS SE",
+    "protocol": "socks5",
+    "speed_ms": "3286.72",
+    "anonymity": "elite",
+    "location": "Karlsruhe",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.204",
+    "port": 7184,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 8560,
+    "isp": "IONOS SE",
+    "protocol": "socks5",
+    "speed_ms": "4462.61",
+    "anonymity": "elite",
+    "location": "Courbevoie",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.204",
+    "port": 4280,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 8560,
+    "isp": "IONOS SE",
+    "protocol": "socks5",
+    "speed_ms": "3104.81",
+    "anonymity": "elite",
+    "location": "Karlsruhe",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.169",
+    "port": 11829,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 8560,
+    "isp": "IONOS SE",
+    "protocol": "socks5",
+    "speed_ms": "2985.26",
+    "anonymity": "elite",
+    "location": "Courbevoie",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.191",
+    "port": 4847,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 8560,
+    "isp": "IONOS SE",
+    "protocol": "socks5",
+    "speed_ms": "1859.55",
+    "anonymity": "elite",
+    "location": "Karlsruhe",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  }
+]

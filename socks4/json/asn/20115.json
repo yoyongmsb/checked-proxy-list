@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "97.83.40.67",
+    "port": 5678,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20115,
+    "isp": "Charter Communications",
+    "protocol": "socks4",
+    "speed_ms": "3660.75",
+    "anonymity": "elite",
+    "location": "Traverse City",
+    "valid_urls": [
+      "https://www.google.com/search?q=google"
+    ]
+  }
+]

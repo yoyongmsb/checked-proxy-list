@@ -1,0 +1,21 @@
+[
+  {
+    "ip": "72.10.164.178",
+    "port": 30917,
+    "country": "UY",
+    "country_code": "UY",
+    "asn": 6057,
+    "isp": "Administracion Nacional de Telecomunicaciones",
+    "protocol": "http",
+    "speed_ms": "1744.20",
+    "anonymity": "elite",
+    "location": "Montevideo",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

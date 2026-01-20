@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "149.86.203.217",
+    "port": 8080,
+    "country": "IT",
+    "country_code": "IT",
+    "asn": 60501,
+    "isp": "Sirius Technology SRL",
+    "protocol": "http",
+    "speed_ms": "5851.51",
+    "anonymity": "transparent",
+    "location": "Figline Valdarno",
+    "valid_urls": []
+  }
+]

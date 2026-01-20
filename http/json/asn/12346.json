@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "212.182.119.149",
+    "port": 8080,
+    "country": "PL",
+    "country_code": "PL",
+    "asn": 12346,
+    "isp": "Maria Curie-Sklodowska University",
+    "protocol": "http",
+    "speed_ms": "4980.01",
+    "anonymity": "transparent",
+    "location": "Lublin",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  }
+]

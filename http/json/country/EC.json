@@ -1,0 +1,52 @@
+[
+  {
+    "ip": "72.10.160.91",
+    "port": 26669,
+    "country": "EC",
+    "country_code": "EC",
+    "asn": 14522,
+    "isp": "Satnet",
+    "protocol": "http",
+    "speed_ms": "2581.42",
+    "anonymity": "elite",
+    "location": "Nayon",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "190.12.150.244",
+    "port": 999,
+    "country": "EC",
+    "country_code": "EC",
+    "asn": 271795,
+    "isp": "SERVITELCONET CIA. LTDA.",
+    "protocol": "http",
+    "speed_ms": "1381.93",
+    "anonymity": "transparent",
+    "location": "Malimpia",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "45.4.202.147",
+    "port": 999,
+    "country": "EC",
+    "country_code": "EC",
+    "asn": 263238,
+    "isp": "Eliana Vanessa Morocho Ona",
+    "protocol": "http",
+    "speed_ms": "2446.97",
+    "anonymity": "transparent",
+    "location": "Quito",
+    "valid_urls": []
+  }
+]

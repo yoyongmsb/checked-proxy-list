@@ -1,0 +1,20 @@
+[
+  {
+    "ip": "67.43.236.18",
+    "port": 23559,
+    "country": "IN",
+    "country_code": "IN",
+    "asn": 17488,
+    "isp": "HATHWAY CABLE AND DATACOM LIMITED",
+    "protocol": "http",
+    "speed_ms": "3739.01",
+    "anonymity": "elite",
+    "location": "Ramapuram",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "ip": "76.26.114.253",
+    "port": 39593,
+    "country": "US",
+    "country_code": "US",
+    "asn": 7922,
+    "isp": "Comcast Cable Communications, LLC",
+    "protocol": "socks4",
+    "speed_ms": "2058.61",
+    "anonymity": "elite",
+    "location": "Newark",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "50.238.47.86",
+    "port": 32100,
+    "country": "US",
+    "country_code": "US",
+    "asn": 7922,
+    "isp": "Comcast Cable Communications, LLC",
+    "protocol": "socks4",
+    "speed_ms": "1954.07",
+    "anonymity": "elite",
+    "location": "Northlake",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "50.174.248.190",
+    "port": 1080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 7922,
+    "isp": "Comcast Cable Communications, LLC",
+    "protocol": "socks4",
+    "speed_ms": "1979.70",
+    "anonymity": "elite",
+    "location": "Malvern",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/"
+    ]
+  }
+]

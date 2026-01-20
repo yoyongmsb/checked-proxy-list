@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "177.126.89.63",
+    "port": 4145,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 262352,
+    "isp": "NOVA TELECOM LTDA",
+    "protocol": "socks4",
+    "speed_ms": "3156.59",
+    "anonymity": "elite",
+    "location": "Palmas",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "203.190.117.236",
+    "port": 8123,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 38156,
+    "isp": "Internet Service Provider",
+    "protocol": "http",
+    "speed_ms": "5534.17",
+    "anonymity": "transparent",
+    "location": "Yogyakarta",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  }
+]

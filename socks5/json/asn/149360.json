@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "103.180.123.111",
+    "port": 1080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 149360,
+    "isp": "PT Indo Telemedia Solusi",
+    "protocol": "socks5",
+    "speed_ms": "2338.99",
+    "anonymity": "elite",
+    "location": "Cikarang",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  }
+]

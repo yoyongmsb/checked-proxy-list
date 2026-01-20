@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "72.10.160.92",
+    "port": 19033,
+    "country": "CL",
+    "country_code": "CL",
+    "asn": 27901,
+    "isp": "Pacifico Cable SPA.",
+    "protocol": "http",
+    "speed_ms": "2842.60",
+    "anonymity": "elite",
+    "location": "Victoria",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  }
+]

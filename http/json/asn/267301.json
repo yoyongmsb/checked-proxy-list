@@ -1,0 +1,21 @@
+[
+  {
+    "ip": "72.10.164.178",
+    "port": 11321,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 267301,
+    "isp": "TEUTONET TELECOMUNICACOES LTDA",
+    "protocol": "http",
+    "speed_ms": "1782.58",
+    "anonymity": "elite",
+    "location": "Teutonia",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "38.183.146.29",
+    "port": 7080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 140457,
+    "isp": "PT Ikhlas Cipta Teknologi",
+    "protocol": "http",
+    "speed_ms": "5739.71",
+    "anonymity": "transparent",
+    "location": "Cikarang",
+    "valid_urls": []
+  }
+]

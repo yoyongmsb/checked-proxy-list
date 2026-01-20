@@ -1,0 +1,45 @@
+[
+  {
+    "ip": "116.80.62.22",
+    "port": 3128,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 2514,
+    "isp": "NTT PC Communications, Inc.",
+    "protocol": "http",
+    "speed_ms": "2125.36",
+    "anonymity": "transparent",
+    "location": "Chiyoda",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "1.33.246.75",
+    "port": 8080,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 2514,
+    "isp": "NTT PC Communications, Inc.",
+    "protocol": "http",
+    "speed_ms": "3838.18",
+    "anonymity": "transparent",
+    "location": "Chiyoda",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "116.80.47.45",
+    "port": 3172,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 2514,
+    "isp": "NTT PC Communications, Inc.",
+    "protocol": "http",
+    "speed_ms": "2621.19",
+    "anonymity": "transparent",
+    "location": "Chiyoda",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "ip": "69.61.200.104",
+    "port": 36181,
+    "country": "US",
+    "country_code": "US",
+    "asn": 6181,
+    "isp": "Cincinnati Bell Telephone Company LLC",
+    "protocol": "socks5",
+    "speed_ms": "3841.32",
+    "anonymity": "elite",
+    "location": "Lockland",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "216.68.128.121",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 6181,
+    "isp": "Cincinnati Bell Telephone Company LLC",
+    "protocol": "socks5",
+    "speed_ms": "3812.80",
+    "anonymity": "elite",
+    "location": "Cincinnati (Central Business District)",
+    "valid_urls": []
+  },
+  {
+    "ip": "208.102.51.6",
+    "port": 58208,
+    "country": "US",
+    "country_code": "US",
+    "asn": 6181,
+    "isp": "Cincinnati Bell Telephone Company LLC",
+    "protocol": "socks5",
+    "speed_ms": "4084.40",
+    "anonymity": "elite",
+    "location": "Cincinnati (Central Business District)",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  }
+]

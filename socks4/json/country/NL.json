@@ -1,0 +1,19 @@
+[
+  {
+    "ip": "77.246.108.10",
+    "port": 21238,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 216071,
+    "isp": "SERVERS TECH FZCO",
+    "protocol": "socks4",
+    "speed_ms": "1802.74",
+    "anonymity": "elite",
+    "location": "Amsterdam",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/"
+    ]
+  }
+]

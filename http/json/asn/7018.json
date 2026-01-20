@@ -1,0 +1,105 @@
+[
+  {
+    "ip": "12.50.107.222",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 7018,
+    "isp": "AT&T Enterprises, LLC",
+    "protocol": "http",
+    "speed_ms": "1885.65",
+    "anonymity": "anonymous",
+    "location": "Weston",
+    "valid_urls": []
+  },
+  {
+    "ip": "12.50.107.219",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 7018,
+    "isp": "AT&T Enterprises, LLC",
+    "protocol": "http",
+    "speed_ms": "1504.30",
+    "anonymity": "anonymous",
+    "location": "Weston",
+    "valid_urls": []
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 7105,
+    "country": "US",
+    "country_code": "US",
+    "asn": 7018,
+    "isp": "AT&T Enterprises, LLC",
+    "protocol": "http",
+    "speed_ms": "821.10",
+    "anonymity": "elite",
+    "location": "Universal City (Northeast Side)",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "12.50.107.221",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 7018,
+    "isp": "AT&T Enterprises, LLC",
+    "protocol": "http",
+    "speed_ms": "738.98",
+    "anonymity": "anonymous",
+    "location": "Weston",
+    "valid_urls": []
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 14025,
+    "country": "US",
+    "country_code": "US",
+    "asn": 7018,
+    "isp": "AT&T Enterprises, LLC",
+    "protocol": "http",
+    "speed_ms": "740.36",
+    "anonymity": "elite",
+    "location": "Highland Park",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "12.50.107.220",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 7018,
+    "isp": "AT&T Enterprises, LLC",
+    "protocol": "http",
+    "speed_ms": "1460.34",
+    "anonymity": "anonymous",
+    "location": "Weston",
+    "valid_urls": []
+  },
+  {
+    "ip": "12.50.107.217",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 7018,
+    "isp": "AT&T Enterprises, LLC",
+    "protocol": "http",
+    "speed_ms": "1223.34",
+    "anonymity": "anonymous",
+    "location": "Weston",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "ip": "157.230.106.35",
+    "port": 8080,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "5222.50",
+    "anonymity": "elite",
+    "location": "Frankfurt am Main",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.227.5.10",
+    "port": 8888,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "1522.60",
+    "anonymity": "elite",
+    "location": "Santa Clara",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "167.172.157.96",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "1421.11",
+    "anonymity": "elite",
+    "location": "North Bergen",
+    "valid_urls": []
+  },
+  {
+    "ip": "157.230.94.38",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "821.57",
+    "anonymity": "anonymous",
+    "location": "North Bergen",
+    "valid_urls": []
+  },
+  {
+    "ip": "159.65.230.46",
+    "port": 8888,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "801.10",
+    "anonymity": "transparent",
+    "location": "North Bergen",
+    "valid_urls": []
+  },
+  {
+    "ip": "157.245.40.210",
+    "port": 80,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "1522.39",
+    "anonymity": "elite",
+    "location": "London",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.227.5.10",
+    "port": 8888,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "1323.23",
+    "anonymity": "elite",
+    "location": "Santa Clara",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "159.65.230.46",
+    "port": 8888,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "1090.17",
+    "anonymity": "transparent",
+    "location": "North Bergen",
+    "valid_urls": []
+  }
+]

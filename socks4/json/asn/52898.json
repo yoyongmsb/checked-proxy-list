@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "177.184.67.117",
+    "port": 4145,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 52898,
+    "isp": "Multipla Servicos Inteligentes",
+    "protocol": "socks4",
+    "speed_ms": "2529.28",
+    "anonymity": "elite",
+    "location": "Pirai",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "ip": "139.162.200.213",
+    "port": 80,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 63949,
+    "isp": "Akamai Technologies, Inc.",
+    "protocol": "http",
+    "speed_ms": "2259.75",
+    "anonymity": "elite",
+    "location": "London",
+    "valid_urls": []
+  },
+  {
+    "ip": "172.234.240.191",
+    "port": 3128,
+    "country": "US",
+    "country_code": "US",
+    "asn": 63949,
+    "isp": "Akamai Technologies, Inc.",
+    "protocol": "http",
+    "speed_ms": "2064.93",
+    "anonymity": "transparent",
+    "location": "Tukwila",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "139.162.200.213",
+    "port": 80,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 63949,
+    "isp": "Akamai Technologies, Inc.",
+    "protocol": "http",
+    "speed_ms": "1925.93",
+    "anonymity": "elite",
+    "location": "London",
+    "valid_urls": []
+  },
+  {
+    "ip": "172.234.240.191",
+    "port": 3128,
+    "country": "US",
+    "country_code": "US",
+    "asn": 63949,
+    "isp": "Akamai Technologies, Inc.",
+    "protocol": "http",
+    "speed_ms": "1682.16",
+    "anonymity": "transparent",
+    "location": "Tukwila",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "139.162.124.251",
+    "port": 8080,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 63949,
+    "isp": "Akamai Technologies, Inc.",
+    "protocol": "http",
+    "speed_ms": "1549.19",
+    "anonymity": "elite",
+    "location": "Shibuya City",
+    "valid_urls": []
+  }
+]

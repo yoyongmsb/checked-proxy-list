@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "177.200.66.140",
+    "port": 4145,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 52783,
+    "isp": "ALCANS TELECOM LTDA",
+    "protocol": "socks4",
+    "speed_ms": "2687.37",
+    "anonymity": "elite",
+    "location": "Ribeirao Preto",
+    "valid_urls": []
+  }
+]

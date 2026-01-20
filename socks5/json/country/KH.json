@@ -1,0 +1,97 @@
+[
+  {
+    "ip": "202.62.62.51",
+    "port": 1080,
+    "country": "KH",
+    "country_code": "KH",
+    "asn": 23673,
+    "isp": "COGETEL Co., Ltd",
+    "protocol": "socks5",
+    "speed_ms": "4649.44",
+    "anonymity": "elite",
+    "location": "Phnom Penh",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "203.189.135.14",
+    "port": 1080,
+    "country": "KH",
+    "country_code": "KH",
+    "asn": 23673,
+    "isp": "COGETEL Co., Ltd",
+    "protocol": "socks5",
+    "speed_ms": "4311.68",
+    "anonymity": "elite",
+    "location": "Phnom Penh",
+    "valid_urls": [
+      "https://www.google.com/search?q=google"
+    ]
+  },
+  {
+    "ip": "203.189.158.239",
+    "port": 1080,
+    "country": "KH",
+    "country_code": "KH",
+    "asn": 23673,
+    "isp": "COGETEL Co., Ltd",
+    "protocol": "socks5",
+    "speed_ms": "3366.57",
+    "anonymity": "elite",
+    "location": "Phnom Penh",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "202.62.55.64",
+    "port": 1080,
+    "country": "KH",
+    "country_code": "KH",
+    "asn": 23673,
+    "isp": "COGETEL Co., Ltd",
+    "protocol": "socks5",
+    "speed_ms": "2909.84",
+    "anonymity": "elite",
+    "location": "Phnom Penh",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "124.248.189.223",
+    "port": 1080,
+    "country": "KH",
+    "country_code": "KH",
+    "asn": 23673,
+    "isp": "COGETEL Co., Ltd",
+    "protocol": "socks5",
+    "speed_ms": "5873.67",
+    "anonymity": "elite",
+    "location": "Battambang",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "124.248.177.43",
+    "port": 1080,
+    "country": "KH",
+    "country_code": "KH",
+    "asn": 23673,
+    "isp": "COGETEL Co., Ltd",
+    "protocol": "socks5",
+    "speed_ms": "5315.33",
+    "anonymity": "elite",
+    "location": "Poipet",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

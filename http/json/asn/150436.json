@@ -1,0 +1,60 @@
+[
+  {
+    "ip": "101.47.16.101",
+    "port": 7890,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 150436,
+    "isp": "Byteplus Pte. Ltd.",
+    "protocol": "http",
+    "speed_ms": "3339.97",
+    "anonymity": "elite",
+    "location": "Singapore",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "101.47.16.15",
+    "port": 7890,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 150436,
+    "isp": "Byteplus Pte. Ltd.",
+    "protocol": "http",
+    "speed_ms": "4518.26",
+    "anonymity": "elite",
+    "location": "Singapore",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "101.47.16.101",
+    "port": 7890,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 150436,
+    "isp": "Byteplus Pte. Ltd.",
+    "protocol": "http",
+    "speed_ms": "1751.69",
+    "anonymity": "elite",
+    "location": "Singapore",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

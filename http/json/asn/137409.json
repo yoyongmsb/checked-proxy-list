@@ -1,0 +1,19 @@
+[
+  {
+    "ip": "45.22.209.157",
+    "port": 8888,
+    "country": "US",
+    "country_code": "US",
+    "asn": 137409,
+    "isp": "GSL Networks Pty LTD",
+    "protocol": "http",
+    "speed_ms": "1565.06",
+    "anonymity": "anonymous",
+    "location": "Oklahoma City",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  }
+]

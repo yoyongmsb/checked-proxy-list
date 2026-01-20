@@ -1,0 +1,70 @@
+[
+  {
+    "ip": "67.43.236.20",
+    "port": 16369,
+    "country": "PE",
+    "country_code": "PE",
+    "asn": 12252,
+    "isp": "America Movil Peru S.A.C.",
+    "protocol": "http",
+    "speed_ms": "2399.59",
+    "anonymity": "elite",
+    "location": "Sicuani",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "190.119.132.61",
+    "port": 80,
+    "country": "PE",
+    "country_code": "PE",
+    "asn": 12252,
+    "isp": "America Movil Peru S.A.C.",
+    "protocol": "http",
+    "speed_ms": "4659.32",
+    "anonymity": "anonymous",
+    "location": "Los Organos",
+    "valid_urls": []
+  },
+  {
+    "ip": "190.119.132.62",
+    "port": 80,
+    "country": "PE",
+    "country_code": "PE",
+    "asn": 12252,
+    "isp": "America Movil Peru S.A.C.",
+    "protocol": "http",
+    "speed_ms": "2530.00",
+    "anonymity": "anonymous",
+    "location": "Los Organos",
+    "valid_urls": []
+  },
+  {
+    "ip": "67.43.236.20",
+    "port": 16369,
+    "country": "PE",
+    "country_code": "PE",
+    "asn": 12252,
+    "isp": "America Movil Peru S.A.C.",
+    "protocol": "http",
+    "speed_ms": "1619.76",
+    "anonymity": "elite",
+    "location": "Sicuani",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

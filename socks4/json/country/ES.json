@@ -1,0 +1,50 @@
+[
+  {
+    "ip": "77.225.198.220",
+    "port": 4673,
+    "country": "ES",
+    "country_code": "ES",
+    "asn": 12430,
+    "isp": "VODAFONE ESPANA S.A.U.",
+    "protocol": "socks4",
+    "speed_ms": "2880.97",
+    "anonymity": "elite",
+    "location": "Madrid",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "178.236.112.175",
+    "port": 5678,
+    "country": "ES",
+    "country_code": "ES",
+    "asn": 51151,
+    "isp": "Comunicaciones Enersol, S.L.",
+    "protocol": "socks4",
+    "speed_ms": "2799.72",
+    "anonymity": "elite",
+    "location": "Aspe",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "77.225.198.220",
+    "port": 4673,
+    "country": "ES",
+    "country_code": "ES",
+    "asn": 12430,
+    "isp": "VODAFONE ESPANA S.A.U.",
+    "protocol": "socks4",
+    "speed_ms": "1644.61",
+    "anonymity": "elite",
+    "location": "Madrid",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  }
+]

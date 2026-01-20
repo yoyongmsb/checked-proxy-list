@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "103.144.18.70",
+    "port": 3128,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 139418,
+    "isp": "PT Gasatek Bintang Nusantara",
+    "protocol": "http",
+    "speed_ms": "6370.65",
+    "anonymity": "transparent",
+    "location": "Jember",
+    "valid_urls": []
+  }
+]

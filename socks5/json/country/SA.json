@@ -1,0 +1,48 @@
+[
+  {
+    "ip": "36.255.98.184",
+    "port": 10052,
+    "country": "SA",
+    "country_code": "SA",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "socks5",
+    "speed_ms": "5026.73",
+    "anonymity": "elite",
+    "location": "Dammam",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.185",
+    "port": 12249,
+    "country": "SA",
+    "country_code": "SA",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "socks5",
+    "speed_ms": "5861.28",
+    "anonymity": "elite",
+    "location": "Dammam",
+    "valid_urls": []
+  },
+  {
+    "ip": "36.255.98.180",
+    "port": 11670,
+    "country": "SA",
+    "country_code": "SA",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "socks5",
+    "speed_ms": "2662.50",
+    "anonymity": "elite",
+    "location": "Dammam",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  }
+]

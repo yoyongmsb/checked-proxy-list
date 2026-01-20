@@ -1,0 +1,135 @@
+[
+  {
+    "ip": "67.43.236.20",
+    "port": 16369,
+    "country": "PE",
+    "country_code": "PE",
+    "asn": 12252,
+    "isp": "America Movil Peru S.A.C.",
+    "protocol": "http",
+    "speed_ms": "2399.59",
+    "anonymity": "elite",
+    "location": "Sicuani",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "190.119.132.61",
+    "port": 80,
+    "country": "PE",
+    "country_code": "PE",
+    "asn": 12252,
+    "isp": "America Movil Peru S.A.C.",
+    "protocol": "http",
+    "speed_ms": "4659.32",
+    "anonymity": "anonymous",
+    "location": "Los Organos",
+    "valid_urls": []
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 17839,
+    "country": "PE",
+    "country_code": "PE",
+    "asn": 271835,
+    "isp": "P Y D TELECOM S.R.L.",
+    "protocol": "http",
+    "speed_ms": "1861.44",
+    "anonymity": "elite",
+    "location": "Santa Dominguita",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "38.253.80.25",
+    "port": 999,
+    "country": "PE",
+    "country_code": "PE",
+    "asn": 272106,
+    "isp": "CORPORACION TARAZONA CATV S.A.C.",
+    "protocol": "http",
+    "speed_ms": "2019.92",
+    "anonymity": "transparent",
+    "location": "Independencia",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "190.119.132.62",
+    "port": 80,
+    "country": "PE",
+    "country_code": "PE",
+    "asn": 12252,
+    "isp": "America Movil Peru S.A.C.",
+    "protocol": "http",
+    "speed_ms": "2530.00",
+    "anonymity": "anonymous",
+    "location": "Los Organos",
+    "valid_urls": []
+  },
+  {
+    "ip": "67.43.236.20",
+    "port": 16369,
+    "country": "PE",
+    "country_code": "PE",
+    "asn": 12252,
+    "isp": "America Movil Peru S.A.C.",
+    "protocol": "http",
+    "speed_ms": "1619.76",
+    "anonymity": "elite",
+    "location": "Sicuani",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 17839,
+    "country": "PE",
+    "country_code": "PE",
+    "asn": 271835,
+    "isp": "P Y D TELECOM S.R.L.",
+    "protocol": "http",
+    "speed_ms": "1348.53",
+    "anonymity": "elite",
+    "location": "Santa Dominguita",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

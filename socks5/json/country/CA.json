@@ -1,0 +1,70 @@
+[
+  {
+    "ip": "36.255.98.169",
+    "port": 4038,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "socks5",
+    "speed_ms": "3012.48",
+    "anonymity": "elite",
+    "location": "Toronto",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.165",
+    "port": 8442,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 14116,
+    "isp": "Internet Names For Business Inc.",
+    "protocol": "socks5",
+    "speed_ms": "2314.20",
+    "anonymity": "elite",
+    "location": "Waterloo",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.188",
+    "port": 4502,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 26832,
+    "isp": "Rica Web Services",
+    "protocol": "socks5",
+    "speed_ms": "5875.94",
+    "anonymity": "elite",
+    "location": "Montreal (Ahuntsic-Cartierville)",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.181",
+    "port": 8549,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 14116,
+    "isp": "Internet Names For Business Inc.",
+    "protocol": "socks5",
+    "speed_ms": "5325.96",
+    "anonymity": "elite",
+    "location": "Waterloo",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

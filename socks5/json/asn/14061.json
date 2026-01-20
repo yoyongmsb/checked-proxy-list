@@ -1,0 +1,301 @@
+[
+  {
+    "ip": "36.255.98.176",
+    "port": 4036,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "4740.00",
+    "anonymity": "elite",
+    "location": "North Bergen",
+    "valid_urls": []
+  },
+  {
+    "ip": "36.255.98.165",
+    "port": 4157,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "5915.30",
+    "anonymity": "elite",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "134.199.159.23",
+    "port": 1080,
+    "country": "AU",
+    "country_code": "AU",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "3385.62",
+    "anonymity": "elite",
+    "location": "Alexandria",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.184",
+    "port": 4177,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "5995.34",
+    "anonymity": "elite",
+    "location": "Frankfurt am Main",
+    "valid_urls": []
+  },
+  {
+    "ip": "36.255.98.180",
+    "port": 4090,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "4995.74",
+    "anonymity": "elite",
+    "location": "North Bergen",
+    "valid_urls": []
+  },
+  {
+    "ip": "174.138.61.184",
+    "port": 1080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "2161.32",
+    "anonymity": "elite",
+    "location": "Clifton",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.189",
+    "port": 11657,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "3128.42",
+    "anonymity": "elite",
+    "location": "North Bergen",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "174.138.61.184",
+    "port": 1080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "2139.34",
+    "anonymity": "elite",
+    "location": "Clifton",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.179",
+    "port": 8989,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "2483.79",
+    "anonymity": "elite",
+    "location": "North Bergen",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.151",
+    "port": 4082,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "2253.85",
+    "anonymity": "elite",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.153",
+    "port": 4205,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "2666.08",
+    "anonymity": "elite",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.204",
+    "port": 7188,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "2861.84",
+    "anonymity": "elite",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.184",
+    "port": 4334,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "2953.04",
+    "anonymity": "elite",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "134.199.159.23",
+    "port": 1080,
+    "country": "AU",
+    "country_code": "AU",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "2540.58",
+    "anonymity": "elite",
+    "location": "Alexandria",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.165",
+    "port": 10888,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "3986.11",
+    "anonymity": "elite",
+    "location": "North Bergen",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.204",
+    "port": 7188,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "2131.65",
+    "anonymity": "elite",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  }
+]

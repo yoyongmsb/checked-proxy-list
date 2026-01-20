@@ -1,0 +1,127 @@
+[
+  {
+    "ip": "103.125.31.222",
+    "port": 80,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 138418,
+    "isp": "City Link Communication",
+    "protocol": "http",
+    "speed_ms": "2090.86",
+    "anonymity": "anonymous",
+    "location": "Narayanganj",
+    "valid_urls": []
+  },
+  {
+    "ip": "103.125.31.222",
+    "port": 80,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 138418,
+    "isp": "City Link Communication",
+    "protocol": "http",
+    "speed_ms": "1761.05",
+    "anonymity": "anonymous",
+    "location": "Narayanganj",
+    "valid_urls": []
+  },
+  {
+    "ip": "103.129.200.129",
+    "port": 8070,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 138191,
+    "isp": "Weblink Communications Ltd",
+    "protocol": "http",
+    "speed_ms": "4656.86",
+    "anonymity": "transparent",
+    "location": "Rangpur City",
+    "valid_urls": []
+  },
+  {
+    "ip": "123.200.23.121",
+    "port": 4126,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 23688,
+    "isp": "Link3 Technologies Limited",
+    "protocol": "http",
+    "speed_ms": "5381.03",
+    "anonymity": "transparent",
+    "location": "Dhaka (Gulshan)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "59.153.16.214",
+    "port": 20909,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 64043,
+    "isp": "EUROtelbd Online Ltd.",
+    "protocol": "http",
+    "speed_ms": "5943.59",
+    "anonymity": "transparent",
+    "location": "Barishal",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "103.109.212.75",
+    "port": 2215,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 135346,
+    "isp": "Bismillah Telecom Service",
+    "protocol": "http",
+    "speed_ms": "6359.18",
+    "anonymity": "elite",
+    "location": "Dhaka",
+    "valid_urls": []
+  },
+  {
+    "ip": "59.153.100.98",
+    "port": 80,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 134732,
+    "isp": "Dot Internet",
+    "protocol": "http",
+    "speed_ms": "1051.53",
+    "anonymity": "anonymous",
+    "location": "Dhaka (Mohammadpur)",
+    "valid_urls": []
+  },
+  {
+    "ip": "123.200.6.205",
+    "port": 2314,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 23688,
+    "isp": "Link3 Technologies Limited",
+    "protocol": "http",
+    "speed_ms": "2247.39",
+    "anonymity": "transparent",
+    "location": "Dhaka (Gulshan)",
+    "valid_urls": [
+      "https://www.google.com/search?q=google"
+    ]
+  },
+  {
+    "ip": "27.147.137.234",
+    "port": 9108,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 23688,
+    "isp": "Link3 Technologies Limited",
+    "protocol": "http",
+    "speed_ms": "3573.46",
+    "anonymity": "elite",
+    "location": "Dhaka (Gulshan)",
+    "valid_urls": []
+  }
+]

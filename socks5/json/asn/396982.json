@@ -1,0 +1,244 @@
+[
+  {
+    "ip": "36.255.98.184",
+    "port": 10052,
+    "country": "SA",
+    "country_code": "SA",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "socks5",
+    "speed_ms": "5026.73",
+    "anonymity": "elite",
+    "location": "Dammam",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.167",
+    "port": 12286,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "socks5",
+    "speed_ms": "6463.45",
+    "anonymity": "elite",
+    "location": "Groningen",
+    "valid_urls": [
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.185",
+    "port": 4502,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "socks5",
+    "speed_ms": "3662.42",
+    "anonymity": "elite",
+    "location": "Groningen",
+    "valid_urls": []
+  },
+  {
+    "ip": "36.255.98.167",
+    "port": 12286,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "socks5",
+    "speed_ms": "5635.36",
+    "anonymity": "elite",
+    "location": "Groningen",
+    "valid_urls": [
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.179",
+    "port": 4906,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "socks5",
+    "speed_ms": "3209.04",
+    "anonymity": "elite",
+    "location": "Groningen",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.181",
+    "port": 5060,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "socks5",
+    "speed_ms": "3079.60",
+    "anonymity": "elite",
+    "location": "Groningen",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.169",
+    "port": 4038,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "socks5",
+    "speed_ms": "3012.48",
+    "anonymity": "elite",
+    "location": "Toronto",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.205",
+    "port": 15654,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "socks5",
+    "speed_ms": "2913.67",
+    "anonymity": "elite",
+    "location": "Groningen",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "62.60.131.185",
+    "port": 12249,
+    "country": "SA",
+    "country_code": "SA",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "socks5",
+    "speed_ms": "5861.28",
+    "anonymity": "elite",
+    "location": "Dammam",
+    "valid_urls": []
+  },
+  {
+    "ip": "62.60.131.205",
+    "port": 5064,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "socks5",
+    "speed_ms": "4224.99",
+    "anonymity": "elite",
+    "location": "Groningen",
+    "valid_urls": []
+  },
+  {
+    "ip": "62.60.131.183",
+    "port": 4967,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "socks5",
+    "speed_ms": "2499.97",
+    "anonymity": "elite",
+    "location": "Groningen",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.205",
+    "port": 5674,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "socks5",
+    "speed_ms": "3484.23",
+    "anonymity": "elite",
+    "location": "Groningen",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.253",
+    "port": 8402,
+    "country": "US",
+    "country_code": "US",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "socks5",
+    "speed_ms": "3442.25",
+    "anonymity": "elite",
+    "location": "Council Bluffs",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.180",
+    "port": 11670,
+    "country": "SA",
+    "country_code": "SA",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "socks5",
+    "speed_ms": "2662.50",
+    "anonymity": "elite",
+    "location": "Dammam",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.184",
+    "port": 4649,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "socks5",
+    "speed_ms": "2038.65",
+    "anonymity": "elite",
+    "location": "Groningen",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  }
+]

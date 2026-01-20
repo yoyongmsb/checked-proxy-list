@@ -1,0 +1,118 @@
+[
+  {
+    "ip": "67.43.236.20",
+    "port": 13623,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 28009,
+    "isp": "Davitel S.A.",
+    "protocol": "http",
+    "speed_ms": "2312.92",
+    "anonymity": "elite",
+    "location": "Neuquen",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 10789,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 7303,
+    "isp": "Telecom Argentina S.A.",
+    "protocol": "http",
+    "speed_ms": "1499.39",
+    "anonymity": "elite",
+    "location": "Buenos Aires",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 10789,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 7303,
+    "isp": "Telecom Argentina S.A.",
+    "protocol": "http",
+    "speed_ms": "1825.92",
+    "anonymity": "elite",
+    "location": "Buenos Aires",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 27191,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 22927,
+    "isp": "Telefonica de Argentina",
+    "protocol": "http",
+    "speed_ms": "2359.95",
+    "anonymity": "elite",
+    "location": "Lanus",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 13343,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 27747,
+    "isp": "Telecentro S.A.",
+    "protocol": "http",
+    "speed_ms": "1289.01",
+    "anonymity": "elite",
+    "location": "Santos Lugares",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "45.178.55.2",
+    "port": 999,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 52492,
+    "isp": "SITERNET SRL",
+    "protocol": "http",
+    "speed_ms": "2576.60",
+    "anonymity": "anonymous",
+    "location": "Posadas",
+    "valid_urls": []
+  }
+]

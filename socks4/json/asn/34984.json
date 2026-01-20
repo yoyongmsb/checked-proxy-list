@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "176.235.182.84",
+    "port": 1080,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 34984,
+    "isp": "Superonline Iletisim Hizmetleri A.S.",
+    "protocol": "socks4",
+    "speed_ms": "4500.83",
+    "anonymity": "elite",
+    "location": "Istanbul",
+    "valid_urls": []
+  }
+]

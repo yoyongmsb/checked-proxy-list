@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "188.132.221.169",
+    "port": 8080,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 202561,
+    "isp": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.",
+    "protocol": "http",
+    "speed_ms": "6269.49",
+    "anonymity": "transparent",
+    "location": "Istanbul",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  }
+]

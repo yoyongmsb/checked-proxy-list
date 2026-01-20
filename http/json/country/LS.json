@@ -1,0 +1,80 @@
+[
+  {
+    "ip": "41.191.203.167",
+    "port": 80,
+    "country": "LS",
+    "country_code": "LS",
+    "asn": 37057,
+    "isp": "Vodacom Lesotho (Pty) Ltd",
+    "protocol": "http",
+    "speed_ms": "3631.45",
+    "anonymity": "anonymous",
+    "location": "Maseru",
+    "valid_urls": []
+  },
+  {
+    "ip": "41.191.203.163",
+    "port": 80,
+    "country": "LS",
+    "country_code": "LS",
+    "asn": 37057,
+    "isp": "Vodacom Lesotho (Pty) Ltd",
+    "protocol": "http",
+    "speed_ms": "3533.61",
+    "anonymity": "anonymous",
+    "location": "Maseru",
+    "valid_urls": []
+  },
+  {
+    "ip": "41.191.203.161",
+    "port": 80,
+    "country": "LS",
+    "country_code": "LS",
+    "asn": 37057,
+    "isp": "Vodacom Lesotho (Pty) Ltd",
+    "protocol": "http",
+    "speed_ms": "3358.79",
+    "anonymity": "anonymous",
+    "location": "Maseru",
+    "valid_urls": []
+  },
+  {
+    "ip": "41.191.203.162",
+    "port": 80,
+    "country": "LS",
+    "country_code": "LS",
+    "asn": 37057,
+    "isp": "Vodacom Lesotho (Pty) Ltd",
+    "protocol": "http",
+    "speed_ms": "2335.20",
+    "anonymity": "anonymous",
+    "location": "Maseru",
+    "valid_urls": []
+  },
+  {
+    "ip": "41.191.203.160",
+    "port": 80,
+    "country": "LS",
+    "country_code": "LS",
+    "asn": 37057,
+    "isp": "Vodacom Lesotho (Pty) Ltd",
+    "protocol": "http",
+    "speed_ms": "3700.95",
+    "anonymity": "anonymous",
+    "location": "Maseru",
+    "valid_urls": []
+  },
+  {
+    "ip": "41.191.203.164",
+    "port": 80,
+    "country": "LS",
+    "country_code": "LS",
+    "asn": 37057,
+    "isp": "Vodacom Lesotho (Pty) Ltd",
+    "protocol": "http",
+    "speed_ms": "3633.92",
+    "anonymity": "anonymous",
+    "location": "Maseru",
+    "valid_urls": []
+  }
+]

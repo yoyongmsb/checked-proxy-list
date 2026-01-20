@@ -1,0 +1,34 @@
+[
+  {
+    "ip": "77.225.198.220",
+    "port": 4673,
+    "country": "ES",
+    "country_code": "ES",
+    "asn": 12430,
+    "isp": "VODAFONE ESPANA S.A.U.",
+    "protocol": "socks4",
+    "speed_ms": "2880.97",
+    "anonymity": "elite",
+    "location": "Madrid",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "77.225.198.220",
+    "port": 4673,
+    "country": "ES",
+    "country_code": "ES",
+    "asn": 12430,
+    "isp": "VODAFONE ESPANA S.A.U.",
+    "protocol": "socks4",
+    "speed_ms": "1644.61",
+    "anonymity": "elite",
+    "location": "Madrid",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  }
+]

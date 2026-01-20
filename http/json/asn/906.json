@@ -1,0 +1,80 @@
+[
+  {
+    "ip": "174.136.204.40",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 906,
+    "isp": "DMIT Cloud Services",
+    "protocol": "http",
+    "speed_ms": "2236.37",
+    "anonymity": "elite",
+    "location": "Los Angeles",
+    "valid_urls": []
+  },
+  {
+    "ip": "174.136.204.40",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 906,
+    "isp": "DMIT Cloud Services",
+    "protocol": "http",
+    "speed_ms": "1902.36",
+    "anonymity": "elite",
+    "location": "Los Angeles",
+    "valid_urls": []
+  },
+  {
+    "ip": "154.17.224.118",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 906,
+    "isp": "DMIT Cloud Services",
+    "protocol": "http",
+    "speed_ms": "1557.28",
+    "anonymity": "elite",
+    "location": "Los Angeles (Central-Alameda)",
+    "valid_urls": []
+  },
+  {
+    "ip": "45.59.186.60",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 906,
+    "isp": "DMIT Cloud Services",
+    "protocol": "http",
+    "speed_ms": "2593.32",
+    "anonymity": "elite",
+    "location": "Los Angeles (Central-Alameda)",
+    "valid_urls": []
+  },
+  {
+    "ip": "154.17.228.122",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 906,
+    "isp": "DMIT Cloud Services",
+    "protocol": "http",
+    "speed_ms": "2376.68",
+    "anonymity": "elite",
+    "location": "Los Angeles (Central-Alameda)",
+    "valid_urls": []
+  },
+  {
+    "ip": "45.59.186.60",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 906,
+    "isp": "DMIT Cloud Services",
+    "protocol": "http",
+    "speed_ms": "1070.43",
+    "anonymity": "elite",
+    "location": "Los Angeles (Central-Alameda)",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "ip": "72.10.164.178",
+    "port": 6925,
+    "country": "TH",
+    "country_code": "TH",
+    "asn": 133481,
+    "isp": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+    "protocol": "http",
+    "speed_ms": "5039.11",
+    "anonymity": "elite",
+    "location": "Nakhon Ratchasima",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

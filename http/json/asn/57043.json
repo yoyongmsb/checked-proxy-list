@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "94.177.58.26",
+    "port": 7443,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 57043,
+    "isp": "HOSTKEY B.V.",
+    "protocol": "http",
+    "speed_ms": "3405.05",
+    "anonymity": "elite",
+    "location": "Frankfurt am Main",
+    "valid_urls": []
+  }
+]

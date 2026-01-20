@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "123.253.124.28",
+    "port": 5678,
+    "country": "IN",
+    "country_code": "IN",
+    "asn": 133469,
+    "isp": "Multinet (Udaipur) Private Limited",
+    "protocol": "socks4",
+    "speed_ms": "3427.07",
+    "anonymity": "elite",
+    "location": "Udaipur (Ganesh Ghati)",
+    "valid_urls": [
+      "https://www.google.com/search?q=google"
+    ]
+  }
+]

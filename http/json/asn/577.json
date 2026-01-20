@@ -1,0 +1,20 @@
+[
+  {
+    "ip": "72.10.160.171",
+    "port": 7849,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 577,
+    "isp": "Bell Canada",
+    "protocol": "http",
+    "speed_ms": "1060.14",
+    "anonymity": "elite",
+    "location": "Le Plateau-Mont-Royal",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/"
+    ]
+  }
+]

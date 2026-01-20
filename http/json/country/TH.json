@@ -1,0 +1,102 @@
+[
+  {
+    "ip": "49.229.100.235",
+    "port": 8080,
+    "country": "TH",
+    "country_code": "TH",
+    "asn": 7470,
+    "isp": "TRUE INTERNET CORPORATION CO. LTD.",
+    "protocol": "http",
+    "speed_ms": "1897.80",
+    "anonymity": "transparent",
+    "location": "Bang Yai",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "61.91.162.126",
+    "port": 8080,
+    "country": "TH",
+    "country_code": "TH",
+    "asn": 7470,
+    "isp": "TRUE INTERNET CORPORATION CO. LTD.",
+    "protocol": "http",
+    "speed_ms": "1223.64",
+    "anonymity": "transparent",
+    "location": "Din Daeng",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 6925,
+    "country": "TH",
+    "country_code": "TH",
+    "asn": 133481,
+    "isp": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+    "protocol": "http",
+    "speed_ms": "5039.11",
+    "anonymity": "elite",
+    "location": "Nakhon Ratchasima",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "27.254.217.116",
+    "port": 8081,
+    "country": "TH",
+    "country_code": "TH",
+    "asn": 9891,
+    "isp": "CS Loxinfo Public Company Limited",
+    "protocol": "http",
+    "speed_ms": "2703.13",
+    "anonymity": "anonymous",
+    "location": "Huai Khwang (Khwaeng Huai Khwang)",
+    "valid_urls": []
+  },
+  {
+    "ip": "103.10.231.189",
+    "port": 8080,
+    "country": "TH",
+    "country_code": "TH",
+    "asn": 7470,
+    "isp": "TRUE INTERNET CORPORATION CO. LTD.",
+    "protocol": "http",
+    "speed_ms": "1186.48",
+    "anonymity": "transparent",
+    "location": "Din Daeng",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "171.100.254.137",
+    "port": 8080,
+    "country": "TH",
+    "country_code": "TH",
+    "asn": 7470,
+    "isp": "TRUE INTERNET CORPORATION CO. LTD.",
+    "protocol": "http",
+    "speed_ms": "1137.18",
+    "anonymity": "transparent",
+    "location": "Bang Yai",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

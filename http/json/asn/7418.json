@@ -1,0 +1,37 @@
+[
+  {
+    "ip": "67.43.236.20",
+    "port": 16335,
+    "country": "CL",
+    "country_code": "CL",
+    "asn": 7418,
+    "isp": "TELEFONICA CHILE S.A.",
+    "protocol": "http",
+    "speed_ms": "1126.12",
+    "anonymity": "elite",
+    "location": "Copiapo",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "67.43.236.18",
+    "port": 16335,
+    "country": "CL",
+    "country_code": "CL",
+    "asn": 7418,
+    "isp": "TELEFONICA CHILE S.A.",
+    "protocol": "http",
+    "speed_ms": "2075.19",
+    "anonymity": "elite",
+    "location": "Copiapo",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/"
+    ]
+  }
+]

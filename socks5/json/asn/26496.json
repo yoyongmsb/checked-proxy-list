@@ -1,0 +1,33 @@
+[
+  {
+    "ip": "62.60.131.188",
+    "port": 4539,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 26496,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "socks5",
+    "speed_ms": "3176.23",
+    "anonymity": "elite",
+    "location": "Singapore",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.253",
+    "port": 16924,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 26496,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "socks5",
+    "speed_ms": "2440.60",
+    "anonymity": "elite",
+    "location": "Singapore",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "ip": "62.60.131.183",
+    "port": 9796,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135918,
+    "isp": "VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",
+    "protocol": "socks5",
+    "speed_ms": "4842.69",
+    "anonymity": "elite",
+    "location": "Quan Ba",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.182",
+    "port": 4224,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135918,
+    "isp": "VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",
+    "protocol": "socks5",
+    "speed_ms": "3203.52",
+    "anonymity": "elite",
+    "location": "Quan Ba",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.163",
+    "port": 8686,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135918,
+    "isp": "VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",
+    "protocol": "socks5",
+    "speed_ms": "5576.67",
+    "anonymity": "elite",
+    "location": "Quan Ba",
+    "valid_urls": []
+  }
+]

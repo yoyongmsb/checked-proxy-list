@@ -1,0 +1,57 @@
+[
+  {
+    "ip": "36.255.98.154",
+    "port": 6262,
+    "country": "GR",
+    "country_code": "GR",
+    "asn": 5408,
+    "isp": "National Infrastructures for Research and Technology S.A.",
+    "protocol": "socks5",
+    "speed_ms": "4100.56",
+    "anonymity": "elite",
+    "location": "Tripoli",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.204",
+    "port": 8072,
+    "country": "GR",
+    "country_code": "GR",
+    "asn": 5408,
+    "isp": "National Infrastructures for Research and Technology S.A.",
+    "protocol": "socks5",
+    "speed_ms": "3705.97",
+    "anonymity": "elite",
+    "location": "Tripoli",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.204",
+    "port": 8072,
+    "country": "GR",
+    "country_code": "GR",
+    "asn": 5408,
+    "isp": "National Infrastructures for Research and Technology S.A.",
+    "protocol": "socks5",
+    "speed_ms": "3263.59",
+    "anonymity": "elite",
+    "location": "Tripoli",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  }
+]

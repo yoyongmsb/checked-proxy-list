@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "94.126.201.115",
+    "port": 3128,
+    "country": "KZ",
+    "country_code": "KZ",
+    "asn": 200590,
+    "isp": "NLS Kazakhstan LLC",
+    "protocol": "http",
+    "speed_ms": "3235.34",
+    "anonymity": "transparent",
+    "location": "Almaty (Bostandyk District)",
+    "valid_urls": []
+  }
+]

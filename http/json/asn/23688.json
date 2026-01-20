@@ -1,0 +1,47 @@
+[
+  {
+    "ip": "123.200.23.121",
+    "port": 4126,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 23688,
+    "isp": "Link3 Technologies Limited",
+    "protocol": "http",
+    "speed_ms": "5381.03",
+    "anonymity": "transparent",
+    "location": "Dhaka (Gulshan)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "123.200.6.205",
+    "port": 2314,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 23688,
+    "isp": "Link3 Technologies Limited",
+    "protocol": "http",
+    "speed_ms": "2247.39",
+    "anonymity": "transparent",
+    "location": "Dhaka (Gulshan)",
+    "valid_urls": [
+      "https://www.google.com/search?q=google"
+    ]
+  },
+  {
+    "ip": "27.147.137.234",
+    "port": 9108,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 23688,
+    "isp": "Link3 Technologies Limited",
+    "protocol": "http",
+    "speed_ms": "3573.46",
+    "anonymity": "elite",
+    "location": "Dhaka (Gulshan)",
+    "valid_urls": []
+  }
+]

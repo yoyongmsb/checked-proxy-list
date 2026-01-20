@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "47.243.75.202",
+    "port": 58854,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "socks5",
+    "speed_ms": "3457.91",
+    "anonymity": "elite",
+    "location": "Hong Kong",
+    "valid_urls": []
+  },
+  {
+    "ip": "47.243.75.202",
+    "port": 58854,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "socks5",
+    "speed_ms": "2154.58",
+    "anonymity": "elite",
+    "location": "Hong Kong",
+    "valid_urls": []
+  }
+]

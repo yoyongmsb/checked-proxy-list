@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "160.19.84.7",
+    "port": 8999,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 152754,
+    "isp": "CV CRON INTERDATA NUSANTARA",
+    "protocol": "http",
+    "speed_ms": "2890.88",
+    "anonymity": "transparent",
+    "location": "Mojokerto",
+    "valid_urls": [
+      "https://www.google.com/search?q=google"
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "ip": "182.53.96.56",
+    "port": 4145,
+    "country": "TH",
+    "country_code": "TH",
+    "asn": 23969,
+    "isp": "TOT Public Company Limited",
+    "protocol": "socks4",
+    "speed_ms": "5752.37",
+    "anonymity": "elite",
+    "location": "Buriram",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "113.53.91.26",
+    "port": 4153,
+    "country": "TH",
+    "country_code": "TH",
+    "asn": 23969,
+    "isp": "TOT Public Company Limited",
+    "protocol": "socks4",
+    "speed_ms": "1882.64",
+    "anonymity": "elite",
+    "location": "Khwaeng Thung Song Hong",
+    "valid_urls": [
+      "https://www.instagram.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "1.4.195.114",
+    "port": 4145,
+    "country": "TH",
+    "country_code": "TH",
+    "asn": 23969,
+    "isp": "TOT Public Company Limited",
+    "protocol": "socks4",
+    "speed_ms": "1844.43",
+    "anonymity": "elite",
+    "location": "Khwaeng Thung Song Hong",
+    "valid_urls": []
+  },
+  {
+    "ip": "125.25.57.57",
+    "port": 4153,
+    "country": "TH",
+    "country_code": "TH",
+    "asn": 23969,
+    "isp": "TOT Public Company Limited",
+    "protocol": "socks4",
+    "speed_ms": "1749.45",
+    "anonymity": "elite",
+    "location": "Ban Talat Bueng",
+    "valid_urls": []
+  }
+]

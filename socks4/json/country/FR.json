@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "62.133.62.12",
+    "port": 1082,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 215540,
+    "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+    "protocol": "socks4",
+    "speed_ms": "5915.38",
+    "anonymity": "elite",
+    "location": "Paris",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  }
+]

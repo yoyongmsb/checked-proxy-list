@@ -1,0 +1,352 @@
+[
+  {
+    "ip": "211.230.49.122",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "3119.73",
+    "anonymity": "anonymous",
+    "location": "Cheonan-si (Seonggeo-eup)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "183.110.216.128",
+    "port": 8090,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "2836.55",
+    "anonymity": "anonymous",
+    "location": "Seongnam-si",
+    "valid_urls": []
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 32523,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "1784.43",
+    "anonymity": "elite",
+    "location": "Seongnam-si",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "59.6.25.118",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "1869.12",
+    "anonymity": "transparent",
+    "location": "Haengdang-dong",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "218.152.206.92",
+    "port": 10080,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "1859.40",
+    "anonymity": "elite",
+    "location": "Seongnam-si",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "175.215.147.188",
+    "port": 3148,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "2638.46",
+    "anonymity": "transparent",
+    "location": "Seongnam-si (Jeongja-dong)",
+    "valid_urls": [
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "59.6.25.118",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "1827.68",
+    "anonymity": "transparent",
+    "location": "Haengdang-dong",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "183.110.216.159",
+    "port": 8090,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "1986.94",
+    "anonymity": "anonymous",
+    "location": "Seongnam-si",
+    "valid_urls": []
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 16717,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "1348.88",
+    "anonymity": "elite",
+    "location": "Seongnam-si (Buljeong-ro)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 16717,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "1333.43",
+    "anonymity": "elite",
+    "location": "Seongnam-si (Buljeong-ro)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "175.215.147.214",
+    "port": 3088,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "1483.78",
+    "anonymity": "transparent",
+    "location": "Seongnam-si (Jeongja-dong)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "183.110.216.159",
+    "port": 8091,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "1793.41",
+    "anonymity": "anonymous",
+    "location": "Seongnam-si",
+    "valid_urls": []
+  },
+  {
+    "ip": "211.230.49.122",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "1769.81",
+    "anonymity": "anonymous",
+    "location": "Cheonan-si (Seonggeo-eup)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "183.110.216.159",
+    "port": 8090,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "1725.45",
+    "anonymity": "anonymous",
+    "location": "Seongnam-si",
+    "valid_urls": []
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 32523,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "2487.23",
+    "anonymity": "elite",
+    "location": "Seongnam-si",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "183.110.216.128",
+    "port": 8090,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "1930.52",
+    "anonymity": "anonymous",
+    "location": "Seongnam-si",
+    "valid_urls": []
+  },
+  {
+    "ip": "183.110.216.128",
+    "port": 8091,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "1784.94",
+    "anonymity": "anonymous",
+    "location": "Seongnam-si",
+    "valid_urls": []
+  },
+  {
+    "ip": "175.215.148.171",
+    "port": 3064,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "1848.30",
+    "anonymity": "transparent",
+    "location": "Seongnam-si (Jeongja-dong)",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "67.43.236.20",
+    "port": 23981,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "2919.67",
+    "anonymity": "elite",
+    "location": "Seongnam-si (Buljeong-ro)",
+    "valid_urls": [
+      "https://www.google.com/search?q=google"
+    ]
+  },
+  {
+    "ip": "183.110.216.159",
+    "port": 8091,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "1060.81",
+    "anonymity": "anonymous",
+    "location": "Seongnam-si",
+    "valid_urls": []
+  }
+]

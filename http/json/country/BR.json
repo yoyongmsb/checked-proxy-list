@@ -1,0 +1,237 @@
+[
+  {
+    "ip": "143.255.147.242",
+    "port": 8080,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 265148,
+    "isp": "Pontonet Computadores e Redes Ltda Epp",
+    "protocol": "http",
+    "speed_ms": "3659.86",
+    "anonymity": "transparent",
+    "location": "Praia Grande",
+    "valid_urls": []
+  },
+  {
+    "ip": "72.10.160.90",
+    "port": 23263,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 18881,
+    "isp": "TELEFONICA BRASIL S.A",
+    "protocol": "http",
+    "speed_ms": "2192.19",
+    "anonymity": "elite",
+    "location": "Belo Horizonte",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "177.220.230.71",
+    "port": 8080,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 25933,
+    "isp": "Vogel Solucoes em Telecom e Informatica S/A",
+    "protocol": "http",
+    "speed_ms": "4448.20",
+    "anonymity": "transparent",
+    "location": "Itaqui",
+    "valid_urls": []
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 11321,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 267301,
+    "isp": "TEUTONET TELECOMUNICACOES LTDA",
+    "protocol": "http",
+    "speed_ms": "1782.58",
+    "anonymity": "elite",
+    "location": "Teutonia",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "177.10.145.24",
+    "port": 8080,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 262851,
+    "isp": "PLIM TELECOMUNICACOES LTDA-ME",
+    "protocol": "http",
+    "speed_ms": "5909.40",
+    "anonymity": "transparent",
+    "location": "Montes Claros",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 14417,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 264991,
+    "isp": "BOMFIM E SOUSA LTDA",
+    "protocol": "http",
+    "speed_ms": "1588.00",
+    "anonymity": "elite",
+    "location": "Campo Maior",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "72.10.160.90",
+    "port": 4439,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 52966,
+    "isp": "Raufer Informatica Ltda",
+    "protocol": "http",
+    "speed_ms": "5320.75",
+    "anonymity": "elite",
+    "location": "Caxias do Sul",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "45.168.123.193",
+    "port": 8080,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 268060,
+    "isp": "FUNNY TELECOM LTDA",
+    "protocol": "http",
+    "speed_ms": "3175.37",
+    "anonymity": "transparent",
+    "location": "Aguas de Sao Pedro",
+    "valid_urls": []
+  },
+  {
+    "ip": "72.10.160.172",
+    "port": 26155,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 18881,
+    "isp": "TELEFONICA BRASIL S.A",
+    "protocol": "http",
+    "speed_ms": "1942.71",
+    "anonymity": "elite",
+    "location": "Vila Velha",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 14417,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 264991,
+    "isp": "BOMFIM E SOUSA LTDA",
+    "protocol": "http",
+    "speed_ms": "1716.18",
+    "anonymity": "elite",
+    "location": "Campo Maior",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "72.10.160.90",
+    "port": 4439,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 52966,
+    "isp": "Raufer Informatica Ltda",
+    "protocol": "http",
+    "speed_ms": "4984.27",
+    "anonymity": "elite",
+    "location": "Caxias do Sul",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "72.10.160.173",
+    "port": 6083,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 270766,
+    "isp": "UNE PROVEDOR DE INTERNET LGT61 EIRELI",
+    "protocol": "http",
+    "speed_ms": "1775.54",
+    "anonymity": "elite",
+    "location": "Ibirite",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "200.182.232.34",
+    "port": 8080,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 4230,
+    "isp": "CLARO S.A.",
+    "protocol": "http",
+    "speed_ms": "1806.70",
+    "anonymity": "transparent",
+    "location": "Americana (Jardim Girassol)",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.reddit.com/"
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "ip": "72.10.160.90",
+    "port": 10225,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "http",
+    "speed_ms": "2672.22",
+    "anonymity": "elite",
+    "location": "Johnson",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 5469,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "http",
+    "speed_ms": "1675.28",
+    "anonymity": "elite",
+    "location": "Santa Barbara",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "ip": "72.10.164.178",
+    "port": 21367,
+    "country": "PH",
+    "country_code": "PH",
+    "asn": 132199,
+    "isp": "Globe Telecom Inc.",
+    "protocol": "http",
+    "speed_ms": "2313.37",
+    "anonymity": "elite",
+    "location": "Taytay",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

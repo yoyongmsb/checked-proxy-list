@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "103.158.121.245",
+    "port": 7777,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 141127,
+    "isp": "PT Anugerah Cimanuk Raya",
+    "protocol": "http",
+    "speed_ms": "5603.11",
+    "anonymity": "transparent",
+    "location": "Jatibarang",
+    "valid_urls": []
+  }
+]

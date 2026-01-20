@@ -1,0 +1,64 @@
+[
+  {
+    "ip": "36.255.98.153",
+    "port": 5365,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 7506,
+    "isp": "GMO Internet Group, Inc.",
+    "protocol": "socks5",
+    "speed_ms": "3986.50",
+    "anonymity": "elite",
+    "location": "Chiyoda City",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.191",
+    "port": 12484,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 7506,
+    "isp": "GMO Internet Group, Inc.",
+    "protocol": "socks5",
+    "speed_ms": "2597.91",
+    "anonymity": "elite",
+    "location": "Chiyoda City",
+    "valid_urls": []
+  },
+  {
+    "ip": "36.255.98.169",
+    "port": 4666,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 7506,
+    "isp": "GMO Internet Group, Inc.",
+    "protocol": "socks5",
+    "speed_ms": "5073.70",
+    "anonymity": "elite",
+    "location": "Chiyoda City",
+    "valid_urls": [
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.169",
+    "port": 4666,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 7506,
+    "isp": "GMO Internet Group, Inc.",
+    "protocol": "socks5",
+    "speed_ms": "5296.94",
+    "anonymity": "elite",
+    "location": "Chiyoda City",
+    "valid_urls": [
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  }
+]

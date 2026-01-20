@@ -1,0 +1,229 @@
+[
+  {
+    "ip": "202.133.88.173",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 212552,
+    "isp": "BitCommand LLC",
+    "protocol": "http",
+    "speed_ms": "2120.36",
+    "anonymity": "elite",
+    "location": "Paris",
+    "valid_urls": []
+  },
+  {
+    "ip": "135.125.97.184",
+    "port": 38833,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "3081.58",
+    "anonymity": "elite",
+    "location": "Wattrelos",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.10.160.91",
+    "port": 5193,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 12322,
+    "isp": "Free SAS",
+    "protocol": "http",
+    "speed_ms": "1758.86",
+    "anonymity": "elite",
+    "location": "Paris",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "205.237.104.203",
+    "port": 3128,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 3920,
+    "isp": "PUSHPKT OU",
+    "protocol": "http",
+    "speed_ms": "1161.21",
+    "anonymity": "transparent",
+    "location": "Paris",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "202.133.88.173",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 212552,
+    "isp": "BitCommand LLC",
+    "protocol": "http",
+    "speed_ms": "1054.64",
+    "anonymity": "elite",
+    "location": "Paris",
+    "valid_urls": []
+  },
+  {
+    "ip": "72.10.160.91",
+    "port": 17967,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 12322,
+    "isp": "Free SAS",
+    "protocol": "http",
+    "speed_ms": "3839.48",
+    "anonymity": "elite",
+    "location": "Checy",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 19609,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 12322,
+    "isp": "Free SAS",
+    "protocol": "http",
+    "speed_ms": "1886.34",
+    "anonymity": "elite",
+    "location": "Armentieres",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "40.89.145.14",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "2355.02",
+    "anonymity": "transparent",
+    "location": "Paris",
+    "valid_urls": []
+  },
+  {
+    "ip": "205.237.104.203",
+    "port": 3128,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 3920,
+    "isp": "PUSHPKT OU",
+    "protocol": "http",
+    "speed_ms": "1472.75",
+    "anonymity": "transparent",
+    "location": "Paris",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "40.89.145.14",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "1422.15",
+    "anonymity": "transparent",
+    "location": "Paris",
+    "valid_urls": []
+  },
+  {
+    "ip": "141.253.118.174",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "http",
+    "speed_ms": "1406.47",
+    "anonymity": "transparent",
+    "location": "Paris",
+    "valid_urls": []
+  },
+  {
+    "ip": "72.10.160.93",
+    "port": 5193,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 12322,
+    "isp": "Free SAS",
+    "protocol": "http",
+    "speed_ms": "4261.56",
+    "anonymity": "elite",
+    "location": "Paris",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 8551,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 5410,
+    "isp": "Bouygues Telecom SA",
+    "protocol": "http",
+    "speed_ms": "1180.28",
+    "anonymity": "elite",
+    "location": "Balma",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 30655,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 15557,
+    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
+    "protocol": "http",
+    "speed_ms": "2248.22",
+    "anonymity": "elite",
+    "location": "Rumilly",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

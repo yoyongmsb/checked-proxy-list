@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "103.199.215.43",
+    "port": 6262,
+    "country": "IN",
+    "country_code": "IN",
+    "asn": 24186,
+    "isp": "RailTel Corporation of India Ltd.",
+    "protocol": "http",
+    "speed_ms": "5260.20",
+    "anonymity": "transparent",
+    "location": "Chandauli",
+    "valid_urls": []
+  }
+]

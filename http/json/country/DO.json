@@ -1,0 +1,54 @@
+[
+  {
+    "ip": "67.43.236.20",
+    "port": 4407,
+    "country": "DO",
+    "country_code": "DO",
+    "asn": 28118,
+    "isp": "ALTICE DOMINICANA S.A.",
+    "protocol": "http",
+    "speed_ms": "1267.33",
+    "anonymity": "elite",
+    "location": "Santo Domingo Oeste",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "72.10.160.90",
+    "port": 2105,
+    "country": "DO",
+    "country_code": "DO",
+    "asn": 6400,
+    "isp": "Compania Dominicana de Telefonos S. A.",
+    "protocol": "http",
+    "speed_ms": "1217.61",
+    "anonymity": "elite",
+    "location": "Villa Altagracia",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "38.191.161.178",
+    "port": 999,
+    "country": "DO",
+    "country_code": "DO",
+    "asn": 273180,
+    "isp": "THREE NETWORKS SRL",
+    "protocol": "http",
+    "speed_ms": "2522.27",
+    "anonymity": "transparent",
+    "location": "Santo Domingo Este",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  }
+]

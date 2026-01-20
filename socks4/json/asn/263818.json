@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "138.186.155.1",
+    "port": 1085,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 263818,
+    "isp": "JOSE GUILLERMO LACALLE",
+    "protocol": "socks4",
+    "speed_ms": "2606.82",
+    "anonymity": "elite",
+    "location": "Uriburu",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "103.133.24.75",
+    "port": 8080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 138130,
+    "isp": "PT PHATRIA INTI PERSADA",
+    "protocol": "http",
+    "speed_ms": "3665.79",
+    "anonymity": "transparent",
+    "location": "Bekasi",
+    "valid_urls": []
+  }
+]

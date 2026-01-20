@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "45.177.16.137",
+    "port": 999,
+    "country": "PY",
+    "country_code": "PY",
+    "asn": 267885,
+    "isp": "MSW S.A.",
+    "protocol": "http",
+    "speed_ms": "3285.78",
+    "anonymity": "transparent",
+    "location": "Ciudad del Este",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  }
+]

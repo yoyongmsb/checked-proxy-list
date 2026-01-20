@@ -1,0 +1,138 @@
+[
+  {
+    "ip": "36.255.98.169",
+    "port": 12069,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 51167,
+    "isp": "Contabo GmbH",
+    "protocol": "socks5",
+    "speed_ms": "4459.02",
+    "anonymity": "elite",
+    "location": "London",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.191",
+    "port": 8097,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 51167,
+    "isp": "Contabo GmbH",
+    "protocol": "socks5",
+    "speed_ms": "3878.77",
+    "anonymity": "elite",
+    "location": "London",
+    "valid_urls": []
+  },
+  {
+    "ip": "36.255.98.164",
+    "port": 7649,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 51167,
+    "isp": "Contabo GmbH",
+    "protocol": "socks5",
+    "speed_ms": "3692.22",
+    "anonymity": "elite",
+    "location": "London",
+    "valid_urls": []
+  },
+  {
+    "ip": "62.60.131.204",
+    "port": 5528,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 51167,
+    "isp": "Contabo GmbH",
+    "protocol": "socks5",
+    "speed_ms": "2674.74",
+    "anonymity": "elite",
+    "location": "London",
+    "valid_urls": []
+  },
+  {
+    "ip": "147.45.179.84",
+    "port": 1082,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 215540,
+    "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+    "protocol": "socks5",
+    "speed_ms": "1997.75",
+    "anonymity": "elite",
+    "location": "Coventry",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.252.210.233",
+    "port": 4145,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks5",
+    "speed_ms": "1881.27",
+    "anonymity": "elite",
+    "location": "London",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "89.46.249.215",
+    "port": 8029,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 25369,
+    "isp": "Hydra Communications Ltd",
+    "protocol": "socks5",
+    "speed_ms": "3126.56",
+    "anonymity": "elite",
+    "location": "London",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.164",
+    "port": 7649,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 51167,
+    "isp": "Contabo GmbH",
+    "protocol": "socks5",
+    "speed_ms": "4388.37",
+    "anonymity": "elite",
+    "location": "London",
+    "valid_urls": []
+  },
+  {
+    "ip": "194.163.167.32",
+    "port": 1080,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 51167,
+    "isp": "Contabo GmbH",
+    "protocol": "socks5",
+    "speed_ms": "1680.95",
+    "anonymity": "elite",
+    "location": "London",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  }
+]

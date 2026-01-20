@@ -1,0 +1,233 @@
+[
+  {
+    "ip": "62.60.131.190",
+    "port": 6333,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "socks5",
+    "speed_ms": "4717.53",
+    "anonymity": "elite",
+    "location": "Helsinki",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.185",
+    "port": 5083,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "socks5",
+    "speed_ms": "5019.12",
+    "anonymity": "elite",
+    "location": "Helsinki",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.191",
+    "port": 4481,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "socks5",
+    "speed_ms": "5782.79",
+    "anonymity": "elite",
+    "location": "Helsinki",
+    "valid_urls": []
+  },
+  {
+    "ip": "62.60.131.189",
+    "port": 8181,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "socks5",
+    "speed_ms": "2615.72",
+    "anonymity": "elite",
+    "location": "Helsinki",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.160",
+    "port": 4500,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "socks5",
+    "speed_ms": "4110.27",
+    "anonymity": "elite",
+    "location": "Helsinki",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "62.60.131.185",
+    "port": 5083,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "socks5",
+    "speed_ms": "5183.34",
+    "anonymity": "elite",
+    "location": "Helsinki",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.189",
+    "port": 4005,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "socks5",
+    "speed_ms": "4410.41",
+    "anonymity": "elite",
+    "location": "Helsinki",
+    "valid_urls": []
+  },
+  {
+    "ip": "36.255.98.184",
+    "port": 10872,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "socks5",
+    "speed_ms": "3333.00",
+    "anonymity": "elite",
+    "location": "Helsinki",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.175",
+    "port": 4301,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "socks5",
+    "speed_ms": "3827.19",
+    "anonymity": "elite",
+    "location": "Helsinki",
+    "valid_urls": []
+  },
+  {
+    "ip": "62.60.131.191",
+    "port": 6126,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "socks5",
+    "speed_ms": "2066.42",
+    "anonymity": "elite",
+    "location": "Helsinki",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.176",
+    "port": 4431,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "socks5",
+    "speed_ms": "4510.80",
+    "anonymity": "elite",
+    "location": "Helsinki",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.191",
+    "port": 6126,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "socks5",
+    "speed_ms": "1999.30",
+    "anonymity": "elite",
+    "location": "Helsinki",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.191",
+    "port": 4481,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "socks5",
+    "speed_ms": "5765.43",
+    "anonymity": "elite",
+    "location": "Helsinki",
+    "valid_urls": []
+  },
+  {
+    "ip": "36.255.98.175",
+    "port": 4781,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "socks5",
+    "speed_ms": "2722.33",
+    "anonymity": "elite",
+    "location": "Helsinki",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "36.255.98.181",
+    "port": 4169,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "socks5",
+    "speed_ms": "3166.27",
+    "anonymity": "elite",
+    "location": "Helsinki",
+    "valid_urls": []
+  }
+]

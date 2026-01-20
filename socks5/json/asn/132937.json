@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "36.255.98.178",
+    "port": 4096,
+    "country": "IN",
+    "country_code": "IN",
+    "asn": 132937,
+    "isp": "Diadem Technologies Pvt. Ltd.",
+    "protocol": "socks5",
+    "speed_ms": "3307.46",
+    "anonymity": "elite",
+    "location": "Kolkata (Action Area I)",
+    "valid_urls": []
+  }
+]

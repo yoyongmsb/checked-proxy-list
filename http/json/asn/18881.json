@@ -1,0 +1,36 @@
+[
+  {
+    "ip": "72.10.160.90",
+    "port": 23263,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 18881,
+    "isp": "TELEFONICA BRASIL S.A",
+    "protocol": "http",
+    "speed_ms": "2192.19",
+    "anonymity": "elite",
+    "location": "Belo Horizonte",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "72.10.160.172",
+    "port": 26155,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 18881,
+    "isp": "TELEFONICA BRASIL S.A",
+    "protocol": "http",
+    "speed_ms": "1942.71",
+    "anonymity": "elite",
+    "location": "Vila Velha",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  }
+]

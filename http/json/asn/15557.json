@@ -1,0 +1,19 @@
+[
+  {
+    "ip": "72.10.164.178",
+    "port": 30655,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 15557,
+    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
+    "protocol": "http",
+    "speed_ms": "2248.22",
+    "anonymity": "elite",
+    "location": "Rumilly",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "ip": "95.163.153.116",
+    "port": 20184,
+    "country": "AT",
+    "country_code": "AT",
+    "asn": 210644,
+    "isp": "AEZA INTERNATIONAL LTD",
+    "protocol": "socks5",
+    "speed_ms": "3260.16",
+    "anonymity": "elite",
+    "location": "Vienna",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "95.163.153.116",
+    "port": 20184,
+    "country": "AT",
+    "country_code": "AT",
+    "asn": 210644,
+    "isp": "AEZA INTERNATIONAL LTD",
+    "protocol": "socks5",
+    "speed_ms": "3119.53",
+    "anonymity": "elite",
+    "location": "Vienna",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "95.163.153.116",
+    "port": 40575,
+    "country": "AT",
+    "country_code": "AT",
+    "asn": 210644,
+    "isp": "AEZA INTERNATIONAL LTD",
+    "protocol": "socks5",
+    "speed_ms": "2663.81",
+    "anonymity": "elite",
+    "location": "Vienna",
+    "valid_urls": []
+  },
+  {
+    "ip": "95.163.153.116",
+    "port": 26305,
+    "country": "AT",
+    "country_code": "AT",
+    "asn": 210644,
+    "isp": "AEZA INTERNATIONAL LTD",
+    "protocol": "socks5",
+    "speed_ms": "1535.29",
+    "anonymity": "elite",
+    "location": "Vienna",
+    "valid_urls": []
+  }
+]

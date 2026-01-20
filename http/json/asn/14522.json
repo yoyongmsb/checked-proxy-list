@@ -1,0 +1,20 @@
+[
+  {
+    "ip": "72.10.160.91",
+    "port": 26669,
+    "country": "EC",
+    "country_code": "EC",
+    "asn": 14522,
+    "isp": "Satnet",
+    "protocol": "http",
+    "speed_ms": "2581.42",
+    "anonymity": "elite",
+    "location": "Nayon",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "ip": "72.10.164.178",
+    "port": 16687,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 18403,
+    "isp": "FPT Telecom Company",
+    "protocol": "http",
+    "speed_ms": "2344.68",
+    "anonymity": "elite",
+    "location": "Hanoi",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "72.10.160.90",
+    "port": 23343,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 18403,
+    "isp": "FPT Telecom Company",
+    "protocol": "http",
+    "speed_ms": "3227.80",
+    "anonymity": "elite",
+    "location": "Phu Khuong",
+    "valid_urls": [
+      "https://www.google.com/search?q=google"
+    ]
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 16687,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 18403,
+    "isp": "FPT Telecom Company",
+    "protocol": "http",
+    "speed_ms": "2256.93",
+    "anonymity": "elite",
+    "location": "Hanoi",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "72.10.160.91",
+    "port": 6773,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 18403,
+    "isp": "FPT Telecom Company",
+    "protocol": "http",
+    "speed_ms": "4965.69",
+    "anonymity": "elite",
+    "location": "Kim Bai",
+    "valid_urls": [
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "123.30.154.171",
+    "port": 7777,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135905,
+    "isp": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
+    "protocol": "http",
+    "speed_ms": "1617.21",
+    "anonymity": "elite",
+    "location": "Hanoi",
+    "valid_urls": []
+  },
+  {
+    "ip": "103.161.17.53",
+    "port": 3128,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135967,
+    "isp": "Bach Kim Network solutions Join stock company",
+    "protocol": "http",
+    "speed_ms": "1260.31",
+    "anonymity": "transparent",
+    "location": "Phuc Lai (Phuc La)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "103.3.246.71",
+    "port": 3128,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135967,
+    "isp": "Bach Kim Network solutions Join stock company",
+    "protocol": "http",
+    "speed_ms": "4773.30",
+    "anonymity": "transparent",
+    "location": "Quan Tan Phu",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "123.30.154.171",
+    "port": 7777,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135905,
+    "isp": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
+    "protocol": "http",
+    "speed_ms": "1620.07",
+    "anonymity": "elite",
+    "location": "Hanoi",
+    "valid_urls": []
+  },
+  {
+    "ip": "103.3.246.71",
+    "port": 3128,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135967,
+    "isp": "Bach Kim Network solutions Join stock company",
+    "protocol": "http",
+    "speed_ms": "6281.73",
+    "anonymity": "transparent",
+    "location": "Quan Tan Phu",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "103.161.17.53",
+    "port": 3128,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135967,
+    "isp": "Bach Kim Network solutions Join stock company",
+    "protocol": "http",
+    "speed_ms": "1478.58",
+    "anonymity": "transparent",
+    "location": "Phuc Lai (Phuc La)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/"
+    ]
+  }
+]

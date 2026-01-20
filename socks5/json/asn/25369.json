@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "89.46.249.215",
+    "port": 8029,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 25369,
+    "isp": "Hydra Communications Ltd",
+    "protocol": "socks5",
+    "speed_ms": "3126.56",
+    "anonymity": "elite",
+    "location": "London",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  }
+]

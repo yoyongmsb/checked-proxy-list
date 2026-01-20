@@ -1,0 +1,80 @@
+[
+  {
+    "ip": "146.235.19.84",
+    "port": 10809,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "socks5",
+    "speed_ms": "2712.69",
+    "anonymity": "elite",
+    "location": "Singapore (Loyang)",
+    "valid_urls": []
+  },
+  {
+    "ip": "146.235.19.84",
+    "port": 10811,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "socks5",
+    "speed_ms": "2822.00",
+    "anonymity": "elite",
+    "location": "Singapore (Loyang)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.178",
+    "port": 10232,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "socks5",
+    "speed_ms": "4691.44",
+    "anonymity": "elite",
+    "location": "Singapore (Loyang)",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "146.235.19.84",
+    "port": 10921,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "socks5",
+    "speed_ms": "2212.16",
+    "anonymity": "elite",
+    "location": "Singapore (Loyang)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/"
+    ]
+  },
+  {
+    "ip": "146.235.19.84",
+    "port": 10907,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "socks5",
+    "speed_ms": "3384.24",
+    "anonymity": "elite",
+    "location": "Singapore (Loyang)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/"
+    ]
+  }
+]

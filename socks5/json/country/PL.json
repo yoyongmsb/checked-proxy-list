@@ -1,0 +1,72 @@
+[
+  {
+    "ip": "36.255.98.151",
+    "port": 4278,
+    "country": "PL",
+    "country_code": "PL",
+    "asn": 5617,
+    "isp": "Orange Polska Spolka Akcyjna",
+    "protocol": "socks5",
+    "speed_ms": "5177.22",
+    "anonymity": "elite",
+    "location": "Wroclaw",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.163",
+    "port": 4387,
+    "country": "PL",
+    "country_code": "PL",
+    "asn": 5617,
+    "isp": "Orange Polska Spolka Akcyjna",
+    "protocol": "socks5",
+    "speed_ms": "4737.92",
+    "anonymity": "elite",
+    "location": "Wroclaw",
+    "valid_urls": []
+  },
+  {
+    "ip": "36.255.98.153",
+    "port": 8039,
+    "country": "PL",
+    "country_code": "PL",
+    "asn": 5617,
+    "isp": "Orange Polska Spolka Akcyjna",
+    "protocol": "socks5",
+    "speed_ms": "3029.51",
+    "anonymity": "elite",
+    "location": "Wroclaw",
+    "valid_urls": []
+  },
+  {
+    "ip": "36.255.98.151",
+    "port": 4278,
+    "country": "PL",
+    "country_code": "PL",
+    "asn": 5617,
+    "isp": "Orange Polska Spolka Akcyjna",
+    "protocol": "socks5",
+    "speed_ms": "3213.08",
+    "anonymity": "elite",
+    "location": "Wroclaw",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

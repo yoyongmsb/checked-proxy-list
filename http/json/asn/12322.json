@@ -1,0 +1,71 @@
+[
+  {
+    "ip": "72.10.160.91",
+    "port": 5193,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 12322,
+    "isp": "Free SAS",
+    "protocol": "http",
+    "speed_ms": "1758.86",
+    "anonymity": "elite",
+    "location": "Paris",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "72.10.160.91",
+    "port": 17967,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 12322,
+    "isp": "Free SAS",
+    "protocol": "http",
+    "speed_ms": "3839.48",
+    "anonymity": "elite",
+    "location": "Checy",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 19609,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 12322,
+    "isp": "Free SAS",
+    "protocol": "http",
+    "speed_ms": "1886.34",
+    "anonymity": "elite",
+    "location": "Armentieres",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "72.10.160.93",
+    "port": 5193,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 12322,
+    "isp": "Free SAS",
+    "protocol": "http",
+    "speed_ms": "4261.56",
+    "anonymity": "elite",
+    "location": "Paris",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  }
+]

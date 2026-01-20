@@ -1,0 +1,38 @@
+[
+  {
+    "ip": "94.249.213.235",
+    "port": 80,
+    "country": "IN",
+    "country_code": "IN",
+    "asn": 45815,
+    "isp": "ESDS Software Solution Limited.",
+    "protocol": "http",
+    "speed_ms": "2331.73",
+    "anonymity": "anonymous",
+    "location": "Mumbai",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "94.249.213.235",
+    "port": 80,
+    "country": "IN",
+    "country_code": "IN",
+    "asn": 45815,
+    "isp": "ESDS Software Solution Limited.",
+    "protocol": "http",
+    "speed_ms": "2417.50",
+    "anonymity": "anonymous",
+    "location": "Mumbai",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  }
+]

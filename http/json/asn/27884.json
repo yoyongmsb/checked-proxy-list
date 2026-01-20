@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "168.228.44.66",
+    "port": 999,
+    "country": "HN",
+    "country_code": "HN",
+    "asn": 27884,
+    "isp": "CABLECOLOR S.A.",
+    "protocol": "http",
+    "speed_ms": "3703.64",
+    "anonymity": "transparent",
+    "location": "Jesus de Otoro",
+    "valid_urls": [
+      "https://www.reddit.com/"
+    ]
+  }
+]

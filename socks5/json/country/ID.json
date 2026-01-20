@@ -1,0 +1,32 @@
+[
+  {
+    "ip": "36.255.98.165",
+    "port": 8108,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 45298,
+    "isp": "INTERLINK TECHNOLOGY, PT",
+    "protocol": "socks5",
+    "speed_ms": "4971.64",
+    "anonymity": "elite",
+    "location": "Jakarta",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "103.180.123.111",
+    "port": 1080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 149360,
+    "isp": "PT Indo Telemedia Solusi",
+    "protocol": "socks5",
+    "speed_ms": "2338.99",
+    "anonymity": "elite",
+    "location": "Cikarang",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  }
+]

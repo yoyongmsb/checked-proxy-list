@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "221.231.13.198",
+    "port": 1080,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4134,
+    "isp": "Chinanet",
+    "protocol": "http",
+    "speed_ms": "1388.72",
+    "anonymity": "elite",
+    "location": "Nanjing",
+    "valid_urls": []
+  },
+  {
+    "ip": "221.231.13.198",
+    "port": 1080,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4134,
+    "isp": "Chinanet",
+    "protocol": "http",
+    "speed_ms": "1442.46",
+    "anonymity": "elite",
+    "location": "Nanjing",
+    "valid_urls": []
+  }
+]

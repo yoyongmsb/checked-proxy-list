@@ -1,0 +1,93 @@
+[
+  {
+    "ip": "197.221.249.195",
+    "port": 80,
+    "country": "ZW",
+    "country_code": "ZW",
+    "asn": 37204,
+    "isp": "Telone PVT Ltd",
+    "protocol": "http",
+    "speed_ms": "5105.84",
+    "anonymity": "anonymous",
+    "location": "Harare (Harare Central)",
+    "valid_urls": []
+  },
+  {
+    "ip": "197.221.249.195",
+    "port": 80,
+    "country": "ZW",
+    "country_code": "ZW",
+    "asn": 37204,
+    "isp": "Telone PVT Ltd",
+    "protocol": "http",
+    "speed_ms": "2052.40",
+    "anonymity": "anonymous",
+    "location": "Harare (Harare Central)",
+    "valid_urls": []
+  },
+  {
+    "ip": "197.221.237.248",
+    "port": 80,
+    "country": "ZW",
+    "country_code": "ZW",
+    "asn": 37204,
+    "isp": "Telone PVT Ltd",
+    "protocol": "http",
+    "speed_ms": "2085.26",
+    "anonymity": "anonymous",
+    "location": "Harare (Harare Central)",
+    "valid_urls": []
+  },
+  {
+    "ip": "197.221.240.247",
+    "port": 80,
+    "country": "ZW",
+    "country_code": "ZW",
+    "asn": 37204,
+    "isp": "Telone PVT Ltd",
+    "protocol": "http",
+    "speed_ms": "3020.94",
+    "anonymity": "anonymous",
+    "location": "Harare (Harare Central)",
+    "valid_urls": []
+  },
+  {
+    "ip": "41.220.16.209",
+    "port": 80,
+    "country": "ZW",
+    "country_code": "ZW",
+    "asn": 37204,
+    "isp": "Telone PVT Ltd",
+    "protocol": "http",
+    "speed_ms": "1583.83",
+    "anonymity": "anonymous",
+    "location": "Harare (Harare Central)",
+    "valid_urls": []
+  },
+  {
+    "ip": "41.220.16.214",
+    "port": 80,
+    "country": "ZW",
+    "country_code": "ZW",
+    "asn": 37204,
+    "isp": "Telone PVT Ltd",
+    "protocol": "http",
+    "speed_ms": "4544.93",
+    "anonymity": "anonymous",
+    "location": "Harare (Harare Central)",
+    "valid_urls": []
+  },
+  {
+    "ip": "197.221.234.252",
+    "port": 80,
+    "country": "ZW",
+    "country_code": "ZW",
+    "asn": 37204,
+    "isp": "Telone PVT Ltd",
+    "protocol": "http",
+    "speed_ms": "1399.55",
+    "anonymity": "anonymous",
+    "location": "Harare (Harare Central)",
+    "valid_urls": []
+  }
+]

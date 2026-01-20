@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "67.43.236.20",
+    "port": 1437,
+    "country": "AU",
+    "country_code": "AU",
+    "asn": 1221,
+    "isp": "Telstra Limited",
+    "protocol": "http",
+    "speed_ms": "3786.22",
+    "anonymity": "elite",
+    "location": "Sydney",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/"
+    ]
+  }
+]

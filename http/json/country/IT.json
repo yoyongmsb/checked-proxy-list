@@ -1,0 +1,72 @@
+[
+  {
+    "ip": "149.86.203.217",
+    "port": 8080,
+    "country": "IT",
+    "country_code": "IT",
+    "asn": 60501,
+    "isp": "Sirius Technology SRL",
+    "protocol": "http",
+    "speed_ms": "5851.51",
+    "anonymity": "transparent",
+    "location": "Figline Valdarno",
+    "valid_urls": []
+  },
+  {
+    "ip": "93.42.151.100",
+    "port": 8080,
+    "country": "IT",
+    "country_code": "IT",
+    "asn": 12874,
+    "isp": "Fastweb SpA",
+    "protocol": "http",
+    "speed_ms": "1009.60",
+    "anonymity": "transparent",
+    "location": "Milan",
+    "valid_urls": []
+  },
+  {
+    "ip": "37.182.223.122",
+    "port": 3128,
+    "country": "IT",
+    "country_code": "IT",
+    "asn": 30722,
+    "isp": "Vodafone Italia S.p.A.",
+    "protocol": "http",
+    "speed_ms": "1253.57",
+    "anonymity": "transparent",
+    "location": "Nichelino",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "37.182.223.122",
+    "port": 3128,
+    "country": "IT",
+    "country_code": "IT",
+    "asn": 30722,
+    "isp": "Vodafone Italia S.p.A.",
+    "protocol": "http",
+    "speed_ms": "1109.59",
+    "anonymity": "transparent",
+    "location": "Nichelino",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

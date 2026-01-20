@@ -1,0 +1,46 @@
+[
+  {
+    "ip": "64.112.185.210",
+    "port": 3128,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14713,
+    "isp": "Hosted Backbone",
+    "protocol": "http",
+    "speed_ms": "1526.85",
+    "anonymity": "elite",
+    "location": "Ashburn",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "64.112.185.210",
+    "port": 3128,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14713,
+    "isp": "Hosted Backbone",
+    "protocol": "http",
+    "speed_ms": "1477.73",
+    "anonymity": "elite",
+    "location": "Ashburn",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

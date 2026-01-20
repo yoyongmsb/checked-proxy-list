@@ -1,0 +1,20 @@
+[
+  {
+    "ip": "67.43.236.20",
+    "port": 12413,
+    "country": "TW",
+    "country_code": "TW",
+    "asn": 7482,
+    "isp": "Asia Pacific On-line Service Inc.",
+    "protocol": "http",
+    "speed_ms": "2835.79",
+    "anonymity": "elite",
+    "location": "Neihu District",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

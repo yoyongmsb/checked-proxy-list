@@ -1,0 +1,46 @@
+[
+  {
+    "ip": "195.222.249.165",
+    "port": 8080,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 20783,
+    "isp": "pop-interactive GmbH",
+    "protocol": "http",
+    "speed_ms": "2043.58",
+    "anonymity": "elite",
+    "location": "Ahrensburg",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "195.222.249.165",
+    "port": 8080,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 20783,
+    "isp": "pop-interactive GmbH",
+    "protocol": "http",
+    "speed_ms": "1664.26",
+    "anonymity": "elite",
+    "location": "Ahrensburg",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

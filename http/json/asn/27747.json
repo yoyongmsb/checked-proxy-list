@@ -1,0 +1,21 @@
+[
+  {
+    "ip": "72.10.164.178",
+    "port": 13343,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 27747,
+    "isp": "Telecentro S.A.",
+    "protocol": "http",
+    "speed_ms": "1289.01",
+    "anonymity": "elite",
+    "location": "Santos Lugares",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

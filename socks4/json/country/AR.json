@@ -1,0 +1,36 @@
+[
+  {
+    "ip": "138.186.155.1",
+    "port": 1085,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 263818,
+    "isp": "JOSE GUILLERMO LACALLE",
+    "protocol": "socks4",
+    "speed_ms": "2606.82",
+    "anonymity": "elite",
+    "location": "Uriburu",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "200.41.182.243",
+    "port": 4145,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 10834,
+    "isp": "Telefonica de Argentina",
+    "protocol": "socks4",
+    "speed_ms": "1281.22",
+    "anonymity": "elite",
+    "location": "Neuquen",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

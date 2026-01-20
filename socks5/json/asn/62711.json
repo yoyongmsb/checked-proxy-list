@@ -1,0 +1,38 @@
+[
+  {
+    "ip": "23.175.201.46",
+    "port": 1234,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 62711,
+    "isp": "Maxwell Telecom LLC",
+    "protocol": "socks5",
+    "speed_ms": "2539.96",
+    "anonymity": "elite",
+    "location": "Hong Kong",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "23.175.201.46",
+    "port": 1234,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 62711,
+    "isp": "Maxwell Telecom LLC",
+    "protocol": "socks5",
+    "speed_ms": "1543.23",
+    "anonymity": "elite",
+    "location": "Hong Kong",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://discord.com/"
+    ]
+  }
+]

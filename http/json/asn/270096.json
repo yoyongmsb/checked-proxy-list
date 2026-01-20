@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "170.245.132.85",
+    "port": 999,
+    "country": "PY",
+    "country_code": "PY",
+    "asn": 270096,
+    "isp": "MACHADO BAEZ, NERY JAVIER (LOCAL NET PARAGUAY)",
+    "protocol": "http",
+    "speed_ms": "5886.21",
+    "anonymity": "transparent",
+    "location": "Asuncion",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  }
+]

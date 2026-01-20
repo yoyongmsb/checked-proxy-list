@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "115.42.67.186",
+    "port": 56534,
+    "country": "PK",
+    "country_code": "PK",
+    "asn": 132165,
+    "isp": "Connect Communication",
+    "protocol": "socks4",
+    "speed_ms": "2599.95",
+    "anonymity": "elite",
+    "location": "Karachi (Modern Society)",
+    "valid_urls": []
+  }
+]

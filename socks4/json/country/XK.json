@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "185.191.165.28",
+    "port": 1080,
+    "country": "XK",
+    "country_code": "XK",
+    "asn": 206262,
+    "isp": "TelKos L.L.C",
+    "protocol": "socks4",
+    "speed_ms": "1966.19",
+    "anonymity": "elite",
+    "location": "Pristina",
+    "valid_urls": []
+  }
+]

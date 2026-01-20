@@ -1,0 +1,33 @@
+[
+  {
+    "ip": "202.51.105.102",
+    "port": 1080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 7713,
+    "isp": "Telekomunikasi Indonesia (PT)",
+    "protocol": "socks4",
+    "speed_ms": "2887.22",
+    "anonymity": "elite",
+    "location": "Jakarta",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "122.248.46.26",
+    "port": 4145,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 45325,
+    "isp": "PT PC24 Telekomunikasi Indonesia",
+    "protocol": "socks4",
+    "speed_ms": "2574.53",
+    "anonymity": "elite",
+    "location": "Jakarta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  }
+]

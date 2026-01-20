@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "196.0.111.186",
+    "port": 46048,
+    "country": "UG",
+    "country_code": "UG",
+    "asn": 21491,
+    "isp": "Uganda Telecom",
+    "protocol": "socks4",
+    "speed_ms": "5646.66",
+    "anonymity": "elite",
+    "location": "Fort Portal",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  }
+]

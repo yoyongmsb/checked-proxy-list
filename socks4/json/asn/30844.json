@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "41.174.132.82",
+    "port": 5678,
+    "country": "CD",
+    "country_code": "CD",
+    "asn": 30844,
+    "isp": "Liquid Telecommunications Ltd",
+    "protocol": "socks4",
+    "speed_ms": "5582.25",
+    "anonymity": "elite",
+    "location": "Lubumbashi",
+    "valid_urls": [
+      "https://www.reddit.com/"
+    ]
+  }
+]

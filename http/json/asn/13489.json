@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "67.43.236.20",
+    "port": 7899,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 13489,
+    "isp": "EPM Telecomunicaciones S.A. E.S.P.",
+    "protocol": "http",
+    "speed_ms": "5770.10",
+    "anonymity": "elite",
+    "location": "La Estrella",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.reddit.com/"
+    ]
+  }
+]

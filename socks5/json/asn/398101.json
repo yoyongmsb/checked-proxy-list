@@ -1,0 +1,171 @@
+[
+  {
+    "ip": "62.60.131.184",
+    "port": 14455,
+    "country": "US",
+    "country_code": "US",
+    "asn": 398101,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "socks5",
+    "speed_ms": "6030.55",
+    "anonymity": "elite",
+    "location": "Tempe (South Tempe)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.176",
+    "port": 6528,
+    "country": "US",
+    "country_code": "US",
+    "asn": 398101,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "socks5",
+    "speed_ms": "3790.09",
+    "anonymity": "elite",
+    "location": "Tempe (South Tempe)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.185",
+    "port": 4649,
+    "country": "US",
+    "country_code": "US",
+    "asn": 398101,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "socks5",
+    "speed_ms": "6432.62",
+    "anonymity": "elite",
+    "location": "Tempe (South Tempe)",
+    "valid_urls": []
+  },
+  {
+    "ip": "36.255.98.184",
+    "port": 4156,
+    "country": "US",
+    "country_code": "US",
+    "asn": 398101,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "socks5",
+    "speed_ms": "3622.85",
+    "anonymity": "elite",
+    "location": "Tempe (South Tempe)",
+    "valid_urls": [
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.160",
+    "port": 4187,
+    "country": "US",
+    "country_code": "US",
+    "asn": 398101,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "socks5",
+    "speed_ms": "3610.86",
+    "anonymity": "elite",
+    "location": "Tempe (South Tempe)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.204",
+    "port": 5014,
+    "country": "US",
+    "country_code": "US",
+    "asn": 398101,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "socks5",
+    "speed_ms": "4216.81",
+    "anonymity": "elite",
+    "location": "Tempe (South Tempe)",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "62.60.131.184",
+    "port": 14455,
+    "country": "US",
+    "country_code": "US",
+    "asn": 398101,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "socks5",
+    "speed_ms": "5317.18",
+    "anonymity": "elite",
+    "location": "Tempe (South Tempe)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.160",
+    "port": 4187,
+    "country": "US",
+    "country_code": "US",
+    "asn": 398101,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "socks5",
+    "speed_ms": "5211.58",
+    "anonymity": "elite",
+    "location": "Tempe (South Tempe)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.184",
+    "port": 4156,
+    "country": "US",
+    "country_code": "US",
+    "asn": 398101,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "socks5",
+    "speed_ms": "4816.57",
+    "anonymity": "elite",
+    "location": "Tempe (South Tempe)",
+    "valid_urls": [
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.181",
+    "port": 9800,
+    "country": "US",
+    "country_code": "US",
+    "asn": 398101,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "socks5",
+    "speed_ms": "2459.08",
+    "anonymity": "elite",
+    "location": "Tempe (South Tempe)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  }
+]

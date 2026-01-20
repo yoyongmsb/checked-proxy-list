@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "102.221.238.238",
+    "port": 8080,
+    "country": "NG",
+    "country_code": "NG",
+    "asn": 328722,
+    "isp": "Ciudad Infrastructure Limited",
+    "protocol": "http",
+    "speed_ms": "5319.04",
+    "anonymity": "transparent",
+    "location": "Agege",
+    "valid_urls": []
+  }
+]

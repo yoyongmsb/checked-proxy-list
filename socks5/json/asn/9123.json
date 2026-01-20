@@ -1,0 +1,47 @@
+[
+  {
+    "ip": "36.255.98.181",
+    "port": 4008,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 9123,
+    "isp": "JSC \"TIMEWEB\"",
+    "protocol": "socks5",
+    "speed_ms": "3204.11",
+    "anonymity": "elite",
+    "location": "St Petersburg",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "36.255.98.167",
+    "port": 4228,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 9123,
+    "isp": "JSC \"TIMEWEB\"",
+    "protocol": "socks5",
+    "speed_ms": "3999.70",
+    "anonymity": "elite",
+    "location": "St Petersburg",
+    "valid_urls": []
+  },
+  {
+    "ip": "36.255.98.181",
+    "port": 4008,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 9123,
+    "isp": "JSC \"TIMEWEB\"",
+    "protocol": "socks5",
+    "speed_ms": "2562.81",
+    "anonymity": "elite",
+    "location": "St Petersburg",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/"
+    ]
+  }
+]

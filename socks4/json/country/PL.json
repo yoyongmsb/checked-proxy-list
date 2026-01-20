@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "193.239.103.13",
+    "port": 44769,
+    "country": "PL",
+    "country_code": "PL",
+    "asn": 12741,
+    "isp": "Netia SA",
+    "protocol": "socks4",
+    "speed_ms": "2199.73",
+    "anonymity": "elite",
+    "location": "Kobylnica",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  }
+]

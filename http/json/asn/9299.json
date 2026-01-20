@@ -1,0 +1,56 @@
+[
+  {
+    "ip": "203.177.237.138",
+    "port": 8282,
+    "country": "PH",
+    "country_code": "PH",
+    "asn": 9299,
+    "isp": "Philippine Long Distance Telephone Co.",
+    "protocol": "http",
+    "speed_ms": "4007.74",
+    "anonymity": "transparent",
+    "location": "Mandaluyong",
+    "valid_urls": []
+  },
+  {
+    "ip": "124.105.198.250",
+    "port": 8080,
+    "country": "PH",
+    "country_code": "PH",
+    "asn": 9299,
+    "isp": "Philippine Long Distance Telephone Co.",
+    "protocol": "http",
+    "speed_ms": "4610.60",
+    "anonymity": "transparent",
+    "location": "Makati City",
+    "valid_urls": []
+  },
+  {
+    "ip": "119.92.142.172",
+    "port": 5050,
+    "country": "PH",
+    "country_code": "PH",
+    "asn": 9299,
+    "isp": "Philippine Long Distance Telephone Co.",
+    "protocol": "http",
+    "speed_ms": "3573.06",
+    "anonymity": "transparent",
+    "location": "Makati City",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "58.69.1.146",
+    "port": 8082,
+    "country": "PH",
+    "country_code": "PH",
+    "asn": 9299,
+    "isp": "Philippine Long Distance Telephone Co.",
+    "protocol": "http",
+    "speed_ms": "4583.92",
+    "anonymity": "transparent",
+    "location": "Makati City",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "ip": "67.43.236.20",
+    "port": 13623,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 28009,
+    "isp": "Davitel S.A.",
+    "protocol": "http",
+    "speed_ms": "2312.92",
+    "anonymity": "elite",
+    "location": "Neuquen",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

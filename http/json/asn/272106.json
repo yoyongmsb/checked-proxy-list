@@ -1,0 +1,19 @@
+[
+  {
+    "ip": "38.253.80.25",
+    "port": 999,
+    "country": "PE",
+    "country_code": "PE",
+    "asn": 272106,
+    "isp": "CORPORACION TARAZONA CATV S.A.C.",
+    "protocol": "http",
+    "speed_ms": "2019.92",
+    "anonymity": "transparent",
+    "location": "Independencia",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

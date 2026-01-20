@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "185.87.121.35",
+    "port": 8975,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 29262,
+    "isp": "Ideal Hosting Teknoloji A.S.",
+    "protocol": "socks5",
+    "speed_ms": "3475.73",
+    "anonymity": "elite",
+    "location": "Sisli",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  }
+]

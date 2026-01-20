@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "202.154.37.162",
+    "port": 8080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 141607,
+    "isp": "PT Gayatri Lintas Nusantara",
+    "protocol": "http",
+    "speed_ms": "4957.92",
+    "anonymity": "transparent",
+    "location": "Kediri",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "36.255.98.162",
+    "port": 4224,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 150895,
+    "isp": "EZ TECHNOLOGY COMPANY LIMITED",
+    "protocol": "socks5",
+    "speed_ms": "5423.07",
+    "anonymity": "elite",
+    "location": "Ho Chi Minh City",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  }
+]

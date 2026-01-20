@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "38.191.161.178",
+    "port": 999,
+    "country": "DO",
+    "country_code": "DO",
+    "asn": 273180,
+    "isp": "THREE NETWORKS SRL",
+    "protocol": "http",
+    "speed_ms": "2522.27",
+    "anonymity": "transparent",
+    "location": "Santo Domingo Este",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  }
+]

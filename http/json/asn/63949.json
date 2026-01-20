@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "172.237.73.24",
+    "port": 80,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 63949,
+    "isp": "Akamai Technologies, Inc.",
+    "protocol": "http",
+    "speed_ms": "1716.47",
+    "anonymity": "anonymous",
+    "location": "Singapore (Somapah)",
+    "valid_urls": []
+  }
+]

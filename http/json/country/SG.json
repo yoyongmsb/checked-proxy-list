@@ -1,0 +1,93 @@
+[
+  {
+    "ip": "188.239.43.6",
+    "port": 80,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 136907,
+    "isp": "HUAWEI INTERNATIONAL PTE. LTD.",
+    "protocol": "http",
+    "speed_ms": "2177.68",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": []
+  },
+  {
+    "ip": "156.146.56.231",
+    "port": 8082,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 60068,
+    "isp": "Datacamp Limited",
+    "protocol": "http",
+    "speed_ms": "1977.69",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": []
+  },
+  {
+    "ip": "185.225.20.242",
+    "port": 80,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 61112,
+    "isp": "AKILE LTD",
+    "protocol": "http",
+    "speed_ms": "3506.41",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": []
+  },
+  {
+    "ip": "8.219.191.219",
+    "port": 8118,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1915.53",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": []
+  },
+  {
+    "ip": "156.146.56.231",
+    "port": 8081,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 60068,
+    "isp": "Datacamp Limited",
+    "protocol": "http",
+    "speed_ms": "1839.05",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": []
+  },
+  {
+    "ip": "172.237.73.24",
+    "port": 80,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 63949,
+    "isp": "Akamai Technologies, Inc.",
+    "protocol": "http",
+    "speed_ms": "1716.47",
+    "anonymity": "anonymous",
+    "location": "Singapore (Somapah)",
+    "valid_urls": []
+  },
+  {
+    "ip": "97.74.87.226",
+    "port": 80,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 26496,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "http",
+    "speed_ms": "1642.26",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "195.19.50.88",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": "Unknown",
+    "isp": "Unknown",
+    "protocol": "socks5",
+    "speed_ms": "3443.65",
+    "anonymity": "anonymous",
+    "location": "Moscow",
+    "valid_urls": []
+  }
+]

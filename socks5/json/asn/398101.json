@@ -1,0 +1,41 @@
+[
+  {
+    "ip": "206.123.156.220",
+    "port": 5732,
+    "country": "US",
+    "country_code": "US",
+    "asn": 398101,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "socks5",
+    "speed_ms": "5556.90",
+    "anonymity": "anonymous",
+    "location": "Tempe (South Tempe)",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.186",
+    "port": 8138,
+    "country": "US",
+    "country_code": "US",
+    "asn": 398101,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "socks5",
+    "speed_ms": "6028.92",
+    "anonymity": "anonymous",
+    "location": "Tempe (South Tempe)",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.184",
+    "port": 5808,
+    "country": "US",
+    "country_code": "US",
+    "asn": 398101,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "socks5",
+    "speed_ms": "4810.85",
+    "anonymity": "anonymous",
+    "location": "Tempe (South Tempe)",
+    "valid_urls": []
+  }
+]

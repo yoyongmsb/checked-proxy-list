@@ -1,0 +1,41 @@
+[
+  {
+    "ip": "206.123.156.227",
+    "port": 9875,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 12876,
+    "isp": "ONLINE S.A.S.",
+    "protocol": "socks5",
+    "speed_ms": "3834.09",
+    "anonymity": "anonymous",
+    "location": "Paris",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.230",
+    "port": 5555,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 12876,
+    "isp": "ONLINE S.A.S.",
+    "protocol": "socks5",
+    "speed_ms": "2583.25",
+    "anonymity": "anonymous",
+    "location": "Paris",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.228",
+    "port": 4426,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 12876,
+    "isp": "ONLINE S.A.S.",
+    "protocol": "socks5",
+    "speed_ms": "2128.28",
+    "anonymity": "anonymous",
+    "location": "Paris",
+    "valid_urls": []
+  }
+]

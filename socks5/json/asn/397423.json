@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "206.123.156.202",
+    "port": 4981,
+    "country": "US",
+    "country_code": "US",
+    "asn": 397423,
+    "isp": "Tier.Net Technologies LLC",
+    "protocol": "socks5",
+    "speed_ms": "6212.94",
+    "anonymity": "anonymous",
+    "location": "Dallas",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.185",
+    "port": 4350,
+    "country": "US",
+    "country_code": "US",
+    "asn": 397423,
+    "isp": "Tier.Net Technologies LLC",
+    "protocol": "socks5",
+    "speed_ms": "2731.78",
+    "anonymity": "anonymous",
+    "location": "Dallas",
+    "valid_urls": []
+  }
+]

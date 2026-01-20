@@ -1,0 +1,47 @@
+[
+  {
+    "ip": "218.77.183.214",
+    "port": 5224,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4134,
+    "isp": "Chinanet",
+    "protocol": "http",
+    "speed_ms": "2695.67",
+    "anonymity": "anonymous",
+    "location": "Haikou",
+    "valid_urls": []
+  },
+  {
+    "ip": "221.231.13.198",
+    "port": 1080,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4134,
+    "isp": "Chinanet",
+    "protocol": "http",
+    "speed_ms": "2537.83",
+    "anonymity": "anonymous",
+    "location": "Nanjing",
+    "valid_urls": []
+  },
+  {
+    "ip": "133.242.138.34",
+    "port": 8100,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4134,
+    "isp": "Chinanet",
+    "protocol": "http",
+    "speed_ms": "2452.95",
+    "anonymity": "anonymous",
+    "location": "Haikou",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

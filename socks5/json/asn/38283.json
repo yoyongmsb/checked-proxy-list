@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "206.123.156.200",
+    "port": 4087,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 38283,
+    "isp": "CHINANET SiChuan Telecom Internet Data Center",
+    "protocol": "socks5",
+    "speed_ms": "5571.80",
+    "anonymity": "anonymous",
+    "location": "Haidian (Haidian Qu)",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.205",
+    "port": 33683,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 38283,
+    "isp": "CHINANET SiChuan Telecom Internet Data Center",
+    "protocol": "socks5",
+    "speed_ms": "3922.96",
+    "anonymity": "anonymous",
+    "location": "Haidian (Haidian Qu)",
+    "valid_urls": []
+  }
+]

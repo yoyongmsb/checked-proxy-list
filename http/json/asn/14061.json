@@ -1,0 +1,30 @@
+[
+  {
+    "ip": "142.93.202.130",
+    "port": 3128,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "1457.83",
+    "anonymity": "anonymous",
+    "location": "North Bergen",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.227.5.10",
+    "port": 8888,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "2724.41",
+    "anonymity": "anonymous",
+    "location": "Santa Clara",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  }
+]

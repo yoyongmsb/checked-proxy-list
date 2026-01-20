@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "123.54.197.52",
+    "port": 20385,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 56040,
+    "isp": "China Mobile Communications Corporation",
+    "protocol": "socks5",
+    "speed_ms": "5924.17",
+    "anonymity": "anonymous",
+    "location": "Minzhi",
+    "valid_urls": []
+  }
+]

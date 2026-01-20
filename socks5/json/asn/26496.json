@@ -1,0 +1,67 @@
+[
+  {
+    "ip": "206.123.156.222",
+    "port": 6186,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 26496,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "socks5",
+    "speed_ms": "4542.21",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.185",
+    "port": 13505,
+    "country": "US",
+    "country_code": "US",
+    "asn": 26496,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "socks5",
+    "speed_ms": "4035.30",
+    "anonymity": "anonymous",
+    "location": "Tempe (South Tempe)",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.227",
+    "port": 7081,
+    "country": "US",
+    "country_code": "US",
+    "asn": 26496,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "socks5",
+    "speed_ms": "2852.10",
+    "anonymity": "anonymous",
+    "location": "Tempe (South Tempe)",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.178",
+    "port": 9830,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 26496,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "socks5",
+    "speed_ms": "2514.70",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.220",
+    "port": 6288,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 26496,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "socks5",
+    "speed_ms": "2052.64",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": []
+  }
+]

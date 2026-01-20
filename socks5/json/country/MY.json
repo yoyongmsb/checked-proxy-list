@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "206.123.156.192",
+    "port": 4324,
+    "country": "MY",
+    "country_code": "MY",
+    "asn": 46015,
+    "isp": "Exa Bytes Network Sdn.Bhd.",
+    "protocol": "socks5",
+    "speed_ms": "4867.02",
+    "anonymity": "anonymous",
+    "location": "Kuala Lumpur (Bukit Ceylon)",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.220",
+    "port": 6054,
+    "country": "MY",
+    "country_code": "MY",
+    "asn": 9930,
+    "isp": "TT DOTCOM SDN BHD",
+    "protocol": "socks5",
+    "speed_ms": "4563.67",
+    "anonymity": "anonymous",
+    "location": "Putra Heights",
+    "valid_urls": []
+  }
+]

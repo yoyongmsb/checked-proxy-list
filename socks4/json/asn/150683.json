@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "103.229.252.67",
+    "port": 1080,
+    "country": "PK",
+    "country_code": "PK",
+    "asn": 150683,
+    "isp": "FASTTEL BROADBAND (PRIVATE) LIMITED",
+    "protocol": "socks4",
+    "speed_ms": "2622.92",
+    "anonymity": "anonymous",
+    "location": "Rawalpindi",
+    "valid_urls": []
+  }
+]

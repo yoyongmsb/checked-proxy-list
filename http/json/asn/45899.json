@@ -1,0 +1,21 @@
+[
+  {
+    "ip": "113.160.132.26",
+    "port": 8080,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 45899,
+    "isp": "VNPT Corp",
+    "protocol": "http",
+    "speed_ms": "1664.00",
+    "anonymity": "anonymous",
+    "location": "Ban Yen Nhan",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

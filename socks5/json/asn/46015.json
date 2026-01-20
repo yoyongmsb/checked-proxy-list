@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "206.123.156.192",
+    "port": 4324,
+    "country": "MY",
+    "country_code": "MY",
+    "asn": 46015,
+    "isp": "Exa Bytes Network Sdn.Bhd.",
+    "protocol": "socks5",
+    "speed_ms": "4867.02",
+    "anonymity": "anonymous",
+    "location": "Kuala Lumpur (Bukit Ceylon)",
+    "valid_urls": []
+  }
+]

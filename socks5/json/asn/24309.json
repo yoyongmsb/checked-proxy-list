@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "206.123.156.228",
+    "port": 4961,
+    "country": "IN",
+    "country_code": "IN",
+    "asn": 24309,
+    "isp": "Atria Convergence Technologies Pvt. Ltd.,",
+    "protocol": "socks5",
+    "speed_ms": "5114.95",
+    "anonymity": "anonymous",
+    "location": "Bengaluru",
+    "valid_urls": []
+  }
+]

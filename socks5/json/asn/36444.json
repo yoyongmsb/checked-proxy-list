@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "206.123.156.200",
+    "port": 5270,
+    "country": "US",
+    "country_code": "US",
+    "asn": 36444,
+    "isp": "Liquid Web, L.L.C",
+    "protocol": "socks5",
+    "speed_ms": "3733.58",
+    "anonymity": "anonymous",
+    "location": "Southfield",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.213",
+    "port": 5115,
+    "country": "US",
+    "country_code": "US",
+    "asn": 36444,
+    "isp": "Liquid Web, L.L.C",
+    "protocol": "socks5",
+    "speed_ms": "3519.04",
+    "anonymity": "anonymous",
+    "location": "Southfield",
+    "valid_urls": []
+  }
+]

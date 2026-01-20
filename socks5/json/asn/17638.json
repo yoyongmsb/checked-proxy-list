@@ -1,0 +1,41 @@
+[
+  {
+    "ip": "123.54.197.51",
+    "port": 22089,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 17638,
+    "isp": "ASN for TIANJIN Provincial Net of CT",
+    "protocol": "socks5",
+    "speed_ms": "6042.43",
+    "anonymity": "anonymous",
+    "location": "Youyilu",
+    "valid_urls": []
+  },
+  {
+    "ip": "123.54.197.51",
+    "port": 21614,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 17638,
+    "isp": "ASN for TIANJIN Provincial Net of CT",
+    "protocol": "socks5",
+    "speed_ms": "6023.06",
+    "anonymity": "anonymous",
+    "location": "Youyilu",
+    "valid_urls": []
+  },
+  {
+    "ip": "123.54.197.51",
+    "port": 22815,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 17638,
+    "isp": "ASN for TIANJIN Provincial Net of CT",
+    "protocol": "socks5",
+    "speed_ms": "5687.49",
+    "anonymity": "anonymous",
+    "location": "Youyilu",
+    "valid_urls": []
+  }
+]

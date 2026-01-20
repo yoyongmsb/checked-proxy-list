@@ -1,0 +1,21 @@
+[
+  {
+    "ip": "49.156.44.114",
+    "port": 8080,
+    "country": "KH",
+    "country_code": "KH",
+    "asn": 24492,
+    "isp": "WiCAM Corporation Ltd.",
+    "protocol": "http",
+    "speed_ms": "1381.82",
+    "anonymity": "anonymous",
+    "location": "Phnom Penh",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

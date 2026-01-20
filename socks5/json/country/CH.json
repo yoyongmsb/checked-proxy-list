@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "45.59.117.163",
+    "port": 8080,
+    "country": "CH",
+    "country_code": "CH",
+    "asn": 14956,
+    "isp": "RouterHosting LLC",
+    "protocol": "socks5",
+    "speed_ms": "3968.76",
+    "anonymity": "anonymous",
+    "location": "Bern",
+    "valid_urls": []
+  },
+  {
+    "ip": "37.18.73.60",
+    "port": 5566,
+    "country": "CH",
+    "country_code": "CH",
+    "asn": 211507,
+    "isp": "Julian Achter",
+    "protocol": "socks5",
+    "speed_ms": "3663.79",
+    "anonymity": "anonymous",
+    "location": "Bern",
+    "valid_urls": []
+  }
+]

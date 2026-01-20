@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "123.54.197.49",
+    "port": 22776,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 17962,
+    "isp": "ShenZhen Topway Video Communication Co. Ltd",
+    "protocol": "socks5",
+    "speed_ms": "2797.88",
+    "anonymity": "anonymous",
+    "location": "Haidian (Haidian Qu)",
+    "valid_urls": []
+  },
+  {
+    "ip": "123.54.197.20",
+    "port": 23011,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 17962,
+    "isp": "ShenZhen Topway Video Communication Co. Ltd",
+    "protocol": "socks5",
+    "speed_ms": "5990.84",
+    "anonymity": "anonymous",
+    "location": "Shenzhen (Futian Qu)",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "206.123.156.227",
+    "port": 4037,
+    "country": "IE",
+    "country_code": "IE",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "socks5",
+    "speed_ms": "3507.14",
+    "anonymity": "anonymous",
+    "location": "Dublin",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.211",
+    "port": 4045,
+    "country": "IE",
+    "country_code": "IE",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "socks5",
+    "speed_ms": "5821.37",
+    "anonymity": "anonymous",
+    "location": "Dublin",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "103.203.234.103",
+    "port": 8080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 151006,
+    "isp": "PT Nesta Indo Media",
+    "protocol": "http",
+    "speed_ms": "5733.86",
+    "anonymity": "anonymous",
+    "location": "Banyumas",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  }
+]

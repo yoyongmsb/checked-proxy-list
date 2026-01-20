@@ -1,0 +1,20 @@
+[
+  {
+    "ip": "213.230.110.191",
+    "port": 3128,
+    "country": "UZ",
+    "country_code": "UZ",
+    "asn": 8193,
+    "isp": "\"Uzbektelekom\" Joint Stock Company",
+    "protocol": "http",
+    "speed_ms": "3557.57",
+    "anonymity": "anonymous",
+    "location": "Tashkent",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

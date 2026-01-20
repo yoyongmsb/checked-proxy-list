@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "67.223.225.161",
+    "port": 43080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 29873,
+    "isp": "Newfold Digital, Inc.",
+    "protocol": "http",
+    "speed_ms": "2232.29",
+    "anonymity": "anonymous",
+    "location": "Jacksonville (Deerwood)",
+    "valid_urls": []
+  }
+]

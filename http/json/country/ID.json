@@ -1,0 +1,146 @@
+[
+  {
+    "ip": "103.203.234.103",
+    "port": 8080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 151006,
+    "isp": "PT Nesta Indo Media",
+    "protocol": "http",
+    "speed_ms": "5733.86",
+    "anonymity": "anonymous",
+    "location": "Banyumas",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "103.247.22.15",
+    "port": 1111,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 58485,
+    "isp": "WIFIAN ID",
+    "protocol": "http",
+    "speed_ms": "2562.99",
+    "anonymity": "anonymous",
+    "location": "Cikarang",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "103.51.205.168",
+    "port": 8080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 45305,
+    "isp": "Lintas Data Prima, PT",
+    "protocol": "http",
+    "speed_ms": "3560.42",
+    "anonymity": "anonymous",
+    "location": "Jaten",
+    "valid_urls": [
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "154.90.48.76",
+    "port": 80,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 138915,
+    "isp": "Kaopu Cloud HK Limited",
+    "protocol": "http",
+    "speed_ms": "4562.92",
+    "anonymity": "anonymous",
+    "location": "Jakarta",
+    "valid_urls": []
+  },
+  {
+    "ip": "16.78.119.130",
+    "port": 443,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "1778.49",
+    "anonymity": "anonymous",
+    "location": "Jakarta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "118.137.62.200",
+    "port": 8080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 23700,
+    "isp": "Linknet-Fastnet ASN",
+    "protocol": "http",
+    "speed_ms": "1828.31",
+    "anonymity": "anonymous",
+    "location": "Jakarta",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "103.173.140.145",
+    "port": 8080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 58485,
+    "isp": "WIFIAN ID",
+    "protocol": "http",
+    "speed_ms": "1655.47",
+    "anonymity": "anonymous",
+    "location": "Purbalingga",
+    "valid_urls": []
+  },
+  {
+    "ip": "103.65.237.92",
+    "port": 5678,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 135450,
+    "isp": "PT Berkah Solusi Teknologi Informasi",
+    "protocol": "http",
+    "speed_ms": "1407.44",
+    "anonymity": "anonymous",
+    "location": "Jakarta",
+    "valid_urls": []
+  },
+  {
+    "ip": "150.107.140.238",
+    "port": 3128,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 55685,
+    "isp": "PT Jala Lintas Media",
+    "protocol": "http",
+    "speed_ms": "5625.68",
+    "anonymity": "anonymous",
+    "location": "Caringin",
+    "valid_urls": []
+  },
+  {
+    "ip": "103.72.89.116",
+    "port": 8097,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 150235,
+    "isp": "PT Insolikh Jaringan Multimedia",
+    "protocol": "http",
+    "speed_ms": "1582.02",
+    "anonymity": "anonymous",
+    "location": "Molobulahe",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  }
+]

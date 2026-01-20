@@ -1,0 +1,54 @@
+[
+  {
+    "ip": "197.221.234.149",
+    "port": 80,
+    "country": "ZW",
+    "country_code": "ZW",
+    "asn": 37204,
+    "isp": "Telone PVT Ltd",
+    "protocol": "http",
+    "speed_ms": "2260.16",
+    "anonymity": "anonymous",
+    "location": "Harare (Harare Central)",
+    "valid_urls": []
+  },
+  {
+    "ip": "197.221.237.248",
+    "port": 80,
+    "country": "ZW",
+    "country_code": "ZW",
+    "asn": 37204,
+    "isp": "Telone PVT Ltd",
+    "protocol": "http",
+    "speed_ms": "4492.25",
+    "anonymity": "anonymous",
+    "location": "Harare (Harare Central)",
+    "valid_urls": []
+  },
+  {
+    "ip": "197.221.240.240",
+    "port": 80,
+    "country": "ZW",
+    "country_code": "ZW",
+    "asn": 37204,
+    "isp": "Telone PVT Ltd",
+    "protocol": "http",
+    "speed_ms": "2481.37",
+    "anonymity": "anonymous",
+    "location": "Harare (Harare Central)",
+    "valid_urls": []
+  },
+  {
+    "ip": "41.220.16.215",
+    "port": 80,
+    "country": "ZW",
+    "country_code": "ZW",
+    "asn": 37204,
+    "isp": "Telone PVT Ltd",
+    "protocol": "http",
+    "speed_ms": "1497.11",
+    "anonymity": "anonymous",
+    "location": "Harare (Harare Central)",
+    "valid_urls": []
+  }
+]

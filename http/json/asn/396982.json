@@ -1,0 +1,32 @@
+[
+  {
+    "ip": "34.44.49.215",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "http",
+    "speed_ms": "2739.60",
+    "anonymity": "anonymous",
+    "location": "Council Bluffs",
+    "valid_urls": []
+  },
+  {
+    "ip": "35.225.22.61",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "http",
+    "speed_ms": "2067.46",
+    "anonymity": "anonymous",
+    "location": "Council Bluffs",
+    "valid_urls": [
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

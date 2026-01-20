@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "206.123.156.224",
+    "port": 4018,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 53158,
+    "isp": "Net Turbo Telecom",
+    "protocol": "socks5",
+    "speed_ms": "4098.61",
+    "anonymity": "anonymous",
+    "location": "Varzea Paulista",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.212",
+    "port": 4096,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 53158,
+    "isp": "Net Turbo Telecom",
+    "protocol": "socks5",
+    "speed_ms": "4656.67",
+    "anonymity": "anonymous",
+    "location": "Varzea Paulista",
+    "valid_urls": []
+  }
+]

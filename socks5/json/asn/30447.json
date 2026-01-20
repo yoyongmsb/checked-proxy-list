@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "206.123.156.192",
+    "port": 4139,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 30447,
+    "isp": "Internet Names For Business Inc.",
+    "protocol": "socks5",
+    "speed_ms": "2941.99",
+    "anonymity": "anonymous",
+    "location": "Waterloo",
+    "valid_urls": []
+  }
+]

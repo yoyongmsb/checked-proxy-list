@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "206.123.156.214",
+    "port": 4697,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 47583,
+    "isp": "Hostinger International Limited",
+    "protocol": "socks5",
+    "speed_ms": "3206.86",
+    "anonymity": "anonymous",
+    "location": "Sao Paulo",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.176",
+    "port": 4440,
+    "country": "US",
+    "country_code": "US",
+    "asn": 47583,
+    "isp": "Hostinger International Limited",
+    "protocol": "socks5",
+    "speed_ms": "3576.41",
+    "anonymity": "anonymous",
+    "location": "Boston",
+    "valid_urls": []
+  }
+]

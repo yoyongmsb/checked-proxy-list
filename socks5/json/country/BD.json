@@ -1,0 +1,41 @@
+[
+  {
+    "ip": "206.123.156.226",
+    "port": 6120,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 147303,
+    "isp": "ColoCone",
+    "protocol": "socks5",
+    "speed_ms": "6105.59",
+    "anonymity": "anonymous",
+    "location": "Dhaka",
+    "valid_urls": []
+  },
+  {
+    "ip": "163.47.37.190",
+    "port": 1080,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 63961,
+    "isp": "Bangladesh Research and Education Network (BdREN)",
+    "protocol": "socks5",
+    "speed_ms": "4239.56",
+    "anonymity": "anonymous",
+    "location": "Gazipur",
+    "valid_urls": []
+  },
+  {
+    "ip": "103.189.218.76",
+    "port": 6969,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 149868,
+    "isp": "Comfort Solutions",
+    "protocol": "socks5",
+    "speed_ms": "3258.91",
+    "anonymity": "anonymous",
+    "location": "Tongi",
+    "valid_urls": []
+  }
+]

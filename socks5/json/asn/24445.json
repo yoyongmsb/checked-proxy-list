@@ -1,0 +1,80 @@
+[
+  {
+    "ip": "123.54.197.19",
+    "port": 22902,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 24445,
+    "isp": "China Mobile",
+    "protocol": "socks5",
+    "speed_ms": "4461.26",
+    "anonymity": "anonymous",
+    "location": "Guancheng",
+    "valid_urls": []
+  },
+  {
+    "ip": "123.54.197.19",
+    "port": 21261,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 24445,
+    "isp": "China Mobile",
+    "protocol": "socks5",
+    "speed_ms": "5129.14",
+    "anonymity": "anonymous",
+    "location": "Guancheng",
+    "valid_urls": []
+  },
+  {
+    "ip": "123.54.197.21",
+    "port": 23490,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 24445,
+    "isp": "China Mobile",
+    "protocol": "socks5",
+    "speed_ms": "4444.16",
+    "anonymity": "anonymous",
+    "location": "Guancheng",
+    "valid_urls": []
+  },
+  {
+    "ip": "123.54.197.21",
+    "port": 22370,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 24445,
+    "isp": "China Mobile",
+    "protocol": "socks5",
+    "speed_ms": "6396.89",
+    "anonymity": "anonymous",
+    "location": "Guancheng",
+    "valid_urls": []
+  },
+  {
+    "ip": "123.54.197.16",
+    "port": 23418,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 24445,
+    "isp": "China Mobile",
+    "protocol": "socks5",
+    "speed_ms": "3089.07",
+    "anonymity": "anonymous",
+    "location": "Guancheng",
+    "valid_urls": []
+  },
+  {
+    "ip": "123.54.197.51",
+    "port": 20920,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 24445,
+    "isp": "China Mobile",
+    "protocol": "socks5",
+    "speed_ms": "4231.77",
+    "anonymity": "anonymous",
+    "location": "Guancheng",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "45.80.220.89",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 39045,
+    "isp": "Gazprom telecom LLC",
+    "protocol": "socks5",
+    "speed_ms": "3138.32",
+    "anonymity": "anonymous",
+    "location": "Krasnodar",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "123.54.197.49",
+    "port": 21947,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 24400,
+    "isp": "China Mobile",
+    "protocol": "socks5",
+    "speed_ms": "5524.43",
+    "anonymity": "anonymous",
+    "location": "Changning",
+    "valid_urls": []
+  },
+  {
+    "ip": "123.54.197.51",
+    "port": 21947,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 24400,
+    "isp": "China Mobile",
+    "protocol": "socks5",
+    "speed_ms": "6005.62",
+    "anonymity": "anonymous",
+    "location": "Shanghai",
+    "valid_urls": []
+  }
+]

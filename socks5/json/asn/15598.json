@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "206.123.156.207",
+    "port": 7151,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 15598,
+    "isp": "NorthC Deutschland GmbH",
+    "protocol": "socks5",
+    "speed_ms": "3439.55",
+    "anonymity": "anonymous",
+    "location": "Nuremberg (Sudostliche Aussenstadt)",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.231",
+    "port": 7221,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 15598,
+    "isp": "NorthC Deutschland GmbH",
+    "protocol": "socks5",
+    "speed_ms": "2812.63",
+    "anonymity": "anonymous",
+    "location": "Nuremberg (Sudostliche Aussenstadt)",
+    "valid_urls": []
+  }
+]

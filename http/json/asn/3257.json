@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "47.238.203.170",
+    "port": 50000,
+    "country": "US",
+    "country_code": "US",
+    "asn": 3257,
+    "isp": "GTT Communications Inc.",
+    "protocol": "http",
+    "speed_ms": "3436.18",
+    "anonymity": "anonymous",
+    "location": "Albany (Bishop's Gate)",
+    "valid_urls": []
+  }
+]

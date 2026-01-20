@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "206.123.156.222",
+    "port": 9290,
+    "country": "SE",
+    "country_code": "SE",
+    "asn": 214640,
+    "isp": "Hostup AB",
+    "protocol": "socks5",
+    "speed_ms": "3627.17",
+    "anonymity": "anonymous",
+    "location": "Stockholm",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.187",
+    "port": 6588,
+    "country": "SE",
+    "country_code": "SE",
+    "asn": 214640,
+    "isp": "Hostup AB",
+    "protocol": "socks5",
+    "speed_ms": "1803.89",
+    "anonymity": "anonymous",
+    "location": "Stockholm",
+    "valid_urls": []
+  }
+]

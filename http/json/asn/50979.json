@@ -1,0 +1,21 @@
+[
+  {
+    "ip": "195.123.209.48",
+    "port": 3128,
+    "country": "LV",
+    "country_code": "LV",
+    "asn": 50979,
+    "isp": "GREEN FLOID LLC",
+    "protocol": "http",
+    "speed_ms": "2333.94",
+    "anonymity": "anonymous",
+    "location": "Riga",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  }
+]

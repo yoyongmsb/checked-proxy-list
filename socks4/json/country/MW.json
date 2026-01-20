@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "41.190.92.50",
+    "port": 60606,
+    "country": "MW",
+    "country_code": "MW",
+    "asn": 37187,
+    "isp": "Inq. Digital Limited",
+    "protocol": "socks4",
+    "speed_ms": "2768.40",
+    "anonymity": "anonymous",
+    "location": "Makata",
+    "valid_urls": []
+  }
+]

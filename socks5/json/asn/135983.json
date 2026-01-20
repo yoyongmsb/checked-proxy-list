@@ -1,0 +1,80 @@
+[
+  {
+    "ip": "206.123.156.231",
+    "port": 4428,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135983,
+    "isp": "Tino Group Joint Stock Company",
+    "protocol": "socks5",
+    "speed_ms": "5815.98",
+    "anonymity": "anonymous",
+    "location": "Dinh Cong Ha",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.178",
+    "port": 6686,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135983,
+    "isp": "Tino Group Joint Stock Company",
+    "protocol": "socks5",
+    "speed_ms": "5304.83",
+    "anonymity": "anonymous",
+    "location": "Dinh Cong Ha",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.187",
+    "port": 6005,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135983,
+    "isp": "Tino Group Joint Stock Company",
+    "protocol": "socks5",
+    "speed_ms": "5926.35",
+    "anonymity": "anonymous",
+    "location": "Dinh Cong Ha",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.236",
+    "port": 6638,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135983,
+    "isp": "Tino Group Joint Stock Company",
+    "protocol": "socks5",
+    "speed_ms": "3899.39",
+    "anonymity": "anonymous",
+    "location": "Dinh Cong Ha",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.231",
+    "port": 5933,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135983,
+    "isp": "Tino Group Joint Stock Company",
+    "protocol": "socks5",
+    "speed_ms": "3380.25",
+    "anonymity": "anonymous",
+    "location": "Dinh Cong Ha",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.187",
+    "port": 8082,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135983,
+    "isp": "Tino Group Joint Stock Company",
+    "protocol": "socks5",
+    "speed_ms": "6385.85",
+    "anonymity": "anonymous",
+    "location": "Dinh Cong Ha",
+    "valid_urls": []
+  }
+]

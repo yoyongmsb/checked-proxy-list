@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "38.188.247.12",
+    "port": 999,
+    "country": "DO",
+    "country_code": "DO",
+    "asn": 272083,
+    "isp": "REYNOSO, S.R.L.",
+    "protocol": "http",
+    "speed_ms": "3262.01",
+    "anonymity": "anonymous",
+    "location": "Esperalvillo",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "103.72.89.116",
+    "port": 8097,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 150235,
+    "isp": "PT Insolikh Jaringan Multimedia",
+    "protocol": "http",
+    "speed_ms": "1582.02",
+    "anonymity": "anonymous",
+    "location": "Molobulahe",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "195.26.224.135",
+    "port": 80,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 216071,
+    "isp": "SERVERS TECH FZCO",
+    "protocol": "http",
+    "speed_ms": "4409.50",
+    "anonymity": "anonymous",
+    "location": "Amsterdam",
+    "valid_urls": []
+  },
+  {
+    "ip": "13.80.134.180",
+    "port": 80,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "1619.01",
+    "anonymity": "anonymous",
+    "location": "Amsterdam",
+    "valid_urls": []
+  }
+]

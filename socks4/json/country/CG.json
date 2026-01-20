@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "102.64.116.254",
+    "port": 4145,
+    "country": "CG",
+    "country_code": "CG",
+    "asn": 37451,
+    "isp": "CONGO TELECOM",
+    "protocol": "socks4",
+    "speed_ms": "2280.10",
+    "anonymity": "anonymous",
+    "location": "Brazzaville",
+    "valid_urls": []
+  }
+]

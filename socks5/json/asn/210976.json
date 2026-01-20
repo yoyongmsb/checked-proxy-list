@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "109.71.241.67",
+    "port": 1080,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 210976,
+    "isp": "Timeweb, LLP",
+    "protocol": "socks5",
+    "speed_ms": "3185.40",
+    "anonymity": "anonymous",
+    "location": "Amsterdam",
+    "valid_urls": []
+  }
+]

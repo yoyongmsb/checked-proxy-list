@@ -1,0 +1,54 @@
+[
+  {
+    "ip": "206.123.156.227",
+    "port": 30403,
+    "country": "LT",
+    "country_code": "LT",
+    "asn": 209605,
+    "isp": "UAB Host Baltic",
+    "protocol": "socks5",
+    "speed_ms": "3288.64",
+    "anonymity": "anonymous",
+    "location": "Kaunas",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.232",
+    "port": 25984,
+    "country": "LT",
+    "country_code": "LT",
+    "asn": 209605,
+    "isp": "UAB Host Baltic",
+    "protocol": "socks5",
+    "speed_ms": "2414.28",
+    "anonymity": "anonymous",
+    "location": "Kaunas",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.223",
+    "port": 30198,
+    "country": "LT",
+    "country_code": "LT",
+    "asn": 209605,
+    "isp": "UAB Host Baltic",
+    "protocol": "socks5",
+    "speed_ms": "3029.29",
+    "anonymity": "anonymous",
+    "location": "Kaunas",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.200",
+    "port": 31856,
+    "country": "LT",
+    "country_code": "LT",
+    "asn": 209605,
+    "isp": "UAB Host Baltic",
+    "protocol": "socks5",
+    "speed_ms": "2829.18",
+    "anonymity": "anonymous",
+    "location": "Kaunas",
+    "valid_urls": []
+  }
+]

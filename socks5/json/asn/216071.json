@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "78.40.194.51",
+    "port": 20000,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 216071,
+    "isp": "SERVERS TECH FZCO",
+    "protocol": "socks5",
+    "speed_ms": "1838.46",
+    "anonymity": "anonymous",
+    "location": "Amsterdam",
+    "valid_urls": []
+  },
+  {
+    "ip": "93.183.124.28",
+    "port": 1080,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 216071,
+    "isp": "SERVERS TECH FZCO",
+    "protocol": "socks5",
+    "speed_ms": "5712.53",
+    "anonymity": "anonymous",
+    "location": "Amsterdam",
+    "valid_urls": []
+  }
+]

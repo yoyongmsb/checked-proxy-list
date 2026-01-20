@@ -1,0 +1,67 @@
+[
+  {
+    "ip": "59.46.216.131",
+    "port": 30001,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 56044,
+    "isp": "China Mobile Communications Corporation",
+    "protocol": "socks5",
+    "speed_ms": "5410.22",
+    "anonymity": "anonymous",
+    "location": "Shenyang",
+    "valid_urls": []
+  },
+  {
+    "ip": "123.54.197.51",
+    "port": 21604,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 56044,
+    "isp": "China Mobile Communications Corporation",
+    "protocol": "socks5",
+    "speed_ms": "5371.02",
+    "anonymity": "anonymous",
+    "location": "Shenyang",
+    "valid_urls": []
+  },
+  {
+    "ip": "123.54.197.16",
+    "port": 23390,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 56044,
+    "isp": "China Mobile Communications Corporation",
+    "protocol": "socks5",
+    "speed_ms": "2940.22",
+    "anonymity": "anonymous",
+    "location": "Shenyang",
+    "valid_urls": []
+  },
+  {
+    "ip": "123.54.197.20",
+    "port": 22385,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 56044,
+    "isp": "China Mobile Communications Corporation",
+    "protocol": "socks5",
+    "speed_ms": "5401.29",
+    "anonymity": "anonymous",
+    "location": "Shenyang",
+    "valid_urls": []
+  },
+  {
+    "ip": "123.54.197.16",
+    "port": 21292,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 56044,
+    "isp": "China Mobile Communications Corporation",
+    "protocol": "socks5",
+    "speed_ms": "3734.82",
+    "anonymity": "anonymous",
+    "location": "Shenyang",
+    "valid_urls": []
+  }
+]

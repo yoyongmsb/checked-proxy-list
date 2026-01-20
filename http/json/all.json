@@ -1,0 +1,3647 @@
+[
+  {
+    "ip": "51.79.135.131",
+    "port": 8080,
+    "country": "TW",
+    "country_code": "TW",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "3111.07",
+    "anonymity": "anonymous",
+    "location": "Tainan",
+    "valid_urls": []
+  },
+  {
+    "ip": "200.174.198.32",
+    "port": 8888,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 4230,
+    "isp": "CLARO S.A.",
+    "protocol": "http",
+    "speed_ms": "2418.41",
+    "anonymity": "anonymous",
+    "location": "Estacio",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11712,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "2037.05",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10943,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "2199.65",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "175.139.233.79",
+    "port": 80,
+    "country": "MY",
+    "country_code": "MY",
+    "asn": 4788,
+    "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+    "protocol": "http",
+    "speed_ms": "2995.54",
+    "anonymity": "anonymous",
+    "location": "Kuala Lumpur",
+    "valid_urls": []
+  },
+  {
+    "ip": "47.56.110.204",
+    "port": 8989,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2285.34",
+    "anonymity": "anonymous",
+    "location": "Hong Kong",
+    "valid_urls": []
+  },
+  {
+    "ip": "4.213.98.253",
+    "port": 80,
+    "country": "IN",
+    "country_code": "IN",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "2336.46",
+    "anonymity": "anonymous",
+    "location": "Pune",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11645,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "2017.09",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "151.242.153.7",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 9009,
+    "isp": "M247 Europe SRL",
+    "protocol": "http",
+    "speed_ms": "2695.32",
+    "anonymity": "anonymous",
+    "location": "Los Angeles",
+    "valid_urls": []
+  },
+  {
+    "ip": "195.123.209.48",
+    "port": 3128,
+    "country": "LV",
+    "country_code": "LV",
+    "asn": 50979,
+    "isp": "GREEN FLOID LLC",
+    "protocol": "http",
+    "speed_ms": "2333.94",
+    "anonymity": "anonymous",
+    "location": "Riga",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10857,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "2002.32",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "218.77.183.214",
+    "port": 5224,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4134,
+    "isp": "Chinanet",
+    "protocol": "http",
+    "speed_ms": "2695.67",
+    "anonymity": "anonymous",
+    "location": "Haikou",
+    "valid_urls": []
+  },
+  {
+    "ip": "124.108.6.20",
+    "port": 8085,
+    "country": "KH",
+    "country_code": "KH",
+    "asn": 139628,
+    "isp": "Mega Truenet Communication Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2278.57",
+    "anonymity": "anonymous",
+    "location": "Phnom Penh",
+    "valid_urls": []
+  },
+  {
+    "ip": "36.138.53.26",
+    "port": 10017,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 9808,
+    "isp": "China Mobile",
+    "protocol": "http",
+    "speed_ms": "2662.84",
+    "anonymity": "anonymous",
+    "location": "Guangzhou",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10539,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "2124.30",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "47.91.65.23",
+    "port": 3128,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "3195.23",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11267,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1978.76",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "197.221.234.149",
+    "port": 80,
+    "country": "ZW",
+    "country_code": "ZW",
+    "asn": 37204,
+    "isp": "Telone PVT Ltd",
+    "protocol": "http",
+    "speed_ms": "2260.16",
+    "anonymity": "anonymous",
+    "location": "Harare (Harare Central)",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11677,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1977.14",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "185.187.92.42",
+    "port": 80,
+    "country": "LB",
+    "country_code": "LB",
+    "asn": 206406,
+    "isp": "C BEYOND s.a.l",
+    "protocol": "http",
+    "speed_ms": "1959.34",
+    "anonymity": "anonymous",
+    "location": "Beirut",
+    "valid_urls": []
+  },
+  {
+    "ip": "84.39.112.144",
+    "port": 3128,
+    "country": "CH",
+    "country_code": "CH",
+    "asn": 9009,
+    "isp": "M247 Europe SRL",
+    "protocol": "http",
+    "speed_ms": "2240.87",
+    "anonymity": "anonymous",
+    "location": "Zurich",
+    "valid_urls": []
+  },
+  {
+    "ip": "58.216.109.8",
+    "port": 800,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 140293,
+    "isp": "China Telecom",
+    "protocol": "http",
+    "speed_ms": "2308.90",
+    "anonymity": "anonymous",
+    "location": "Nanjing",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10330,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "2078.17",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "89.116.88.19",
+    "port": 80,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 2527,
+    "isp": "Sony Network Communications Inc.",
+    "protocol": "http",
+    "speed_ms": "2136.16",
+    "anonymity": "anonymous",
+    "location": "Tsukuba",
+    "valid_urls": []
+  },
+  {
+    "ip": "4.195.16.140",
+    "port": 80,
+    "country": "AU",
+    "country_code": "AU",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "2198.18",
+    "anonymity": "anonymous",
+    "location": "Sydney",
+    "valid_urls": []
+  },
+  {
+    "ip": "103.203.234.103",
+    "port": 8080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 151006,
+    "isp": "PT Nesta Indo Media",
+    "protocol": "http",
+    "speed_ms": "5733.86",
+    "anonymity": "anonymous",
+    "location": "Banyumas",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "27.34.242.98",
+    "port": 80,
+    "country": "IN",
+    "country_code": "IN",
+    "asn": 45648,
+    "isp": "Bell Teleservices India Pvt Ltd",
+    "protocol": "http",
+    "speed_ms": "2267.41",
+    "anonymity": "anonymous",
+    "location": "Bengaluru (Devinagar)",
+    "valid_urls": []
+  },
+  {
+    "ip": "156.246.90.81",
+    "port": 80,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 61112,
+    "isp": "AKILE LTD",
+    "protocol": "http",
+    "speed_ms": "2252.23",
+    "anonymity": "anonymous",
+    "location": "Shibuya City",
+    "valid_urls": []
+  },
+  {
+    "ip": "203.19.38.114",
+    "port": 1080,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 23764,
+    "isp": "China Telecom Global Limited",
+    "protocol": "http",
+    "speed_ms": "2270.03",
+    "anonymity": "anonymous",
+    "location": "Hong Kong",
+    "valid_urls": []
+  },
+  {
+    "ip": "188.239.43.6",
+    "port": 80,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 136907,
+    "isp": "HUAWEI INTERNATIONAL PTE. LTD.",
+    "protocol": "http",
+    "speed_ms": "2177.68",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": []
+  },
+  {
+    "ip": "221.231.13.198",
+    "port": 1080,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4134,
+    "isp": "Chinanet",
+    "protocol": "http",
+    "speed_ms": "2537.83",
+    "anonymity": "anonymous",
+    "location": "Nanjing",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10356,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1835.40",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11363,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1834.30",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11989,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1992.53",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10089,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1816.85",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "154.16.146.48",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14670,
+    "isp": "WHG Hosting Services Ltd",
+    "protocol": "http",
+    "speed_ms": "4003.09",
+    "anonymity": "anonymous",
+    "location": "Buffalo",
+    "valid_urls": []
+  },
+  {
+    "ip": "8.213.151.128",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2088.31",
+    "anonymity": "anonymous",
+    "location": "Seoul",
+    "valid_urls": []
+  },
+  {
+    "ip": "58.241.88.13",
+    "port": 800,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 140293,
+    "isp": "China Telecom",
+    "protocol": "http",
+    "speed_ms": "2142.56",
+    "anonymity": "anonymous",
+    "location": "Nanjing",
+    "valid_urls": []
+  },
+  {
+    "ip": "103.247.22.15",
+    "port": 1111,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 58485,
+    "isp": "WIFIAN ID",
+    "protocol": "http",
+    "speed_ms": "2562.99",
+    "anonymity": "anonymous",
+    "location": "Cikarang",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10870,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1979.79",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "61.158.175.38",
+    "port": 9002,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4837,
+    "isp": "CHINA UNICOM China169 Backbone",
+    "protocol": "http",
+    "speed_ms": "2466.37",
+    "anonymity": "anonymous",
+    "location": "Zhengzhou",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11112,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1806.15",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11093,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1966.81",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "103.86.109.38",
+    "port": 80,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 136395,
+    "isp": "Expert Online",
+    "protocol": "http",
+    "speed_ms": "1921.09",
+    "anonymity": "anonymous",
+    "location": "Dhaka (Gulshan)",
+    "valid_urls": []
+  },
+  {
+    "ip": "23.88.88.102",
+    "port": 443,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "http",
+    "speed_ms": "1944.64",
+    "anonymity": "anonymous",
+    "location": "Nuremberg",
+    "valid_urls": []
+  },
+  {
+    "ip": "154.16.146.44",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14670,
+    "isp": "WHG Hosting Services Ltd",
+    "protocol": "http",
+    "speed_ms": "4508.20",
+    "anonymity": "anonymous",
+    "location": "Buffalo",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10228,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1802.07",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11814,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1960.70",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "51.141.175.118",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "2020.37",
+    "anonymity": "anonymous",
+    "location": "Quincy",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10338,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1700.16",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "46.47.197.210",
+    "port": 3128,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 20632,
+    "isp": "PJSC MegaFon",
+    "protocol": "http",
+    "speed_ms": "2070.66",
+    "anonymity": "anonymous",
+    "location": "St Petersburg",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11415,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1711.94",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "1.231.81.166",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 9318,
+    "isp": "SK Broadband Co Ltd",
+    "protocol": "http",
+    "speed_ms": "2011.15",
+    "anonymity": "anonymous",
+    "location": "Seoul (Toegye-ro)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "58.241.88.18",
+    "port": 800,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 140293,
+    "isp": "China Telecom",
+    "protocol": "http",
+    "speed_ms": "2034.49",
+    "anonymity": "anonymous",
+    "location": "Nanjing",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10960,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1870.29",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11288,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1870.67",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "34.44.49.215",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "http",
+    "speed_ms": "2739.60",
+    "anonymity": "anonymous",
+    "location": "Council Bluffs",
+    "valid_urls": []
+  },
+  {
+    "ip": "219.65.73.81",
+    "port": 80,
+    "country": "IN",
+    "country_code": "IN",
+    "asn": 55836,
+    "isp": "Reliance Jio Infocomm Limited",
+    "protocol": "http",
+    "speed_ms": "2386.48",
+    "anonymity": "anonymous",
+    "location": "Mangaluru",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10873,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1684.31",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "156.146.56.231",
+    "port": 8082,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 60068,
+    "isp": "Datacamp Limited",
+    "protocol": "http",
+    "speed_ms": "1977.69",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11278,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1839.64",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "133.242.138.34",
+    "port": 8100,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4134,
+    "isp": "Chinanet",
+    "protocol": "http",
+    "speed_ms": "2452.95",
+    "anonymity": "anonymous",
+    "location": "Haikou",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "197.221.237.248",
+    "port": 80,
+    "country": "ZW",
+    "country_code": "ZW",
+    "asn": 37204,
+    "isp": "Telone PVT Ltd",
+    "protocol": "http",
+    "speed_ms": "4492.25",
+    "anonymity": "anonymous",
+    "location": "Harare (Harare Central)",
+    "valid_urls": []
+  },
+  {
+    "ip": "91.200.163.190",
+    "port": 8088,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 30822,
+    "isp": "Dubrovskaya Nataliya Vladislavovna",
+    "protocol": "http",
+    "speed_ms": "2734.72",
+    "anonymity": "anonymous",
+    "location": "Lyubertsy",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10919,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1660.18",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10546,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1800.57",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "194.150.110.134",
+    "port": 80,
+    "country": "DK",
+    "country_code": "DK",
+    "asn": 31590,
+    "isp": "Rackhosting.com ApS",
+    "protocol": "http",
+    "speed_ms": "1973.74",
+    "anonymity": "anonymous",
+    "location": "Taastrup",
+    "valid_urls": []
+  },
+  {
+    "ip": "116.171.106.78",
+    "port": 3000,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4837,
+    "isp": "CHINA UNICOM China169 Backbone",
+    "protocol": "http",
+    "speed_ms": "2766.33",
+    "anonymity": "anonymous",
+    "location": "Jinrongjie (Xicheng District)",
+    "valid_urls": []
+  },
+  {
+    "ip": "20.237.72.168",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14618,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "1491.76",
+    "anonymity": "elite",
+    "location": "Ashburn",
+    "valid_urls": []
+  },
+  {
+    "ip": "103.51.205.168",
+    "port": 8080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 45305,
+    "isp": "Lintas Data Prima, PT",
+    "protocol": "http",
+    "speed_ms": "3560.42",
+    "anonymity": "anonymous",
+    "location": "Jaten",
+    "valid_urls": [
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "110.74.206.40",
+    "port": 8181,
+    "country": "KH",
+    "country_code": "KH",
+    "asn": 38901,
+    "isp": "EZECOM CO., LTD.",
+    "protocol": "http",
+    "speed_ms": "5051.65",
+    "anonymity": "anonymous",
+    "location": "Siem Reap",
+    "valid_urls": [
+      "https://www.instagram.com/"
+    ]
+  },
+  {
+    "ip": "91.98.78.64",
+    "port": 80,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "http",
+    "speed_ms": "1784.96",
+    "anonymity": "anonymous",
+    "location": "Nuremberg",
+    "valid_urls": []
+  },
+  {
+    "ip": "202.141.161.53",
+    "port": 10808,
+    "country": "US",
+    "country_code": "US",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "http",
+    "speed_ms": "4387.05",
+    "anonymity": "anonymous",
+    "location": "Phoenix",
+    "valid_urls": [
+      "https://www.google.com/search?q=google"
+    ]
+  },
+  {
+    "ip": "197.221.240.240",
+    "port": 80,
+    "country": "ZW",
+    "country_code": "ZW",
+    "asn": 37204,
+    "isp": "Telone PVT Ltd",
+    "protocol": "http",
+    "speed_ms": "2481.37",
+    "anonymity": "anonymous",
+    "location": "Harare (Harare Central)",
+    "valid_urls": []
+  },
+  {
+    "ip": "23.88.88.105",
+    "port": 80,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "http",
+    "speed_ms": "1881.44",
+    "anonymity": "anonymous",
+    "location": "Nuremberg",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10024,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1637.76",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "58.241.88.17",
+    "port": 800,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 140293,
+    "isp": "China Telecom",
+    "protocol": "http",
+    "speed_ms": "3111.57",
+    "anonymity": "anonymous",
+    "location": "Nanjing",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10755,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1795.73",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "194.190.93.140",
+    "port": 8080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 50946,
+    "isp": "MOTEL Limited Liability Company",
+    "protocol": "http",
+    "speed_ms": "3229.06",
+    "anonymity": "anonymous",
+    "location": "Moscow",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11394,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1762.27",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "58.241.88.8",
+    "port": 800,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 140293,
+    "isp": "China Telecom",
+    "protocol": "http",
+    "speed_ms": "2176.00",
+    "anonymity": "anonymous",
+    "location": "Nanjing",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10521,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1777.26",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "185.235.16.12",
+    "port": 80,
+    "country": "SY",
+    "country_code": "SY",
+    "asn": 29256,
+    "isp": "Syrian Telecom",
+    "protocol": "http",
+    "speed_ms": "1882.68",
+    "anonymity": "anonymous",
+    "location": "Damascus (Al Mouhajrin)",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11310,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1760.54",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "45.167.124.52",
+    "port": 8080,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 269804,
+    "isp": "SEPCOM COMUNICACIONES SAS",
+    "protocol": "http",
+    "speed_ms": "1940.85",
+    "anonymity": "anonymous",
+    "location": "Popayan",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "185.225.20.242",
+    "port": 80,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 61112,
+    "isp": "AKILE LTD",
+    "protocol": "http",
+    "speed_ms": "3506.41",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": []
+  },
+  {
+    "ip": "154.219.101.86",
+    "port": 8888,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 401701,
+    "isp": "cognetcloud INC",
+    "protocol": "http",
+    "speed_ms": "1864.55",
+    "anonymity": "anonymous",
+    "location": "Hong Kong",
+    "valid_urls": []
+  },
+  {
+    "ip": "103.125.31.222",
+    "port": 80,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 138418,
+    "isp": "City Link Communication",
+    "protocol": "http",
+    "speed_ms": "1878.03",
+    "anonymity": "anonymous",
+    "location": "Narayanganj",
+    "valid_urls": []
+  },
+  {
+    "ip": "8.219.191.219",
+    "port": 8118,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1915.53",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": []
+  },
+  {
+    "ip": "4.216.195.194",
+    "port": 3128,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "1815.58",
+    "anonymity": "anonymous",
+    "location": "Shibuya City",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "154.56.114.91",
+    "port": 8082,
+    "country": "PH",
+    "country_code": "PH",
+    "asn": 142285,
+    "isp": "KEITH.NET INCORPORATED",
+    "protocol": "http",
+    "speed_ms": "5206.07",
+    "anonymity": "anonymous",
+    "location": "Nalsian Norte",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10878,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1740.55",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11515,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1564.83",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "101.71.143.237",
+    "port": 8092,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4837,
+    "isp": "CHINA UNICOM China169 Backbone",
+    "protocol": "http",
+    "speed_ms": "2266.75",
+    "anonymity": "anonymous",
+    "location": "Hangzhou",
+    "valid_urls": []
+  },
+  {
+    "ip": "154.90.48.76",
+    "port": 80,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 138915,
+    "isp": "Kaopu Cloud HK Limited",
+    "protocol": "http",
+    "speed_ms": "4562.92",
+    "anonymity": "anonymous",
+    "location": "Jakarta",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10262,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1580.97",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "154.16.146.46",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14670,
+    "isp": "WHG Hosting Services Ltd",
+    "protocol": "http",
+    "speed_ms": "4700.06",
+    "anonymity": "anonymous",
+    "location": "Buffalo",
+    "valid_urls": []
+  },
+  {
+    "ip": "192.73.244.36",
+    "port": 80,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 174,
+    "isp": "Cogent Communications",
+    "protocol": "http",
+    "speed_ms": "1702.96",
+    "anonymity": "anonymous",
+    "location": "Jardim Cacique",
+    "valid_urls": []
+  },
+  {
+    "ip": "156.146.56.231",
+    "port": 8081,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 60068,
+    "isp": "Datacamp Limited",
+    "protocol": "http",
+    "speed_ms": "1839.05",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10230,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1719.06",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11115,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1719.18",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10850,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1541.37",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10987,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1539.70",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10261,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1541.28",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "101.251.204.174",
+    "port": 8080,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4808,
+    "isp": "China Unicom Beijing Province Network",
+    "protocol": "http",
+    "speed_ms": "3818.42",
+    "anonymity": "anonymous",
+    "location": "Haidian (Haidian Qu)",
+    "valid_urls": []
+  },
+  {
+    "ip": "102.207.191.68",
+    "port": 8080,
+    "country": "KE",
+    "country_code": "KE",
+    "asn": 329497,
+    "isp": "Avitech Solutions LTD",
+    "protocol": "http",
+    "speed_ms": "4478.86",
+    "anonymity": "anonymous",
+    "location": "Nairobi",
+    "valid_urls": []
+  },
+  {
+    "ip": "46.29.162.166",
+    "port": 80,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 49392,
+    "isp": "LLC Baxet",
+    "protocol": "http",
+    "speed_ms": "1894.68",
+    "anonymity": "anonymous",
+    "location": "Moscow",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11707,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1681.46",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11748,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1681.90",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10475,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1517.01",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "52.229.30.3",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "1761.21",
+    "anonymity": "anonymous",
+    "location": "Redmond",
+    "valid_urls": []
+  },
+  {
+    "ip": "154.16.146.42",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14670,
+    "isp": "WHG Hosting Services Ltd",
+    "protocol": "http",
+    "speed_ms": "3656.20",
+    "anonymity": "anonymous",
+    "location": "Buffalo",
+    "valid_urls": []
+  },
+  {
+    "ip": "16.78.119.130",
+    "port": 443,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "1778.49",
+    "anonymity": "anonymous",
+    "location": "Jakarta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "119.92.142.80",
+    "port": 8082,
+    "country": "PH",
+    "country_code": "PH",
+    "asn": 9299,
+    "isp": "Philippine Long Distance Telephone Co.",
+    "protocol": "http",
+    "speed_ms": "4469.36",
+    "anonymity": "anonymous",
+    "location": "Makati City",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "57.128.188.167",
+    "port": 9163,
+    "country": "PH",
+    "country_code": "PH",
+    "asn": 17639,
+    "isp": "ComClark Network & Technology Corp",
+    "protocol": "http",
+    "speed_ms": "2186.73",
+    "anonymity": "anonymous",
+    "location": "Bulaon",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "14.225.222.164",
+    "port": 7890,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135905,
+    "isp": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
+    "protocol": "http",
+    "speed_ms": "2270.78",
+    "anonymity": "anonymous",
+    "location": "Hanoi",
+    "valid_urls": [
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10843,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1484.95",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "168.235.110.63",
+    "port": 3128,
+    "country": "US",
+    "country_code": "US",
+    "asn": 174,
+    "isp": "Cogent Communications",
+    "protocol": "http",
+    "speed_ms": "1765.21",
+    "anonymity": "anonymous",
+    "location": "Jackson",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11376,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1656.43",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "89.58.55.33",
+    "port": 80,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 197540,
+    "isp": "netcup GmbH",
+    "protocol": "http",
+    "speed_ms": "1658.12",
+    "anonymity": "anonymous",
+    "location": "Nuremberg",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11527,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1640.90",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11066,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1640.45",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10446,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1496.76",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "190.242.157.215",
+    "port": 8080,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 269804,
+    "isp": "SEPCOM COMUNICACIONES SAS",
+    "protocol": "http",
+    "speed_ms": "1837.38",
+    "anonymity": "anonymous",
+    "location": "Popayan",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10250,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1626.29",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "185.115.74.185",
+    "port": 8080,
+    "country": "CZ",
+    "country_code": "CZ",
+    "asn": 212975,
+    "isp": "TeamCity s.r.o.",
+    "protocol": "http",
+    "speed_ms": "1726.09",
+    "anonymity": "anonymous",
+    "location": "Rychvald",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "57.128.188.167",
+    "port": 9090,
+    "country": "IN",
+    "country_code": "IN",
+    "asn": 9498,
+    "isp": "Bharti Airtel Limited",
+    "protocol": "http",
+    "speed_ms": "2079.37",
+    "anonymity": "anonymous",
+    "location": "Gurugram (DLF Phase 5)",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11351,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1479.98",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "118.137.62.200",
+    "port": 8080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 23700,
+    "isp": "Linknet-Fastnet ASN",
+    "protocol": "http",
+    "speed_ms": "1828.31",
+    "anonymity": "anonymous",
+    "location": "Jakarta",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10523,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1639.92",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 9443,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1444.56",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11018,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1454.69",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10203,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1453.67",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "181.78.195.137",
+    "port": 999,
+    "country": "EC",
+    "country_code": "EC",
+    "asn": 23031,
+    "isp": "TELECU TELECOMUNICACIONES DEL ECUADOR TELECUSA S.A.S.",
+    "protocol": "http",
+    "speed_ms": "4860.78",
+    "anonymity": "anonymous",
+    "location": "Gima",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "12.50.107.221",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 7018,
+    "isp": "AT&T Enterprises, LLC",
+    "protocol": "http",
+    "speed_ms": "1735.08",
+    "anonymity": "anonymous",
+    "location": "Weston",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10603,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1452.06",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "185.135.69.34",
+    "port": 80,
+    "country": "IQ",
+    "country_code": "IQ",
+    "asn": 205889,
+    "isp": "Giga Nineveh for internet services Ltd",
+    "protocol": "http",
+    "speed_ms": "1366.99",
+    "anonymity": "anonymous",
+    "location": "Baghdad (Mansour)",
+    "valid_urls": []
+  },
+  {
+    "ip": "107.174.231.218",
+    "port": 8888,
+    "country": "US",
+    "country_code": "US",
+    "asn": 36352,
+    "isp": "HostPapa",
+    "protocol": "http",
+    "speed_ms": "1086.88",
+    "anonymity": "anonymous",
+    "location": "Dallas",
+    "valid_urls": []
+  },
+  {
+    "ip": "193.43.159.200",
+    "port": 80,
+    "country": "SY",
+    "country_code": "SY",
+    "asn": 29256,
+    "isp": "Syrian Telecom",
+    "protocol": "http",
+    "speed_ms": "1722.42",
+    "anonymity": "anonymous",
+    "location": "Damascus",
+    "valid_urls": []
+  },
+  {
+    "ip": "183.249.5.111",
+    "port": 22222,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 2516,
+    "isp": "KDDI CORPORATION",
+    "protocol": "http",
+    "speed_ms": "2099.72",
+    "anonymity": "anonymous",
+    "location": "Chiyoda City",
+    "valid_urls": []
+  },
+  {
+    "ip": "58.216.109.17",
+    "port": 800,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 140293,
+    "isp": "China Telecom",
+    "protocol": "http",
+    "speed_ms": "2573.42",
+    "anonymity": "anonymous",
+    "location": "Nanjing",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11687,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1616.58",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "147.161.210.140",
+    "port": 8800,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 53813,
+    "isp": "ZSCALER, INC.",
+    "protocol": "http",
+    "speed_ms": "1655.98",
+    "anonymity": "anonymous",
+    "location": "Shibuya City",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10050,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1593.19",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "58.216.109.13",
+    "port": 800,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 140293,
+    "isp": "China Telecom",
+    "protocol": "http",
+    "speed_ms": "2083.29",
+    "anonymity": "anonymous",
+    "location": "Nanjing",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10815,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1542.25",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11211,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1542.64",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "153.0.171.163",
+    "port": 8085,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4837,
+    "isp": "CHINA UNICOM China169 Backbone",
+    "protocol": "http",
+    "speed_ms": "2081.33",
+    "anonymity": "anonymous",
+    "location": "Haikou",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10742,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1394.27",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10173,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1557.57",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11184,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1556.11",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "172.237.73.24",
+    "port": 80,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 63949,
+    "isp": "Akamai Technologies, Inc.",
+    "protocol": "http",
+    "speed_ms": "1716.47",
+    "anonymity": "anonymous",
+    "location": "Singapore (Somapah)",
+    "valid_urls": []
+  },
+  {
+    "ip": "113.204.79.230",
+    "port": 9091,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4837,
+    "isp": "CHINA UNICOM China169 Backbone",
+    "protocol": "http",
+    "speed_ms": "2018.14",
+    "anonymity": "anonymous",
+    "location": "Jinrongjie (Xicheng District)",
+    "valid_urls": []
+  },
+  {
+    "ip": "23.88.88.102",
+    "port": 80,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "http",
+    "speed_ms": "1619.70",
+    "anonymity": "anonymous",
+    "location": "Nuremberg",
+    "valid_urls": []
+  },
+  {
+    "ip": "195.26.224.135",
+    "port": 80,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 216071,
+    "isp": "SERVERS TECH FZCO",
+    "protocol": "http",
+    "speed_ms": "4409.50",
+    "anonymity": "anonymous",
+    "location": "Amsterdam",
+    "valid_urls": []
+  },
+  {
+    "ip": "13.80.134.180",
+    "port": 80,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "1619.01",
+    "anonymity": "anonymous",
+    "location": "Amsterdam",
+    "valid_urls": []
+  },
+  {
+    "ip": "97.74.87.226",
+    "port": 80,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 26496,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "http",
+    "speed_ms": "1642.26",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": []
+  },
+  {
+    "ip": "207.177.122.144",
+    "port": 8080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 5056,
+    "isp": "Aureon Network Services",
+    "protocol": "http",
+    "speed_ms": "4713.21",
+    "anonymity": "anonymous",
+    "location": "Fort Madison",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10838,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1373.68",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "147.161.239.240",
+    "port": 8800,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1555.16",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11700,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1517.61",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10013,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1373.31",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "20.210.113.32",
+    "port": 80,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "1606.07",
+    "anonymity": "anonymous",
+    "location": "Shibuya City",
+    "valid_urls": []
+  },
+  {
+    "ip": "34.83.88.197",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14618,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "1740.01",
+    "anonymity": "transparent",
+    "location": "Ashburn",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10001,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1521.66",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11172,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1361.45",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10914,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1359.25",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10025,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1485.77",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10561,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1504.14",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11526,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1339.15",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11659,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1340.21",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "172.193.178.226",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "1337.12",
+    "anonymity": "anonymous",
+    "location": "Quincy",
+    "valid_urls": []
+  },
+  {
+    "ip": "83.143.24.66",
+    "port": 80,
+    "country": "BW",
+    "country_code": "BW",
+    "asn": 37678,
+    "isp": "BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
+    "protocol": "http",
+    "speed_ms": "4045.21",
+    "anonymity": "anonymous",
+    "location": "Gaborone (Central Business District)",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "178.212.144.7",
+    "port": 80,
+    "country": "PL",
+    "country_code": "PL",
+    "asn": 51436,
+    "isp": "IDEALAN Sp. z o.o.",
+    "protocol": "http",
+    "speed_ms": "1518.34",
+    "anonymity": "anonymous",
+    "location": "Augustow",
+    "valid_urls": []
+  },
+  {
+    "ip": "113.160.132.26",
+    "port": 8080,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 45899,
+    "isp": "VNPT Corp",
+    "protocol": "http",
+    "speed_ms": "1664.00",
+    "anonymity": "anonymous",
+    "location": "Ban Yen Nhan",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "176.126.164.213",
+    "port": 80,
+    "country": "KG",
+    "country_code": "KG",
+    "asn": 59684,
+    "isp": "Hoster kg, Ltd.",
+    "protocol": "http",
+    "speed_ms": "1996.06",
+    "anonymity": "anonymous",
+    "location": "Bishkek",
+    "valid_urls": []
+  },
+  {
+    "ip": "179.96.28.58",
+    "port": 80,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 28329,
+    "isp": "Megatelecom Telecomunicacoes Ltda",
+    "protocol": "http",
+    "speed_ms": "1654.53",
+    "anonymity": "anonymous",
+    "location": "Rio Verde",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11201,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1470.94",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11746,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1474.12",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10419,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1310.45",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "103.173.140.145",
+    "port": 8080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 58485,
+    "isp": "WIFIAN ID",
+    "protocol": "http",
+    "speed_ms": "1655.47",
+    "anonymity": "anonymous",
+    "location": "Purbalingga",
+    "valid_urls": []
+  },
+  {
+    "ip": "58.216.109.18",
+    "port": 800,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 140293,
+    "isp": "China Telecom",
+    "protocol": "http",
+    "speed_ms": "1981.90",
+    "anonymity": "anonymous",
+    "location": "Nanjing",
+    "valid_urls": []
+  },
+  {
+    "ip": "34.127.40.229",
+    "port": 80,
+    "country": "Unknown",
+    "country_code": "Unknown",
+    "asn": "Unknown",
+    "isp": "Unknown",
+    "protocol": "http",
+    "speed_ms": "960.82",
+    "anonymity": "elite",
+    "location": "Unknown",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10268,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1452.07",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10101,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1439.49",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10372,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1438.64",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "142.93.202.130",
+    "port": 3128,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "1457.83",
+    "anonymity": "anonymous",
+    "location": "North Bergen",
+    "valid_urls": []
+  },
+  {
+    "ip": "78.80.228.150",
+    "port": 80,
+    "country": "CZ",
+    "country_code": "CZ",
+    "asn": 13036,
+    "isp": "T-Mobile Czech Republic a.s.",
+    "protocol": "http",
+    "speed_ms": "1594.15",
+    "anonymity": "anonymous",
+    "location": "Jezov",
+    "valid_urls": []
+  },
+  {
+    "ip": "213.230.110.191",
+    "port": 3128,
+    "country": "UZ",
+    "country_code": "UZ",
+    "asn": 8193,
+    "isp": "\"Uzbektelekom\" Joint Stock Company",
+    "protocol": "http",
+    "speed_ms": "3557.57",
+    "anonymity": "anonymous",
+    "location": "Tashkent",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "102.223.9.53",
+    "port": 80,
+    "country": "TZ",
+    "country_code": "TZ",
+    "asn": 33765,
+    "isp": "TANZANIA TELECOMMUNICATIONS CO. LTD",
+    "protocol": "http",
+    "speed_ms": "2051.96",
+    "anonymity": "anonymous",
+    "location": "Dar es Salaam",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 9400,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1377.63",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11480,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1361.98",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "38.60.196.214",
+    "port": 80,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 138915,
+    "isp": "Kaopu Cloud HK Limited",
+    "protocol": "http",
+    "speed_ms": "1420.17",
+    "anonymity": "anonymous",
+    "location": "London",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11259,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1362.58",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10003,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1358.56",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "47.56.110.204",
+    "port": 8990,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1499.77",
+    "anonymity": "anonymous",
+    "location": "Hong Kong",
+    "valid_urls": []
+  },
+  {
+    "ip": "185.191.236.162",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": "Unknown",
+    "isp": "Unknown",
+    "protocol": "http",
+    "speed_ms": "1400.03",
+    "anonymity": "anonymous",
+    "location": "Seongnam-si (Olympic-ro 35-gil)",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "20.204.43.57",
+    "port": 80,
+    "country": "IN",
+    "country_code": "IN",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "1520.26",
+    "anonymity": "anonymous",
+    "location": "Pune",
+    "valid_urls": []
+  },
+  {
+    "ip": "67.223.225.161",
+    "port": 43080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 29873,
+    "isp": "Newfold Digital, Inc.",
+    "protocol": "http",
+    "speed_ms": "2232.29",
+    "anonymity": "anonymous",
+    "location": "Jacksonville (Deerwood)",
+    "valid_urls": []
+  },
+  {
+    "ip": "46.249.100.124",
+    "port": 80,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 212552,
+    "isp": "BitCommand LLC",
+    "protocol": "http",
+    "speed_ms": "1341.62",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": []
+  },
+  {
+    "ip": "193.43.140.228",
+    "port": 8080,
+    "country": "SY",
+    "country_code": "SY",
+    "asn": 29256,
+    "isp": "Syrian Telecom",
+    "protocol": "http",
+    "speed_ms": "5979.69",
+    "anonymity": "anonymous",
+    "location": "Damascus",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 33333,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1303.26",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "41.220.16.215",
+    "port": 80,
+    "country": "ZW",
+    "country_code": "ZW",
+    "asn": 37204,
+    "isp": "Telone PVT Ltd",
+    "protocol": "http",
+    "speed_ms": "1497.11",
+    "anonymity": "anonymous",
+    "location": "Harare (Harare Central)",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10409,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1319.34",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10300,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1265.11",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "4.213.167.178",
+    "port": 80,
+    "country": "IN",
+    "country_code": "IN",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "1453.08",
+    "anonymity": "anonymous",
+    "location": "Pune",
+    "valid_urls": []
+  },
+  {
+    "ip": "196.1.97.198",
+    "port": 80,
+    "country": "SN",
+    "country_code": "SN",
+    "asn": 8346,
+    "isp": "SONATEL-AS Autonomous System",
+    "protocol": "http",
+    "speed_ms": "2499.50",
+    "anonymity": "anonymous",
+    "location": "Dakar (Fann-Point E-Amitie)",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11546,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1278.86",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "81.169.213.169",
+    "port": 8888,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 6724,
+    "isp": "Strato AG",
+    "protocol": "http",
+    "speed_ms": "1366.60",
+    "anonymity": "anonymous",
+    "location": "Berlin (Charlottenburg-Wilmersdorf)",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11471,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1278.37",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11405,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1279.12",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "45.186.6.104",
+    "port": 3128,
+    "country": "EC",
+    "country_code": "EC",
+    "asn": 269806,
+    "isp": "PEREZ TITO JULIO CESAR(FASTNETT)",
+    "protocol": "http",
+    "speed_ms": "1441.06",
+    "anonymity": "anonymous",
+    "location": "Riobamba",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10801,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1274.96",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "38.188.247.12",
+    "port": 999,
+    "country": "DO",
+    "country_code": "DO",
+    "asn": 272083,
+    "isp": "REYNOSO, S.R.L.",
+    "protocol": "http",
+    "speed_ms": "3262.01",
+    "anonymity": "anonymous",
+    "location": "Esperalvillo",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 18000,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1258.61",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11080,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1260.91",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11734,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1278.80",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "38.55.129.141",
+    "port": 8080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 54600,
+    "isp": "PEG TECH INC",
+    "protocol": "http",
+    "speed_ms": "2174.30",
+    "anonymity": "anonymous",
+    "location": "Santa Clara",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11698,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1236.58",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10608,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1235.71",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11231,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1236.38",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10974,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1234.44",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10229,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1237.50",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "103.65.237.92",
+    "port": 5678,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 135450,
+    "isp": "PT Berkah Solusi Teknologi Informasi",
+    "protocol": "http",
+    "speed_ms": "1407.44",
+    "anonymity": "anonymous",
+    "location": "Jakarta",
+    "valid_urls": []
+  },
+  {
+    "ip": "23.247.136.254",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46997,
+    "isp": "Black Mesa Corporation",
+    "protocol": "http",
+    "speed_ms": "1261.19",
+    "anonymity": "anonymous",
+    "location": "Fremont (East Industrial)",
+    "valid_urls": []
+  },
+  {
+    "ip": "172.200.72.48",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "1321.96",
+    "anonymity": "anonymous",
+    "location": "Ashburn",
+    "valid_urls": []
+  },
+  {
+    "ip": "74.176.195.135",
+    "port": 80,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "1306.88",
+    "anonymity": "anonymous",
+    "location": "Shibuya City",
+    "valid_urls": []
+  },
+  {
+    "ip": "49.156.44.114",
+    "port": 8080,
+    "country": "KH",
+    "country_code": "KH",
+    "asn": 24492,
+    "isp": "WiCAM Corporation Ltd.",
+    "protocol": "http",
+    "speed_ms": "1381.82",
+    "anonymity": "anonymous",
+    "location": "Phnom Penh",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10922,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1201.31",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "38.147.75.254",
+    "port": 999,
+    "country": "VE",
+    "country_code": "VE",
+    "asn": 273837,
+    "isp": "NAVEGANTE NETWORK, C.A.",
+    "protocol": "http",
+    "speed_ms": "3148.20",
+    "anonymity": "anonymous",
+    "location": "La Concepcion",
+    "valid_urls": [
+      "https://www.instagram.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10819,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1200.48",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "35.225.22.61",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "http",
+    "speed_ms": "2067.46",
+    "anonymity": "anonymous",
+    "location": "Council Bluffs",
+    "valid_urls": [
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "58.241.88.7",
+    "port": 800,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 140293,
+    "isp": "China Telecom",
+    "protocol": "http",
+    "speed_ms": "1614.55",
+    "anonymity": "anonymous",
+    "location": "Nanjing",
+    "valid_urls": []
+  },
+  {
+    "ip": "179.27.158.18",
+    "port": 80,
+    "country": "UY",
+    "country_code": "UY",
+    "asn": 6057,
+    "isp": "Administracion Nacional de Telecomunicaciones",
+    "protocol": "http",
+    "speed_ms": "1358.08",
+    "anonymity": "anonymous",
+    "location": "Montevideo",
+    "valid_urls": []
+  },
+  {
+    "ip": "47.238.203.170",
+    "port": 50000,
+    "country": "US",
+    "country_code": "US",
+    "asn": 3257,
+    "isp": "GTT Communications Inc.",
+    "protocol": "http",
+    "speed_ms": "3436.18",
+    "anonymity": "anonymous",
+    "location": "Albany (Bishop's Gate)",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10056,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1179.52",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "150.107.140.238",
+    "port": 3128,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 55685,
+    "isp": "PT Jala Lintas Media",
+    "protocol": "http",
+    "speed_ms": "5625.68",
+    "anonymity": "anonymous",
+    "location": "Caringin",
+    "valid_urls": []
+  },
+  {
+    "ip": "34.102.241.71",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14618,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "549.14",
+    "anonymity": "transparent",
+    "location": "Ashburn",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10477,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1141.46",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10748,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1123.93",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.227.5.10",
+    "port": 8888,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "2724.41",
+    "anonymity": "anonymous",
+    "location": "Santa Clara",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "103.213.97.78",
+    "port": 80,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 23650,
+    "isp": "Chinanet Jiangsu",
+    "protocol": "http",
+    "speed_ms": "1403.33",
+    "anonymity": "anonymous",
+    "location": "Changzhou (Wujin Qu)",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10099,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1103.93",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "187.102.219.42",
+    "port": 999,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 270004,
+    "isp": "CRETTON LISANDRO MAXIMILIANO (MISIOTECH)",
+    "protocol": "http",
+    "speed_ms": "3725.22",
+    "anonymity": "anonymous",
+    "location": "Montecarlo",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10344,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1099.92",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10855,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1082.13",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11195,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1076.92",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11200,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1059.74",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "103.72.89.116",
+    "port": 8097,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 150235,
+    "isp": "PT Insolikh Jaringan Multimedia",
+    "protocol": "http",
+    "speed_ms": "1582.02",
+    "anonymity": "anonymous",
+    "location": "Molobulahe",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "20.210.113.32",
+    "port": 8123,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "1162.94",
+    "anonymity": "anonymous",
+    "location": "Shibuya City",
+    "valid_urls": []
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 10601,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1058.07",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.225.72.38",
+    "port": 11483,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 62044,
+    "isp": "Zscaler Switzerland GmbH",
+    "protocol": "http",
+    "speed_ms": "1094.65",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  }
+]

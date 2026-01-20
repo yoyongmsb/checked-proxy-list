@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "180.191.22.50",
+    "port": 4153,
+    "country": "PH",
+    "country_code": "PH",
+    "asn": 4775,
+    "isp": "Globe Telecom (GMCR,INC)",
+    "protocol": "socks4",
+    "speed_ms": "4558.92",
+    "anonymity": "anonymous",
+    "location": "Taguig",
+    "valid_urls": []
+  }
+]

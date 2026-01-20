@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "123.54.197.49",
+    "port": 23443,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 140292,
+    "isp": "China Telecom",
+    "protocol": "socks5",
+    "speed_ms": "5905.69",
+    "anonymity": "anonymous",
+    "location": "Nanjing",
+    "valid_urls": []
+  },
+  {
+    "ip": "123.54.197.19",
+    "port": 21860,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 140292,
+    "isp": "China Telecom",
+    "protocol": "socks5",
+    "speed_ms": "5487.04",
+    "anonymity": "anonymous",
+    "location": "Nanjing",
+    "valid_urls": []
+  }
+]

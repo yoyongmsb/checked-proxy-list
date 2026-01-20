@@ -1,0 +1,48 @@
+[
+  {
+    "ip": "8.213.151.128",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2088.31",
+    "anonymity": "anonymous",
+    "location": "Seoul",
+    "valid_urls": []
+  },
+  {
+    "ip": "1.231.81.166",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 9318,
+    "isp": "SK Broadband Co Ltd",
+    "protocol": "http",
+    "speed_ms": "2011.15",
+    "anonymity": "anonymous",
+    "location": "Seoul (Toegye-ro)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "185.191.236.162",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": "Unknown",
+    "isp": "Unknown",
+    "protocol": "http",
+    "speed_ms": "1400.03",
+    "anonymity": "anonymous",
+    "location": "Seongnam-si (Olympic-ro 35-gil)",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  }
+]

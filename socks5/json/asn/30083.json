@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "206.123.156.176",
+    "port": 6704,
+    "country": "US",
+    "country_code": "US",
+    "asn": 30083,
+    "isp": "velia.net",
+    "protocol": "socks5",
+    "speed_ms": "5071.97",
+    "anonymity": "anonymous",
+    "location": "St Louis",
+    "valid_urls": []
+  }
+]

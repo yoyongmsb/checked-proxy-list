@@ -1,0 +1,57 @@
+[
+  {
+    "ip": "46.47.197.210",
+    "port": 3128,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 20632,
+    "isp": "PJSC MegaFon",
+    "protocol": "http",
+    "speed_ms": "2070.66",
+    "anonymity": "anonymous",
+    "location": "St Petersburg",
+    "valid_urls": []
+  },
+  {
+    "ip": "91.200.163.190",
+    "port": 8088,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 30822,
+    "isp": "Dubrovskaya Nataliya Vladislavovna",
+    "protocol": "http",
+    "speed_ms": "2734.72",
+    "anonymity": "anonymous",
+    "location": "Lyubertsy",
+    "valid_urls": []
+  },
+  {
+    "ip": "194.190.93.140",
+    "port": 8080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 50946,
+    "isp": "MOTEL Limited Liability Company",
+    "protocol": "http",
+    "speed_ms": "3229.06",
+    "anonymity": "anonymous",
+    "location": "Moscow",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "46.29.162.166",
+    "port": 80,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 49392,
+    "isp": "LLC Baxet",
+    "protocol": "http",
+    "speed_ms": "1894.68",
+    "anonymity": "anonymous",
+    "location": "Moscow",
+    "valid_urls": []
+  }
+]

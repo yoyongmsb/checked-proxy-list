@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "138.2.47.198",
+    "port": 1080,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "socks5",
+    "speed_ms": "5643.94",
+    "anonymity": "anonymous",
+    "location": "Minoh (Saitoaokita)",
+    "valid_urls": []
+  }
+]

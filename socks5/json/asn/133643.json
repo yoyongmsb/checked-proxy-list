@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "206.123.156.179",
+    "port": 6208,
+    "country": "IN",
+    "country_code": "IN",
+    "asn": 133643,
+    "isp": "EWEBGURU",
+    "protocol": "socks5",
+    "speed_ms": "3561.69",
+    "anonymity": "anonymous",
+    "location": "Noida (Sector 63)",
+    "valid_urls": []
+  }
+]

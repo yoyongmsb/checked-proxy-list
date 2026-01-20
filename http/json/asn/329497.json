@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "102.207.191.68",
+    "port": 8080,
+    "country": "KE",
+    "country_code": "KE",
+    "asn": 329497,
+    "isp": "Avitech Solutions LTD",
+    "protocol": "http",
+    "speed_ms": "4478.86",
+    "anonymity": "anonymous",
+    "location": "Nairobi",
+    "valid_urls": []
+  }
+]

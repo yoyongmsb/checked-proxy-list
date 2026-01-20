@@ -1,0 +1,41 @@
+[
+  {
+    "ip": "185.235.16.12",
+    "port": 80,
+    "country": "SY",
+    "country_code": "SY",
+    "asn": 29256,
+    "isp": "Syrian Telecom",
+    "protocol": "http",
+    "speed_ms": "1882.68",
+    "anonymity": "anonymous",
+    "location": "Damascus (Al Mouhajrin)",
+    "valid_urls": []
+  },
+  {
+    "ip": "193.43.159.200",
+    "port": 80,
+    "country": "SY",
+    "country_code": "SY",
+    "asn": 29256,
+    "isp": "Syrian Telecom",
+    "protocol": "http",
+    "speed_ms": "1722.42",
+    "anonymity": "anonymous",
+    "location": "Damascus",
+    "valid_urls": []
+  },
+  {
+    "ip": "193.43.140.228",
+    "port": 8080,
+    "country": "SY",
+    "country_code": "SY",
+    "asn": 29256,
+    "isp": "Syrian Telecom",
+    "protocol": "http",
+    "speed_ms": "5979.69",
+    "anonymity": "anonymous",
+    "location": "Damascus",
+    "valid_urls": []
+  }
+]

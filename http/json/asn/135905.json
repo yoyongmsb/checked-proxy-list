@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "14.225.222.164",
+    "port": 7890,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135905,
+    "isp": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
+    "protocol": "http",
+    "speed_ms": "2270.78",
+    "anonymity": "anonymous",
+    "location": "Hanoi",
+    "valid_urls": [
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

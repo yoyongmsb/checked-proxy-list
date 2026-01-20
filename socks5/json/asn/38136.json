@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "141.11.42.163",
+    "port": 1080,
+    "country": "TW",
+    "country_code": "TW",
+    "asn": 38136,
+    "isp": "Akari Networks Limited",
+    "protocol": "socks5",
+    "speed_ms": "3078.16",
+    "anonymity": "anonymous",
+    "location": "Neihu District",
+    "valid_urls": []
+  }
+]

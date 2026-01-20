@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "206.123.156.176",
+    "port": 6002,
+    "country": "IN",
+    "country_code": "IN",
+    "asn": 135682,
+    "isp": "Advika Web Developments Hosting Pvt Ltd",
+    "protocol": "socks5",
+    "speed_ms": "4110.65",
+    "anonymity": "anonymous",
+    "location": "Jaipur (Vivek Vihar)",
+    "valid_urls": []
+  }
+]

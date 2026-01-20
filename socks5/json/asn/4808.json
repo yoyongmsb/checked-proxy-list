@@ -1,0 +1,41 @@
+[
+  {
+    "ip": "123.54.197.49",
+    "port": 22125,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4808,
+    "isp": "China Unicom Beijing Province Network",
+    "protocol": "socks5",
+    "speed_ms": "4418.66",
+    "anonymity": "anonymous",
+    "location": "Jinrongjie (Xicheng District)",
+    "valid_urls": []
+  },
+  {
+    "ip": "123.54.197.16",
+    "port": 21487,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4808,
+    "isp": "China Unicom Beijing Province Network",
+    "protocol": "socks5",
+    "speed_ms": "5388.70",
+    "anonymity": "anonymous",
+    "location": "Jinrongjie (Xicheng District)",
+    "valid_urls": []
+  },
+  {
+    "ip": "123.54.197.52",
+    "port": 23085,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4808,
+    "isp": "China Unicom Beijing Province Network",
+    "protocol": "socks5",
+    "speed_ms": "5188.73",
+    "anonymity": "anonymous",
+    "location": "Jinrongjie (Xicheng District)",
+    "valid_urls": []
+  }
+]

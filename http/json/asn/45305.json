@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "103.51.205.168",
+    "port": 8080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 45305,
+    "isp": "Lintas Data Prima, PT",
+    "protocol": "http",
+    "speed_ms": "3560.42",
+    "anonymity": "anonymous",
+    "location": "Jaten",
+    "valid_urls": [
+      "https://www.reddit.com/"
+    ]
+  }
+]

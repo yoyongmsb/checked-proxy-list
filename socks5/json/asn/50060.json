@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "176.114.199.202",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 50060,
+    "isp": "Annet Ltd.",
+    "protocol": "socks5",
+    "speed_ms": "3986.00",
+    "anonymity": "anonymous",
+    "location": "Tver'",
+    "valid_urls": []
+  }
+]

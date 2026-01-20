@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "49.229.36.171",
+    "port": 4153,
+    "country": "TH",
+    "country_code": "TH",
+    "asn": 45458,
+    "isp": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+    "protocol": "socks4",
+    "speed_ms": "2444.18",
+    "anonymity": "anonymous",
+    "location": "Phaya Thai (Khwaeng Samsen Nai)",
+    "valid_urls": []
+  }
+]

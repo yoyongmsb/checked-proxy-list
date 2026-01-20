@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "156.246.90.81",
+    "port": 80,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 61112,
+    "isp": "AKILE LTD",
+    "protocol": "http",
+    "speed_ms": "2252.23",
+    "anonymity": "anonymous",
+    "location": "Shibuya City",
+    "valid_urls": []
+  },
+  {
+    "ip": "185.225.20.242",
+    "port": 80,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 61112,
+    "isp": "AKILE LTD",
+    "protocol": "http",
+    "speed_ms": "3506.41",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": []
+  }
+]

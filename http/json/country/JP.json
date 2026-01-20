@@ -1,0 +1,117 @@
+[
+  {
+    "ip": "89.116.88.19",
+    "port": 80,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 2527,
+    "isp": "Sony Network Communications Inc.",
+    "protocol": "http",
+    "speed_ms": "2136.16",
+    "anonymity": "anonymous",
+    "location": "Tsukuba",
+    "valid_urls": []
+  },
+  {
+    "ip": "156.246.90.81",
+    "port": 80,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 61112,
+    "isp": "AKILE LTD",
+    "protocol": "http",
+    "speed_ms": "2252.23",
+    "anonymity": "anonymous",
+    "location": "Shibuya City",
+    "valid_urls": []
+  },
+  {
+    "ip": "4.216.195.194",
+    "port": 3128,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "1815.58",
+    "anonymity": "anonymous",
+    "location": "Shibuya City",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "183.249.5.111",
+    "port": 22222,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 2516,
+    "isp": "KDDI CORPORATION",
+    "protocol": "http",
+    "speed_ms": "2099.72",
+    "anonymity": "anonymous",
+    "location": "Chiyoda City",
+    "valid_urls": []
+  },
+  {
+    "ip": "147.161.210.140",
+    "port": 8800,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 53813,
+    "isp": "ZSCALER, INC.",
+    "protocol": "http",
+    "speed_ms": "1655.98",
+    "anonymity": "anonymous",
+    "location": "Shibuya City",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "20.210.113.32",
+    "port": 80,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "1606.07",
+    "anonymity": "anonymous",
+    "location": "Shibuya City",
+    "valid_urls": []
+  },
+  {
+    "ip": "74.176.195.135",
+    "port": 80,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "1306.88",
+    "anonymity": "anonymous",
+    "location": "Shibuya City",
+    "valid_urls": []
+  },
+  {
+    "ip": "20.210.113.32",
+    "port": 8123,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "1162.94",
+    "anonymity": "anonymous",
+    "location": "Shibuya City",
+    "valid_urls": []
+  }
+]

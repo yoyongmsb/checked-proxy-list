@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "129.226.205.25",
+    "port": 1080,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 132203,
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "protocol": "socks5",
+    "speed_ms": "4756.12",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": []
+  }
+]

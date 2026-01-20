@@ -1,0 +1,67 @@
+[
+  {
+    "ip": "206.123.156.236",
+    "port": 4062,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "socks5",
+    "speed_ms": "4345.83",
+    "anonymity": "anonymous",
+    "location": "Helsinki",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.225",
+    "port": 4652,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "socks5",
+    "speed_ms": "3964.44",
+    "anonymity": "anonymous",
+    "location": "Helsinki",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.185",
+    "port": 5093,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "socks5",
+    "speed_ms": "4102.19",
+    "anonymity": "anonymous",
+    "location": "Helsinki",
+    "valid_urls": []
+  },
+  {
+    "ip": "213.165.58.6",
+    "port": 1080,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 213887,
+    "isp": "WAIcore Ltd",
+    "protocol": "socks5",
+    "speed_ms": "4125.05",
+    "anonymity": "anonymous",
+    "location": "Helsinki",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.204",
+    "port": 7815,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "socks5",
+    "speed_ms": "2937.32",
+    "anonymity": "anonymous",
+    "location": "Helsinki",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "ip": "206.123.156.185",
+    "port": 4126,
+    "country": "US",
+    "country_code": "US",
+    "asn": 40021,
+    "isp": "Contabo Inc.",
+    "protocol": "socks5",
+    "speed_ms": "3004.95",
+    "anonymity": "anonymous",
+    "location": "Newark",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.215",
+    "port": 4787,
+    "country": "US",
+    "country_code": "US",
+    "asn": 40021,
+    "isp": "Contabo Inc.",
+    "protocol": "socks5",
+    "speed_ms": "2732.55",
+    "anonymity": "anonymous",
+    "location": "St Louis",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.185",
+    "port": 5283,
+    "country": "US",
+    "country_code": "US",
+    "asn": 40021,
+    "isp": "Contabo Inc.",
+    "protocol": "socks5",
+    "speed_ms": "2368.21",
+    "anonymity": "anonymous",
+    "location": "Newark",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.223",
+    "port": 6127,
+    "country": "US",
+    "country_code": "US",
+    "asn": 40021,
+    "isp": "Contabo Inc.",
+    "protocol": "socks5",
+    "speed_ms": "2534.15",
+    "anonymity": "anonymous",
+    "location": "Newark",
+    "valid_urls": []
+  }
+]

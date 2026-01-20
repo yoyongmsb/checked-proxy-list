@@ -1,0 +1,121 @@
+[
+  {
+    "ip": "208.65.90.21",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "2161.72",
+    "anonymity": "anonymous",
+    "location": "Duluth (Gwinnett Place)",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "198.177.254.131",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "2623.75",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.104.242.158",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "1981.73",
+    "anonymity": "anonymous",
+    "location": "Duluth (Gwinnett Place)",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "198.177.252.24",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "1962.29",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "198.177.254.157",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "2365.57",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "208.65.90.3",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "1808.80",
+    "anonymity": "anonymous",
+    "location": "Duluth (Gwinnett Place)",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "198.177.253.13",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "1802.10",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  }
+]

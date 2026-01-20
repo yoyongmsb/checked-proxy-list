@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "154.64.235.206",
+    "port": 58367,
+    "country": "US",
+    "country_code": "US",
+    "asn": 979,
+    "isp": "NetLab Global",
+    "protocol": "socks5",
+    "speed_ms": "4038.32",
+    "anonymity": "anonymous",
+    "location": "Los Angeles",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "154.90.48.76",
+    "port": 80,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 138915,
+    "isp": "Kaopu Cloud HK Limited",
+    "protocol": "http",
+    "speed_ms": "4562.92",
+    "anonymity": "anonymous",
+    "location": "Jakarta",
+    "valid_urls": []
+  },
+  {
+    "ip": "38.60.196.214",
+    "port": 80,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 138915,
+    "isp": "Kaopu Cloud HK Limited",
+    "protocol": "http",
+    "speed_ms": "1420.17",
+    "anonymity": "anonymous",
+    "location": "London",
+    "valid_urls": []
+  }
+]

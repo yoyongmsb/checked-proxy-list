@@ -1,0 +1,67 @@
+[
+  {
+    "ip": "216.68.128.121",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 6181,
+    "isp": "Cincinnati Bell Telephone Company LLC",
+    "protocol": "socks5",
+    "speed_ms": "5359.88",
+    "anonymity": "anonymous",
+    "location": "Cincinnati (Central Business District)",
+    "valid_urls": []
+  },
+  {
+    "ip": "69.61.200.104",
+    "port": 36181,
+    "country": "US",
+    "country_code": "US",
+    "asn": 6181,
+    "isp": "Cincinnati Bell Telephone Company LLC",
+    "protocol": "socks5",
+    "speed_ms": "4654.59",
+    "anonymity": "anonymous",
+    "location": "Lockland",
+    "valid_urls": []
+  },
+  {
+    "ip": "208.102.51.6",
+    "port": 58208,
+    "country": "US",
+    "country_code": "US",
+    "asn": 6181,
+    "isp": "Cincinnati Bell Telephone Company LLC",
+    "protocol": "socks5",
+    "speed_ms": "3705.77",
+    "anonymity": "anonymous",
+    "location": "Cincinnati (Central Business District)",
+    "valid_urls": []
+  },
+  {
+    "ip": "72.49.49.11",
+    "port": 31034,
+    "country": "US",
+    "country_code": "US",
+    "asn": 6181,
+    "isp": "Cincinnati Bell Telephone Company LLC",
+    "protocol": "socks5",
+    "speed_ms": "3493.44",
+    "anonymity": "anonymous",
+    "location": "Norwood",
+    "valid_urls": []
+  },
+  {
+    "ip": "66.42.224.229",
+    "port": 41679,
+    "country": "US",
+    "country_code": "US",
+    "asn": 6181,
+    "isp": "Cincinnati Bell Telephone Company LLC",
+    "protocol": "socks5",
+    "speed_ms": "3964.94",
+    "anonymity": "anonymous",
+    "location": "Erlanger",
+    "valid_urls": []
+  }
+]

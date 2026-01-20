@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "37.18.73.60",
+    "port": 5566,
+    "country": "CH",
+    "country_code": "CH",
+    "asn": 211507,
+    "isp": "Julian Achter",
+    "protocol": "socks5",
+    "speed_ms": "3663.79",
+    "anonymity": "anonymous",
+    "location": "Bern",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "116.233.142.37",
+    "port": 1080,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4812,
+    "isp": "China Telecom (Group)",
+    "protocol": "socks4",
+    "speed_ms": "4619.83",
+    "anonymity": "anonymous",
+    "location": "Shanghai",
+    "valid_urls": []
+  }
+]

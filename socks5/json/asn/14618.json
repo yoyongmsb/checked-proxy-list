@@ -1,0 +1,67 @@
+[
+  {
+    "ip": "206.123.156.178",
+    "port": 4136,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14618,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "socks5",
+    "speed_ms": "5499.72",
+    "anonymity": "anonymous",
+    "location": "Ashburn",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.224",
+    "port": 5490,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14618,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "socks5",
+    "speed_ms": "3652.21",
+    "anonymity": "anonymous",
+    "location": "Ashburn",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.185",
+    "port": 8717,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14618,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "socks5",
+    "speed_ms": "2651.87",
+    "anonymity": "anonymous",
+    "location": "Ashburn",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.185",
+    "port": 10076,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14618,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "socks5",
+    "speed_ms": "2857.50",
+    "anonymity": "anonymous",
+    "location": "Ashburn",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.222",
+    "port": 4265,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14618,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "socks5",
+    "speed_ms": "2634.93",
+    "anonymity": "anonymous",
+    "location": "Ashburn",
+    "valid_urls": []
+  }
+]

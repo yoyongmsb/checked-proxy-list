@@ -1,0 +1,50 @@
+[
+  {
+    "ip": "154.56.114.91",
+    "port": 8082,
+    "country": "PH",
+    "country_code": "PH",
+    "asn": 142285,
+    "isp": "KEITH.NET INCORPORATED",
+    "protocol": "http",
+    "speed_ms": "5206.07",
+    "anonymity": "anonymous",
+    "location": "Nalsian Norte",
+    "valid_urls": []
+  },
+  {
+    "ip": "119.92.142.80",
+    "port": 8082,
+    "country": "PH",
+    "country_code": "PH",
+    "asn": 9299,
+    "isp": "Philippine Long Distance Telephone Co.",
+    "protocol": "http",
+    "speed_ms": "4469.36",
+    "anonymity": "anonymous",
+    "location": "Makati City",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  },
+  {
+    "ip": "57.128.188.167",
+    "port": 9163,
+    "country": "PH",
+    "country_code": "PH",
+    "asn": 17639,
+    "isp": "ComClark Network & Technology Corp",
+    "protocol": "http",
+    "speed_ms": "2186.73",
+    "anonymity": "anonymous",
+    "location": "Bulaon",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

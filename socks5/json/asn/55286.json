@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "206.123.156.178",
+    "port": 4429,
+    "country": "US",
+    "country_code": "US",
+    "asn": 55286,
+    "isp": "B2 Net Solutions Inc.",
+    "protocol": "socks5",
+    "speed_ms": "5242.77",
+    "anonymity": "anonymous",
+    "location": "Piscataway",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.178",
+    "port": 4257,
+    "country": "US",
+    "country_code": "US",
+    "asn": 55286,
+    "isp": "B2 Net Solutions Inc.",
+    "protocol": "socks5",
+    "speed_ms": "3381.26",
+    "anonymity": "anonymous",
+    "location": "Piscataway",
+    "valid_urls": []
+  }
+]

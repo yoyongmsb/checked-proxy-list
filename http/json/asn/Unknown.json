@@ -1,0 +1,30 @@
+[
+  {
+    "ip": "34.127.40.229",
+    "port": 80,
+    "country": "Unknown",
+    "country_code": "Unknown",
+    "asn": "Unknown",
+    "isp": "Unknown",
+    "protocol": "http",
+    "speed_ms": "960.82",
+    "anonymity": "elite",
+    "location": "Unknown",
+    "valid_urls": []
+  },
+  {
+    "ip": "185.191.236.162",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": "Unknown",
+    "isp": "Unknown",
+    "protocol": "http",
+    "speed_ms": "1400.03",
+    "anonymity": "anonymous",
+    "location": "Seongnam-si (Olympic-ro 35-gil)",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  }
+]

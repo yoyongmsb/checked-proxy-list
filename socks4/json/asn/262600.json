@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "177.85.65.177",
+    "port": 4153,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 262600,
+    "isp": "ASE TELECOMUNICACOES LTDA ME",
+    "protocol": "socks4",
+    "speed_ms": "2119.54",
+    "anonymity": "anonymous",
+    "location": "Simoes Filho",
+    "valid_urls": []
+  }
+]

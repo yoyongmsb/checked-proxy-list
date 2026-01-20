@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "118.137.62.200",
+    "port": 8080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 23700,
+    "isp": "Linknet-Fastnet ASN",
+    "protocol": "http",
+    "speed_ms": "1828.31",
+    "anonymity": "anonymous",
+    "location": "Jakarta",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  }
+]

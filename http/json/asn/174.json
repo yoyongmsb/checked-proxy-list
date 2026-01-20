@@ -1,0 +1,32 @@
+[
+  {
+    "ip": "192.73.244.36",
+    "port": 80,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 174,
+    "isp": "Cogent Communications",
+    "protocol": "http",
+    "speed_ms": "1702.96",
+    "anonymity": "anonymous",
+    "location": "Jardim Cacique",
+    "valid_urls": []
+  },
+  {
+    "ip": "168.235.110.63",
+    "port": 3128,
+    "country": "US",
+    "country_code": "US",
+    "asn": 174,
+    "isp": "Cogent Communications",
+    "protocol": "http",
+    "speed_ms": "1765.21",
+    "anonymity": "anonymous",
+    "location": "Jackson",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  }
+]

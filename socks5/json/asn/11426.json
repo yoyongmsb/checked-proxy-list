@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "104.168.141.199",
+    "port": 1080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 11426,
+    "isp": "Charter Communications Inc",
+    "protocol": "socks5",
+    "speed_ms": "3218.89",
+    "anonymity": "anonymous",
+    "location": "Winnsboro",
+    "valid_urls": []
+  }
+]

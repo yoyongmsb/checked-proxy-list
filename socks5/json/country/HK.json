@@ -1,0 +1,41 @@
+[
+  {
+    "ip": "45.119.97.69",
+    "port": 443,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 133199,
+    "isp": "SonderCloud Limited",
+    "protocol": "socks5",
+    "speed_ms": "3137.53",
+    "anonymity": "anonymous",
+    "location": "Mong Kok",
+    "valid_urls": []
+  },
+  {
+    "ip": "47.239.75.118",
+    "port": 8383,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "socks5",
+    "speed_ms": "3532.80",
+    "anonymity": "anonymous",
+    "location": "Hong Kong",
+    "valid_urls": []
+  },
+  {
+    "ip": "13.70.6.6",
+    "port": 50161,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "socks5",
+    "speed_ms": "3377.51",
+    "anonymity": "anonymous",
+    "location": "Hong Kong",
+    "valid_urls": []
+  }
+]

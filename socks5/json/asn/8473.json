@@ -1,0 +1,54 @@
+[
+  {
+    "ip": "206.123.156.234",
+    "port": 6063,
+    "country": "SE",
+    "country_code": "SE",
+    "asn": 8473,
+    "isp": "Bahnhof AB",
+    "protocol": "socks5",
+    "speed_ms": "2243.15",
+    "anonymity": "anonymous",
+    "location": "Salen",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.183",
+    "port": 4040,
+    "country": "SE",
+    "country_code": "SE",
+    "asn": 8473,
+    "isp": "Bahnhof AB",
+    "protocol": "socks5",
+    "speed_ms": "4402.90",
+    "anonymity": "anonymous",
+    "location": "Salen",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.228",
+    "port": 4346,
+    "country": "SE",
+    "country_code": "SE",
+    "asn": 8473,
+    "isp": "Bahnhof AB",
+    "protocol": "socks5",
+    "speed_ms": "1510.22",
+    "anonymity": "anonymous",
+    "location": "Salen",
+    "valid_urls": []
+  },
+  {
+    "ip": "206.123.156.222",
+    "port": 6881,
+    "country": "SE",
+    "country_code": "SE",
+    "asn": 8473,
+    "isp": "Bahnhof AB",
+    "protocol": "socks5",
+    "speed_ms": "3062.67",
+    "anonymity": "anonymous",
+    "location": "Salen",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "165.154.162.230",
+    "port": 1080,
+    "country": "ES",
+    "country_code": "ES",
+    "asn": 57269,
+    "isp": "DIGI SPAIN TELECOM S.L.U.",
+    "protocol": "socks5",
+    "speed_ms": "2280.91",
+    "anonymity": "anonymous",
+    "location": "Alcala de Henares",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "ip": "198.177.253.13",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "2117.90",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "208.65.90.3",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "1238.16",
+    "anonymity": "anonymous",
+    "location": "Duluth (Gwinnett Place)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "198.177.252.24",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "2972.57",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "198.177.254.157",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "1199.18",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.104.242.158",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "1139.07",
+    "anonymity": "anonymous",
+    "location": "Duluth (Gwinnett Place)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "208.65.90.3",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "2055.43",
+    "anonymity": "anonymous",
+    "location": "Duluth (Gwinnett Place)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "198.177.254.157",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "1809.04",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "208.65.90.21",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "802.78",
+    "anonymity": "anonymous",
+    "location": "Duluth (Gwinnett Place)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "198.177.254.131",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "718.20",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.104.242.158",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "716.36",
+    "anonymity": "anonymous",
+    "location": "Duluth (Gwinnett Place)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "198.177.253.13",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "1511.47",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/"
+    ]
+  }
+]

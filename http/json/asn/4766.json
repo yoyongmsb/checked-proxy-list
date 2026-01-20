@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "183.110.216.128",
+    "port": 8091,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "1276.82",
+    "anonymity": "anonymous",
+    "location": "Seongnam-si",
+    "valid_urls": []
+  },
+  {
+    "ip": "61.72.221.234",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "4446.35",
+    "anonymity": "anonymous",
+    "location": "Sincheon-dong",
+    "valid_urls": []
+  }
+]

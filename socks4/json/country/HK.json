@@ -1,0 +1,43 @@
+[
+  {
+    "ip": "13.70.6.6",
+    "port": 50161,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "socks4",
+    "speed_ms": "1929.39",
+    "anonymity": "anonymous",
+    "location": "Hong Kong",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "154.94.238.147",
+    "port": 50161,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 401701,
+    "isp": "cognetcloud INC",
+    "protocol": "socks4",
+    "speed_ms": "4169.39",
+    "anonymity": "anonymous",
+    "location": "Hong Kong",
+    "valid_urls": []
+  },
+  {
+    "ip": "154.94.238.147",
+    "port": 50161,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 401701,
+    "isp": "cognetcloud INC",
+    "protocol": "socks4",
+    "speed_ms": "3366.59",
+    "anonymity": "anonymous",
+    "location": "Hong Kong",
+    "valid_urls": []
+  }
+]

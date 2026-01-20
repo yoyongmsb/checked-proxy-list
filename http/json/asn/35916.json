@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "148.135.85.87",
+    "port": 1080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 35916,
+    "isp": "MULTACOM CORPORATION",
+    "protocol": "http",
+    "speed_ms": "1618.14",
+    "anonymity": "anonymous",
+    "location": "Las Vegas (Downtown Las Vegas)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  }
+]

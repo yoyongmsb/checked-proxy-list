@@ -1,0 +1,36 @@
+[
+  {
+    "ip": "103.104.99.29",
+    "port": 80,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 7713,
+    "isp": "Telekomunikasi Indonesia (PT)",
+    "protocol": "http",
+    "speed_ms": "1544.20",
+    "anonymity": "anonymous",
+    "location": "Sidoarjo",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "103.104.99.89",
+    "port": 80,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 7713,
+    "isp": "Telekomunikasi Indonesia (PT)",
+    "protocol": "http",
+    "speed_ms": "1322.06",
+    "anonymity": "anonymous",
+    "location": "Sidoarjo",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  }
+]

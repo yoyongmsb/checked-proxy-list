@@ -1,0 +1,77 @@
+[
+  {
+    "ip": "5.255.99.75",
+    "port": 1080,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 60404,
+    "isp": "The Infrastructure Group B.V.",
+    "protocol": "socks5",
+    "speed_ms": "1468.12",
+    "anonymity": "anonymous",
+    "location": "Amsterdam",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "5.255.113.177",
+    "port": 1080,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 60404,
+    "isp": "The Infrastructure Group B.V.",
+    "protocol": "socks5",
+    "speed_ms": "1478.30",
+    "anonymity": "anonymous",
+    "location": "Dronten",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "5.255.117.127",
+    "port": 1080,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 60404,
+    "isp": "The Infrastructure Group B.V.",
+    "protocol": "socks5",
+    "speed_ms": "1751.68",
+    "anonymity": "anonymous",
+    "location": "Dronten",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "5.255.117.127",
+    "port": 1080,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 60404,
+    "isp": "The Infrastructure Group B.V.",
+    "protocol": "socks5",
+    "speed_ms": "3298.10",
+    "anonymity": "anonymous",
+    "location": "Dronten",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  }
+]

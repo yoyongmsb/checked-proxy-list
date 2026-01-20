@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "74.208.234.198",
+    "port": 443,
+    "country": "US",
+    "country_code": "US",
+    "asn": 8560,
+    "isp": "IONOS SE",
+    "protocol": "socks5",
+    "speed_ms": "637.13",
+    "anonymity": "anonymous",
+    "location": "Kansas City (Downtown Kansas City)",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  }
+]

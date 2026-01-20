@@ -1,0 +1,20 @@
+[
+  {
+    "ip": "160.250.5.22",
+    "port": 1,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 150895,
+    "isp": "EZ TECHNOLOGY COMPANY LIMITED",
+    "protocol": "http",
+    "speed_ms": "883.30",
+    "anonymity": "anonymous",
+    "location": "Hung Thanh",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

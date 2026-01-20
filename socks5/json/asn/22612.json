@@ -1,0 +1,46 @@
+[
+  {
+    "ip": "209.74.81.113",
+    "port": 1080,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 22612,
+    "isp": "Namecheap, Inc.",
+    "protocol": "socks5",
+    "speed_ms": "2260.56",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "209.74.81.113",
+    "port": 1080,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 22612,
+    "isp": "Namecheap, Inc.",
+    "protocol": "socks5",
+    "speed_ms": "2224.41",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  }
+]

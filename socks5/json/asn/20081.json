@@ -1,0 +1,110 @@
+[
+  {
+    "ip": "192.104.242.158",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks5",
+    "speed_ms": "2021.02",
+    "anonymity": "anonymous",
+    "location": "Duluth (Gwinnett Place)",
+    "valid_urls": []
+  },
+  {
+    "ip": "198.177.252.24",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks5",
+    "speed_ms": "4979.97",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": []
+  },
+  {
+    "ip": "198.177.254.131",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks5",
+    "speed_ms": "1412.65",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": []
+  },
+  {
+    "ip": "198.177.254.157",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks5",
+    "speed_ms": "1415.21",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "208.65.90.21",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks5",
+    "speed_ms": "2138.77",
+    "anonymity": "anonymous",
+    "location": "Duluth (Gwinnett Place)",
+    "valid_urls": []
+  },
+  {
+    "ip": "198.177.254.131",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks5",
+    "speed_ms": "1239.71",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": []
+  },
+  {
+    "ip": "198.177.253.13",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks5",
+    "speed_ms": "4313.87",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": []
+  },
+  {
+    "ip": "208.65.90.3",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks5",
+    "speed_ms": "1044.27",
+    "anonymity": "anonymous",
+    "location": "Duluth (Gwinnett Place)",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt"
+    ]
+  }
+]

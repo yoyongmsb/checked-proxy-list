@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "206.123.156.184",
+    "port": 6099,
+    "country": "US",
+    "country_code": "US",
+    "asn": 19871,
+    "isp": "Network Solutions, LLC",
+    "protocol": "socks5",
+    "speed_ms": "6413.29",
+    "anonymity": "anonymous",
+    "location": "Ashburn",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  }
+]

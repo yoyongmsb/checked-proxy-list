@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "115.23.88.118",
+    "port": 56452,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "socks4",
+    "speed_ms": "2230.63",
+    "anonymity": "anonymous",
+    "location": "Songjeong-dong",
+    "valid_urls": []
+  }
+]

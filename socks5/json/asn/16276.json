@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "46.105.189.70",
+    "port": 1090,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "socks5",
+    "speed_ms": "1549.28",
+    "anonymity": "anonymous",
+    "location": "Saarbrucken (Mitte)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  }
+]

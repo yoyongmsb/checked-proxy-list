@@ -1,0 +1,78 @@
+[
+  {
+    "ip": "47.82.66.142",
+    "port": 1080,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "socks5",
+    "speed_ms": "2351.34",
+    "anonymity": "anonymous",
+    "location": "Hong Kong",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "47.82.66.142",
+    "port": 1080,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "socks5",
+    "speed_ms": "2363.06",
+    "anonymity": "anonymous",
+    "location": "Hong Kong",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "43.99.243.123",
+    "port": 58367,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "socks5",
+    "speed_ms": "2090.85",
+    "anonymity": "anonymous",
+    "location": "Hong Kong",
+    "valid_urls": []
+  },
+  {
+    "ip": "43.99.243.123",
+    "port": 58367,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "socks5",
+    "speed_ms": "3397.33",
+    "anonymity": "anonymous",
+    "location": "Hong Kong",
+    "valid_urls": []
+  },
+  {
+    "ip": "13.70.6.6",
+    "port": 50161,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "socks5",
+    "speed_ms": "1552.91",
+    "anonymity": "anonymous",
+    "location": "Hong Kong",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  }
+]

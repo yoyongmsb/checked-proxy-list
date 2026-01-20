@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "213.35.110.67",
+    "port": 10855,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "socks5",
+    "speed_ms": "1703.12",
+    "anonymity": "anonymous",
+    "location": "Singapore (Loyang)",
+    "valid_urls": []
+  }
+]

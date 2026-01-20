@@ -1,0 +1,30 @@
+[
+  {
+    "ip": "34.44.49.215",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "http",
+    "speed_ms": "1284.32",
+    "anonymity": "anonymous",
+    "location": "Council Bluffs",
+    "valid_urls": []
+  },
+  {
+    "ip": "35.234.17.221",
+    "port": 8080,
+    "country": "TW",
+    "country_code": "TW",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "http",
+    "speed_ms": "1560.53",
+    "anonymity": "transparent",
+    "location": "Taoyuan",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  }
+]

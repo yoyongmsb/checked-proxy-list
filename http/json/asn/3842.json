@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "168.235.110.63",
+    "port": 3128,
+    "country": "US",
+    "country_code": "US",
+    "asn": 3842,
+    "isp": "InMotion Hosting, Inc.",
+    "protocol": "http",
+    "speed_ms": "721.75",
+    "anonymity": "anonymous",
+    "location": "Newark",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  }
+]

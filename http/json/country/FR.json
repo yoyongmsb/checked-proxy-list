@@ -1,0 +1,41 @@
+[
+  {
+    "ip": "141.253.118.174",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "http",
+    "speed_ms": "1533.41",
+    "anonymity": "anonymous",
+    "location": "Paris",
+    "valid_urls": []
+  },
+  {
+    "ip": "40.89.145.14",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "940.79",
+    "anonymity": "anonymous",
+    "location": "Paris",
+    "valid_urls": []
+  },
+  {
+    "ip": "40.89.145.14",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "979.56",
+    "anonymity": "anonymous",
+    "location": "Paris",
+    "valid_urls": []
+  }
+]

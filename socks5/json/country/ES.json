@@ -1,0 +1,32 @@
+[
+  {
+    "ip": "63.251.122.102",
+    "port": 1080,
+    "country": "ES",
+    "country_code": "ES",
+    "asn": 200220,
+    "isp": "servinga GmbH",
+    "protocol": "socks5",
+    "speed_ms": "1825.81",
+    "anonymity": "anonymous",
+    "location": "Barcelona",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "165.154.162.230",
+    "port": 1080,
+    "country": "ES",
+    "country_code": "ES",
+    "asn": 57269,
+    "isp": "DIGI SPAIN TELECOM S.L.U.",
+    "protocol": "socks5",
+    "speed_ms": "2280.91",
+    "anonymity": "anonymous",
+    "location": "Alcala de Henares",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  }
+]

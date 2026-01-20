@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "116.80.63.46",
+    "port": 7777,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 2514,
+    "isp": "NTT PC Communications, Inc.",
+    "protocol": "http",
+    "speed_ms": "2198.63",
+    "anonymity": "anonymous",
+    "location": "Chiyoda",
+    "valid_urls": [
+      "https://www.google.com/search?q=google"
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "ip": "61.91.162.126",
+    "port": 8080,
+    "country": "TH",
+    "country_code": "TH",
+    "asn": 131090,
+    "isp": "National Telecom Public Company Limited",
+    "protocol": "http",
+    "speed_ms": "1892.60",
+    "anonymity": "anonymous",
+    "location": "Bang Phli",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "103.10.231.189",
+    "port": 8080,
+    "country": "TH",
+    "country_code": "TH",
+    "asn": 131090,
+    "isp": "National Telecom Public Company Limited",
+    "protocol": "http",
+    "speed_ms": "1115.20",
+    "anonymity": "anonymous",
+    "location": "Bang Phli",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/"
+    ]
+  }
+]

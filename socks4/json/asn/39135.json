@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "77.238.79.111",
+    "port": 5678,
+    "country": "BG",
+    "country_code": "BG",
+    "asn": 39135,
+    "isp": "Fiber 1 Ltd.",
+    "protocol": "socks4",
+    "speed_ms": "4489.33",
+    "anonymity": "anonymous",
+    "location": "Sofia",
+    "valid_urls": []
+  }
+]

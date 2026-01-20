@@ -1,0 +1,19 @@
+[
+  {
+    "ip": "103.75.118.84",
+    "port": 1080,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 136258,
+    "isp": "BrainStorm Network, Inc",
+    "protocol": "socks4",
+    "speed_ms": "1784.84",
+    "anonymity": "anonymous",
+    "location": "Chiyoda City",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "ip": "156.244.39.41",
+    "port": 20002,
+    "country": "PE",
+    "country_code": "PE",
+    "asn": 138915,
+    "isp": "Kaopu Cloud HK Limited",
+    "protocol": "socks4",
+    "speed_ms": "1760.73",
+    "anonymity": "anonymous",
+    "location": "Lima",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "156.244.39.83",
+    "port": 20002,
+    "country": "PE",
+    "country_code": "PE",
+    "asn": 138915,
+    "isp": "Kaopu Cloud HK Limited",
+    "protocol": "socks4",
+    "speed_ms": "1280.22",
+    "anonymity": "anonymous",
+    "location": "Lima",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "156.244.39.37",
+    "port": 20002,
+    "country": "PE",
+    "country_code": "PE",
+    "asn": 138915,
+    "isp": "Kaopu Cloud HK Limited",
+    "protocol": "socks4",
+    "speed_ms": "1120.62",
+    "anonymity": "anonymous",
+    "location": "Lima",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "ip": "13.70.6.6",
+    "port": 50161,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "socks5",
+    "speed_ms": "1552.91",
+    "anonymity": "anonymous",
+    "location": "Hong Kong",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "20.3.145.242",
+    "port": 50161,
+    "country": "US",
+    "country_code": "US",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "socks5",
+    "speed_ms": "826.14",
+    "anonymity": "anonymous",
+    "location": "Redmond",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  }
+]

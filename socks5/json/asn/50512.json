@@ -1,0 +1,38 @@
+[
+  {
+    "ip": "185.208.74.38",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 50512,
+    "isp": "JSC \"ER-Telecom Holding\"",
+    "protocol": "socks5",
+    "speed_ms": "1721.63",
+    "anonymity": "anonymous",
+    "location": "Barnaul",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "185.208.74.38",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 50512,
+    "isp": "JSC \"ER-Telecom Holding\"",
+    "protocol": "socks5",
+    "speed_ms": "1400.64",
+    "anonymity": "anonymous",
+    "location": "Barnaul",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "ip": "43.160.195.20",
+    "port": 20005,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 132203,
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "protocol": "socks5",
+    "speed_ms": "2150.45",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "43.131.9.114",
+    "port": 1777,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 132203,
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "protocol": "socks5",
+    "speed_ms": "1881.74",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "43.131.9.114",
+    "port": 1777,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 132203,
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "protocol": "socks5",
+    "speed_ms": "1121.84",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "43.157.34.94",
+    "port": 1777,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 132203,
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "protocol": "socks5",
+    "speed_ms": "1617.42",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "43.160.195.20",
+    "port": 20005,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 132203,
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "protocol": "socks5",
+    "speed_ms": "1449.39",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "45.79.203.254",
+    "port": 48388,
+    "country": "US",
+    "country_code": "US",
+    "asn": 63949,
+    "isp": "Akamai Technologies, Inc.",
+    "protocol": "socks4",
+    "speed_ms": "5016.35",
+    "anonymity": "anonymous",
+    "location": "Atlanta",
+    "valid_urls": []
+  }
+]

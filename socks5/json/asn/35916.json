@@ -1,0 +1,44 @@
+[
+  {
+    "ip": "148.135.85.87",
+    "port": 1080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 35916,
+    "isp": "MULTACOM CORPORATION",
+    "protocol": "socks5",
+    "speed_ms": "1556.29",
+    "anonymity": "anonymous",
+    "location": "Las Vegas (Downtown Las Vegas)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "148.135.85.87",
+    "port": 1080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 35916,
+    "isp": "MULTACOM CORPORATION",
+    "protocol": "socks5",
+    "speed_ms": "1523.58",
+    "anonymity": "anonymous",
+    "location": "Las Vegas (Downtown Las Vegas)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  }
+]

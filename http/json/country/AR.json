@@ -1,0 +1,21 @@
+[
+  {
+    "ip": "187.102.219.34",
+    "port": 999,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 270004,
+    "isp": "CRETTON LISANDRO MAXIMILIANO (MISIOTECH)",
+    "protocol": "http",
+    "speed_ms": "882.92",
+    "anonymity": "anonymous",
+    "location": "Eldorado",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

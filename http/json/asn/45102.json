@@ -1,0 +1,108 @@
+[
+  {
+    "ip": "47.89.184.18",
+    "port": 3128,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1279.91",
+    "anonymity": "anonymous",
+    "location": "Charlottesville",
+    "valid_urls": []
+  },
+  {
+    "ip": "47.91.104.88",
+    "port": 3128,
+    "country": "AE",
+    "country_code": "AE",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "5259.55",
+    "anonymity": "anonymous",
+    "location": "Dubai",
+    "valid_urls": []
+  },
+  {
+    "ip": "47.91.65.23",
+    "port": 3128,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1181.24",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": []
+  },
+  {
+    "ip": "47.243.92.199",
+    "port": 3128,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "3214.31",
+    "anonymity": "anonymous",
+    "location": "Hong Kong",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "47.91.65.23",
+    "port": 3128,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1296.76",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": []
+  },
+  {
+    "ip": "8.209.255.13",
+    "port": 3128,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "5234.91",
+    "anonymity": "anonymous",
+    "location": "Shibuya City",
+    "valid_urls": []
+  },
+  {
+    "ip": "8.209.255.13",
+    "port": 3128,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1897.18",
+    "anonymity": "anonymous",
+    "location": "Shibuya City",
+    "valid_urls": []
+  },
+  {
+    "ip": "8.212.177.126",
+    "port": 8080,
+    "country": "PH",
+    "country_code": "PH",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2479.80",
+    "anonymity": "anonymous",
+    "location": "Manila",
+    "valid_urls": []
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "182.253.140.250",
+    "port": 5678,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 17451,
+    "isp": "BIZNET NETWORKS",
+    "protocol": "socks4",
+    "speed_ms": "2352.60",
+    "anonymity": "anonymous",
+    "location": "Legian",
+    "valid_urls": []
+  },
+  {
+    "ip": "103.154.113.245",
+    "port": 4153,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 131111,
+    "isp": "PT Mora Telematika Indonesia",
+    "protocol": "socks4",
+    "speed_ms": "2109.64",
+    "anonymity": "anonymous",
+    "location": "Jakarta",
+    "valid_urls": []
+  }
+]

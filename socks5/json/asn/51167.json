@@ -1,0 +1,122 @@
+[
+  {
+    "ip": "194.163.160.97",
+    "port": 10808,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 51167,
+    "isp": "Contabo GmbH",
+    "protocol": "socks5",
+    "speed_ms": "5493.63",
+    "anonymity": "anonymous",
+    "location": "London",
+    "valid_urls": []
+  },
+  {
+    "ip": "173.249.5.133",
+    "port": 1080,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 51167,
+    "isp": "Contabo GmbH",
+    "protocol": "socks5",
+    "speed_ms": "1458.38",
+    "anonymity": "anonymous",
+    "location": "Munich (Ramersdorf-Perlach)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "185.202.236.78",
+    "port": 1080,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 51167,
+    "isp": "Contabo GmbH",
+    "protocol": "socks5",
+    "speed_ms": "1440.55",
+    "anonymity": "anonymous",
+    "location": "Hamburg",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  },
+  {
+    "ip": "173.249.5.133",
+    "port": 1080,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 51167,
+    "isp": "Contabo GmbH",
+    "protocol": "socks5",
+    "speed_ms": "1315.73",
+    "anonymity": "anonymous",
+    "location": "Munich (Ramersdorf-Perlach)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "194.163.182.6",
+    "port": 1080,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 51167,
+    "isp": "Contabo GmbH",
+    "protocol": "socks5",
+    "speed_ms": "1086.56",
+    "anonymity": "anonymous",
+    "location": "London",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "194.163.182.6",
+    "port": 1080,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 51167,
+    "isp": "Contabo GmbH",
+    "protocol": "socks5",
+    "speed_ms": "1044.49",
+    "anonymity": "anonymous",
+    "location": "London",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  }
+]

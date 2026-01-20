@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "44.255.16.68",
+    "port": 60000,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 577,
+    "isp": "Bell Canada",
+    "protocol": "http",
+    "speed_ms": "2719.24",
+    "anonymity": "anonymous",
+    "location": "Fallingbrook",
+    "valid_urls": []
+  }
+]

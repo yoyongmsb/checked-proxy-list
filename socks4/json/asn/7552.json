@@ -1,0 +1,41 @@
+[
+  {
+    "ip": "117.1.48.242",
+    "port": 20053,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 7552,
+    "isp": "Viettel Group",
+    "protocol": "socks4",
+    "speed_ms": "2327.18",
+    "anonymity": "anonymous",
+    "location": "Hanoi",
+    "valid_urls": []
+  },
+  {
+    "ip": "117.1.48.242",
+    "port": 20028,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 7552,
+    "isp": "Viettel Group",
+    "protocol": "socks4",
+    "speed_ms": "2341.24",
+    "anonymity": "anonymous",
+    "location": "Hanoi",
+    "valid_urls": []
+  },
+  {
+    "ip": "117.1.48.242",
+    "port": 20047,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 7552,
+    "isp": "Viettel Group",
+    "protocol": "socks4",
+    "speed_ms": "2215.57",
+    "anonymity": "anonymous",
+    "location": "Dong Hung",
+    "valid_urls": []
+  }
+]

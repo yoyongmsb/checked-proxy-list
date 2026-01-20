@@ -1,0 +1,67 @@
+[
+  {
+    "ip": "97.74.87.226",
+    "port": 80,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 26496,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "http",
+    "speed_ms": "1637.99",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": []
+  },
+  {
+    "ip": "156.146.56.231",
+    "port": 8082,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 60068,
+    "isp": "Datacamp Limited",
+    "protocol": "http",
+    "speed_ms": "1519.55",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": []
+  },
+  {
+    "ip": "156.146.56.231",
+    "port": 8081,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 60068,
+    "isp": "Datacamp Limited",
+    "protocol": "http",
+    "speed_ms": "1275.05",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": []
+  },
+  {
+    "ip": "156.146.56.231",
+    "port": 8082,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 60068,
+    "isp": "Datacamp Limited",
+    "protocol": "http",
+    "speed_ms": "1150.17",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": []
+  },
+  {
+    "ip": "156.146.56.231",
+    "port": 8081,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 60068,
+    "isp": "Datacamp Limited",
+    "protocol": "http",
+    "speed_ms": "1116.39",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": []
+  }
+]

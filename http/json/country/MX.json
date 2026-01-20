@@ -1,0 +1,81 @@
+[
+  {
+    "ip": "187.251.224.167",
+    "port": 8081,
+    "country": "MX",
+    "country_code": "MX",
+    "asn": 22884,
+    "isp": "TOTAL PLAY TELECOMUNICACIONES SA DE CV",
+    "protocol": "http",
+    "speed_ms": "1851.95",
+    "anonymity": "anonymous",
+    "location": "Leon",
+    "valid_urls": []
+  },
+  {
+    "ip": "201.134.41.110",
+    "port": 443,
+    "country": "MX",
+    "country_code": "MX",
+    "asn": 8151,
+    "isp": "Uninet S.A. de C.V.",
+    "protocol": "http",
+    "speed_ms": "1335.24",
+    "anonymity": "anonymous",
+    "location": "Anahuac (Revolucion)",
+    "valid_urls": []
+  },
+  {
+    "ip": "177.243.209.133",
+    "port": 999,
+    "country": "MX",
+    "country_code": "MX",
+    "asn": 13999,
+    "isp": "Mega Cable, S.A. de C.V.",
+    "protocol": "http",
+    "speed_ms": "2340.81",
+    "anonymity": "anonymous",
+    "location": "Guadalajara (Del Fresno)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "138.186.200.253",
+    "port": 8081,
+    "country": "MX",
+    "country_code": "MX",
+    "asn": 32098,
+    "isp": "Transtelco Inc",
+    "protocol": "http",
+    "speed_ms": "957.44",
+    "anonymity": "anonymous",
+    "location": "Magdalena Contreras",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "177.243.209.133",
+    "port": 999,
+    "country": "MX",
+    "country_code": "MX",
+    "asn": 13999,
+    "isp": "Mega Cable, S.A. de C.V.",
+    "protocol": "http",
+    "speed_ms": "2170.54",
+    "anonymity": "anonymous",
+    "location": "Guadalajara (Del Fresno)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  }
+]

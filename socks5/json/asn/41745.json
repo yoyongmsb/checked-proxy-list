@@ -1,0 +1,20 @@
+[
+  {
+    "ip": "185.65.202.186",
+    "port": 1080,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 41745,
+    "isp": "Baykov Ilya Sergeevich",
+    "protocol": "socks5",
+    "speed_ms": "1079.91",
+    "anonymity": "anonymous",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  }
+]

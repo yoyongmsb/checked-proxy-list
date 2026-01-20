@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "154.17.224.118",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 906,
+    "isp": "DMIT Cloud Services",
+    "protocol": "http",
+    "speed_ms": "920.25",
+    "anonymity": "anonymous",
+    "location": "Los Angeles (Central-Alameda)",
+    "valid_urls": []
+  },
+  {
+    "ip": "154.17.228.122",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 906,
+    "isp": "DMIT Cloud Services",
+    "protocol": "http",
+    "speed_ms": "897.56",
+    "anonymity": "anonymous",
+    "location": "Los Angeles (Central-Alameda)",
+    "valid_urls": []
+  }
+]

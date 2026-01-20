@@ -1,0 +1,34 @@
+[
+  {
+    "ip": "175.138.231.145",
+    "port": 80,
+    "country": "MY",
+    "country_code": "MY",
+    "asn": 4788,
+    "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+    "protocol": "http",
+    "speed_ms": "4347.23",
+    "anonymity": "anonymous",
+    "location": "Kuala Lumpur (Kampung Attap)",
+    "valid_urls": []
+  },
+  {
+    "ip": "103.86.131.62",
+    "port": 80,
+    "country": "MY",
+    "country_code": "MY",
+    "asn": 133169,
+    "isp": "University Malaysia Perlis",
+    "protocol": "http",
+    "speed_ms": "1475.31",
+    "anonymity": "anonymous",
+    "location": "Arau",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

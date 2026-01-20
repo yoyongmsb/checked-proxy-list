@@ -1,0 +1,17 @@
+[
+  {
+    "ip": "63.251.122.102",
+    "port": 1080,
+    "country": "ES",
+    "country_code": "ES",
+    "asn": 200220,
+    "isp": "servinga GmbH",
+    "protocol": "socks5",
+    "speed_ms": "1825.81",
+    "anonymity": "anonymous",
+    "location": "Barcelona",
+    "valid_urls": [
+      "https://x.com/"
+    ]
+  }
+]

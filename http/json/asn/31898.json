@@ -1,0 +1,28 @@
+[
+  {
+    "ip": "141.253.118.174",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "http",
+    "speed_ms": "1533.41",
+    "anonymity": "anonymous",
+    "location": "Paris",
+    "valid_urls": []
+  },
+  {
+    "ip": "140.238.9.210",
+    "port": 8080,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "http",
+    "speed_ms": "1122.49",
+    "anonymity": "anonymous",
+    "location": "Yangcheondong",
+    "valid_urls": []
+  }
+]

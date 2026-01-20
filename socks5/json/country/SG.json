@@ -1,0 +1,185 @@
+[
+  {
+    "ip": "194.233.68.54",
+    "port": 1088,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 141995,
+    "isp": "Contabo Asia Private Limited",
+    "protocol": "socks5",
+    "speed_ms": "2477.16",
+    "anonymity": "anonymous",
+    "location": "Singapore (Downtown Core)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "43.160.195.20",
+    "port": 20005,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 132203,
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "protocol": "socks5",
+    "speed_ms": "2150.45",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "194.233.68.54",
+    "port": 1088,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 141995,
+    "isp": "Contabo Asia Private Limited",
+    "protocol": "socks5",
+    "speed_ms": "2319.61",
+    "anonymity": "anonymous",
+    "location": "Singapore (Downtown Core)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "209.74.81.113",
+    "port": 1080,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 22612,
+    "isp": "Namecheap, Inc.",
+    "protocol": "socks5",
+    "speed_ms": "2260.56",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "209.74.81.113",
+    "port": 1080,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 22612,
+    "isp": "Namecheap, Inc.",
+    "protocol": "socks5",
+    "speed_ms": "2224.41",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "159.223.53.194",
+    "port": 1080,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "2082.96",
+    "anonymity": "anonymous",
+    "location": "Singapore (Pioneer)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "159.223.53.194",
+    "port": 1080,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "2004.05",
+    "anonymity": "anonymous",
+    "location": "Singapore (Pioneer)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "43.160.195.20",
+    "port": 20005,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 132203,
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "protocol": "socks5",
+    "speed_ms": "1449.39",
+    "anonymity": "anonymous",
+    "location": "Singapore",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "213.35.110.67",
+    "port": 10855,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "socks5",
+    "speed_ms": "1703.12",
+    "anonymity": "anonymous",
+    "location": "Singapore (Loyang)",
+    "valid_urls": []
+  }
+]

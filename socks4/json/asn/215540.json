@@ -1,0 +1,42 @@
+[
+  {
+    "ip": "178.130.47.15",
+    "port": 8080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 215540,
+    "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+    "protocol": "socks4",
+    "speed_ms": "1496.54",
+    "anonymity": "anonymous",
+    "location": "Phoenix",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "178.130.47.15",
+    "port": 8080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 215540,
+    "isp": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+    "protocol": "socks4",
+    "speed_ms": "1643.65",
+    "anonymity": "anonymous",
+    "location": "Phoenix",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  }
+]

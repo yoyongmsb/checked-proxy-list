@@ -1,0 +1,22 @@
+[
+  {
+    "ip": "83.228.224.172",
+    "port": 1090,
+    "country": "DZ",
+    "country_code": "DZ",
+    "asn": 36947,
+    "isp": "Telecom Algeria",
+    "protocol": "socks5",
+    "speed_ms": "1394.52",
+    "anonymity": "anonymous",
+    "location": "Algiers (Algiers [El Djazair])",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://www.google.com/search?q=google",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

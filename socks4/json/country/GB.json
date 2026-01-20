@@ -1,0 +1,55 @@
+[
+  {
+    "ip": "194.163.160.97",
+    "port": 10808,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 51167,
+    "isp": "Contabo GmbH",
+    "protocol": "socks4",
+    "speed_ms": "3149.91",
+    "anonymity": "anonymous",
+    "location": "London",
+    "valid_urls": []
+  },
+  {
+    "ip": "192.252.210.233",
+    "port": 4145,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "842.60",
+    "anonymity": "anonymous",
+    "location": "London",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "192.252.210.233",
+    "port": 4145,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks4",
+    "speed_ms": "735.50",
+    "anonymity": "anonymous",
+    "location": "London",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  }
+]

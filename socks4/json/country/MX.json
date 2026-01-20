@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "156.244.2.102",
+    "port": 20002,
+    "country": "MX",
+    "country_code": "MX",
+    "asn": 138915,
+    "isp": "Kaopu Cloud HK Limited",
+    "protocol": "socks4",
+    "speed_ms": "1485.86",
+    "anonymity": "anonymous",
+    "location": "Mexico City",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  }
+]

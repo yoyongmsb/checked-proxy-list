@@ -1,0 +1,48 @@
+[
+  {
+    "ip": "117.1.48.242",
+    "port": 20045,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 7552,
+    "isp": "Viettel Group",
+    "protocol": "socks5",
+    "speed_ms": "2693.84",
+    "anonymity": "anonymous",
+    "location": "Hanoi",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  },
+  {
+    "ip": "117.1.48.242",
+    "port": 20076,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 7552,
+    "isp": "Viettel Group",
+    "protocol": "socks5",
+    "speed_ms": "2345.78",
+    "anonymity": "anonymous",
+    "location": "Hanoi",
+    "valid_urls": []
+  },
+  {
+    "ip": "160.250.5.22",
+    "port": 1,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 150895,
+    "isp": "EZ TECHNOLOGY COMPANY LIMITED",
+    "protocol": "socks5",
+    "speed_ms": "1591.02",
+    "anonymity": "anonymous",
+    "location": "Hung Thanh",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "ip": "103.113.70.189",
+    "port": 1081,
+    "country": "US",
+    "country_code": "US",
+    "asn": 209847,
+    "isp": "WorkTitans B.V.",
+    "protocol": "socks4",
+    "speed_ms": "784.16",
+    "anonymity": "anonymous",
+    "location": "Secaucus",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  }
+]

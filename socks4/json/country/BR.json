@@ -1,0 +1,19 @@
+[
+  {
+    "ip": "38.54.57.26",
+    "port": 20002,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 138915,
+    "isp": "Kaopu Cloud HK Limited",
+    "protocol": "socks4",
+    "speed_ms": "1796.31",
+    "anonymity": "anonymous",
+    "location": "Sao Paulo",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  }
+]

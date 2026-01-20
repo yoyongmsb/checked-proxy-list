@@ -1,0 +1,108 @@
+[
+  {
+    "ip": "212.34.135.86",
+    "port": 5000,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 216071,
+    "isp": "SERVERS TECH FZCO",
+    "protocol": "socks5",
+    "speed_ms": "1546.10",
+    "anonymity": "anonymous",
+    "location": "Amsterdam",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "77.246.111.238",
+    "port": 1080,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 216071,
+    "isp": "SERVERS TECH FZCO",
+    "protocol": "socks5",
+    "speed_ms": "1697.68",
+    "anonymity": "anonymous",
+    "location": "Amsterdam",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "93.183.124.28",
+    "port": 1080,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 216071,
+    "isp": "SERVERS TECH FZCO",
+    "protocol": "socks5",
+    "speed_ms": "2398.16",
+    "anonymity": "anonymous",
+    "location": "Amsterdam",
+    "valid_urls": []
+  },
+  {
+    "ip": "77.246.111.238",
+    "port": 1080,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 216071,
+    "isp": "SERVERS TECH FZCO",
+    "protocol": "socks5",
+    "speed_ms": "1622.30",
+    "anonymity": "anonymous",
+    "location": "Amsterdam",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "88.210.11.250",
+    "port": 1080,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 216071,
+    "isp": "SERVERS TECH FZCO",
+    "protocol": "socks5",
+    "speed_ms": "1480.81",
+    "anonymity": "anonymous",
+    "location": "Amsterdam",
+    "valid_urls": []
+  },
+  {
+    "ip": "212.34.135.86",
+    "port": 5000,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 216071,
+    "isp": "SERVERS TECH FZCO",
+    "protocol": "socks5",
+    "speed_ms": "1043.30",
+    "anonymity": "anonymous",
+    "location": "Amsterdam",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  }
+]

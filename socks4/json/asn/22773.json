@@ -1,0 +1,1739 @@
+[
+  {
+    "ip": "184.182.240.12",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1872.62",
+    "anonymity": "anonymous",
+    "location": "Macon",
+    "valid_urls": []
+  },
+  {
+    "ip": "184.181.217.194",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1841.71",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.181.137.80",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1639.08",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.26",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1577.95",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.26",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1482.65",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.191.0.37",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1480.45",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.14",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1477.88",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.181.217.201",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1335.30",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.206.74.126",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1643.40",
+    "anonymity": "anonymous",
+    "location": "Reston",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.23",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1659.55",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.190.239.3",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1461.25",
+    "anonymity": "anonymous",
+    "location": "Buhler",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "68.1.210.189",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1597.74",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.170.57.249",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1442.72",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Perimeter Center)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.211.46.124",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1618.18",
+    "anonymity": "anonymous",
+    "location": "Oklahoma City",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.211.46.124",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1636.46",
+    "anonymity": "anonymous",
+    "location": "Oklahoma City",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.181.217.213",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1398.49",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.170.57.231",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1384.57",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Perimeter Center)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.5",
+    "port": 15303,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1440.77",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "68.1.210.163",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1534.48",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.181.217.206",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1544.38",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.188.47.132",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1519.59",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.17",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1463.25",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.11",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1420.77",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.181.217.210",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1419.11",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.195.34.41",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1457.96",
+    "anonymity": "anonymous",
+    "location": "Irvine",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.185.2.12",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1631.74",
+    "anonymity": "anonymous",
+    "location": "Ashburn",
+    "valid_urls": []
+  },
+  {
+    "ip": "72.195.114.169",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1476.35",
+    "anonymity": "anonymous",
+    "location": "Irvine",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/"
+    ]
+  },
+  {
+    "ip": "72.207.109.5",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1318.92",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.3",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1316.72",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "174.64.199.82",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1382.98",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.207.113.97",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1618.12",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "174.77.111.197",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1441.20",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.181.178.33",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1439.62",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.223.188.67",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "2768.38",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "174.77.111.196",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1240.74",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/"
+    ]
+  },
+  {
+    "ip": "174.64.199.79",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1417.93",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "70.166.65.160",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1686.74",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.182.171.161",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1280.74",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.207.109.5",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1307.22",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.18",
+    "port": 15280,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1263.11",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.191.0.47",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1721.83",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "68.1.210.163",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1380.49",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.182.240.211",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1540.16",
+    "anonymity": "anonymous",
+    "location": "Macon",
+    "valid_urls": []
+  },
+  {
+    "ip": "184.178.172.14",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1417.17",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.181.217.220",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1222.79",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.170.57.241",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1159.02",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Perimeter Center)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.195.34.41",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1383.05",
+    "anonymity": "anonymous",
+    "location": "Irvine",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.181.217.206",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1214.62",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.181.137.83",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1377.17",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "174.75.211.193",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1277.93",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "70.166.167.55",
+    "port": 57745,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1184.00",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.195.34.35",
+    "port": 27360,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1277.92",
+    "anonymity": "anonymous",
+    "location": "Irvine",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "68.1.210.189",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1275.01",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "24.249.199.4",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "2226.93",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.170.57.249",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1654.13",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Perimeter Center)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.13",
+    "port": 15311,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1175.75",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.188.47.132",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1180.86",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.205.0.93",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1320.97",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Perimeter Center)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/"
+    ]
+  },
+  {
+    "ip": "70.166.167.55",
+    "port": 57745,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1163.60",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.182.147.97",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1186.23",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "174.77.111.197",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1299.26",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.195.34.58",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1219.58",
+    "anonymity": "anonymous",
+    "location": "Irvine",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.195.34.60",
+    "port": 27391,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "4027.57",
+    "anonymity": "anonymous",
+    "location": "Irvine",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "70.166.65.160",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1261.52",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.182.240.211",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1282.05",
+    "anonymity": "anonymous",
+    "location": "Macon",
+    "valid_urls": []
+  },
+  {
+    "ip": "184.181.217.210",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1019.52",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.178.72.21",
+    "port": 10919,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1018.76",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.175.31.222",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1161.20",
+    "anonymity": "anonymous",
+    "location": "Norfolk",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.3",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1078.12",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.175.31.195",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1114.65",
+    "anonymity": "anonymous",
+    "location": "Norfolk",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.175.31.195",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1141.49",
+    "anonymity": "anonymous",
+    "location": "Norfolk",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.191.0.37",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "3819.42",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.214.108.67",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1080.71",
+    "anonymity": "anonymous",
+    "location": "East Irvine (Irvine Research Center)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "174.75.211.222",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1077.96",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.190.239.3",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1125.77",
+    "anonymity": "anonymous",
+    "location": "Buhler",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.181.217.201",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1045.07",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.178.72.30",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1105.06",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.207.33.64",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "2122.21",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.195.34.59",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1136.58",
+    "anonymity": "anonymous",
+    "location": "Irvine",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.207.113.97",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1136.96",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.195.34.58",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1138.81",
+    "anonymity": "anonymous",
+    "location": "Irvine",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.181.217.220",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "999.24",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.181.217.213",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1165.01",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.181.137.83",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1101.09",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.11",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1020.59",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.17",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "994.14",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.223.188.92",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "878.26",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.28",
+    "port": 15294,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "780.86",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.191.0.47",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "796.95",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.185.2.12",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "1224.36",
+    "anonymity": "anonymous",
+    "location": "Ashburn",
+    "valid_urls": []
+  },
+  {
+    "ip": "98.170.57.231",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "784.39",
+    "anonymity": "anonymous",
+    "location": "Atlanta (Perimeter Center)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "72.223.188.92",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "782.98",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "184.178.172.13",
+    "port": 15311,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "839.90",
+    "anonymity": "anonymous",
+    "location": "Roanoke",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "98.182.171.161",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks4",
+    "speed_ms": "735.06",
+    "anonymity": "anonymous",
+    "location": "Pensacola",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://x.com/"
+    ]
+  }
+]

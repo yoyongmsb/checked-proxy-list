@@ -1,0 +1,38 @@
+[
+  {
+    "ip": "177.243.209.133",
+    "port": 999,
+    "country": "MX",
+    "country_code": "MX",
+    "asn": 13999,
+    "isp": "Mega Cable, S.A. de C.V.",
+    "protocol": "http",
+    "speed_ms": "2340.81",
+    "anonymity": "anonymous",
+    "location": "Guadalajara (Del Fresno)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "177.243.209.133",
+    "port": 999,
+    "country": "MX",
+    "country_code": "MX",
+    "asn": 13999,
+    "isp": "Mega Cable, S.A. de C.V.",
+    "protocol": "http",
+    "speed_ms": "2170.54",
+    "anonymity": "anonymous",
+    "location": "Guadalajara (Del Fresno)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  }
+]

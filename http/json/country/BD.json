@@ -1,0 +1,41 @@
+[
+  {
+    "ip": "113.212.111.4",
+    "port": 8090,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 136224,
+    "isp": "City Online Ltd.",
+    "protocol": "http",
+    "speed_ms": "1599.47",
+    "anonymity": "anonymous",
+    "location": "Tongi",
+    "valid_urls": []
+  },
+  {
+    "ip": "103.125.31.222",
+    "port": 80,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 138418,
+    "isp": "City Link Communication",
+    "protocol": "http",
+    "speed_ms": "3535.55",
+    "anonymity": "anonymous",
+    "location": "Narayanganj",
+    "valid_urls": []
+  },
+  {
+    "ip": "103.125.31.222",
+    "port": 80,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 138418,
+    "isp": "City Link Communication",
+    "protocol": "http",
+    "speed_ms": "1505.91",
+    "anonymity": "anonymous",
+    "location": "Narayanganj",
+    "valid_urls": []
+  }
+]

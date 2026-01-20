@@ -1,0 +1,41 @@
+[
+  {
+    "ip": "23.88.88.102",
+    "port": 443,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "http",
+    "speed_ms": "1342.91",
+    "anonymity": "anonymous",
+    "location": "Nuremberg",
+    "valid_urls": []
+  },
+  {
+    "ip": "23.88.88.102",
+    "port": 80,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "http",
+    "speed_ms": "923.89",
+    "anonymity": "anonymous",
+    "location": "Nuremberg",
+    "valid_urls": []
+  },
+  {
+    "ip": "128.140.123.77",
+    "port": 8888,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "http",
+    "speed_ms": "781.35",
+    "anonymity": "anonymous",
+    "location": "Falkenstein",
+    "valid_urls": []
+  }
+]

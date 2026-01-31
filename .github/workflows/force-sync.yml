@@ -1,0 +1,56 @@
+name: Auto Sync (Stable 10m)
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # GANTI KE 10 MENIT AGAR LEBIH STABIL
+  workflow_dispatch:        # Tombol manual tetap ada
+
+permissions:
+  contents: write
+
+jobs:
+  migrate-and-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Add Upstream (ClearProxy)
+        run: git remote add upstream https://github.com/ClearProxy/checked-proxy-list.git
+
+      - name: NUCLEAR SYNC (Stable Mode)
+        run: |
+          # 1. Backup folder script kita ke tempat aman (/tmp)
+          echo "Backing up workflows..."
+          cp -r .github /tmp/github_backup
+
+          # 2. Ambil seluruh data dari ClearProxy
+          echo "Fetching from ClearProxy..."
+          git fetch upstream main --force
+
+          # 3. TRANSPLANTASI TOTAL:
+          git checkout -B main upstream/main
+
+          # 4. Hapus folder .github bawaan ClearProxy (jika ada)
+          rm -rf .github
+
+          # 5. Kembalikan folder script kita dari backup
+          echo "Restoring workflows..."
+          cp -r /tmp/github_backup .github
+
+          # 6. Tambahkan ke staging area
+          git add .github
+
+          # 7. Commit dan Force Push dengan WAKTU DINAMIS
+          # Fungsi $(date) akan mencetak jam saat ini ke pesan commit
+          git commit -m "Auto Sync Proxy: $(date)" || echo "Workflow already saved"
+          
+          git push -f origin main
